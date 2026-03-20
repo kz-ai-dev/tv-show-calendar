@@ -15,6 +15,7 @@ SHOWS = [
     (65876, "Hell's Paradise: Jigokuraku"),
     (61739, "Hijack"),
     (48450, "Jujutsu Kaisen"),  # Includes ALL seasons (S1, S2, S3 The Culling Game)
+    (37196, "Invincible"),  # Seasons 1-4 (32+ episodes)
 ]
 
 def fetch_episodes(show_id):
