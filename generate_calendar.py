@@ -17,6 +17,7 @@ SHOWS = [
     (61739, "Hijack"),
     (48450, "Jujutsu Kaisen"),  # Includes ALL seasons (S1, S2, S3 The Culling Game)
     (37196, "Invincible"),  # Seasons 1-4 (32+ episodes)
+    (14459, "Re:Zero kara Hajimeru Isekai Seikatsu"),
 ]
 
 def fetch_episodes(show_id):
