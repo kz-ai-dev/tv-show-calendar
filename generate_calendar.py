@@ -14,6 +14,7 @@ import pytz
 SHOWS = [
     (15299, "The Boys"),
     (63234, "Daredevil: Born Again"),
+    (69956, "Frieren: Beyond Journey's End"),
     (65876, "Hell's Paradise: Jigokuraku"),
     (61739, "Hijack"),
     (48450, "Jujutsu Kaisen"),  # Includes ALL seasons (S1, S2, S3 The Culling Game)

@@ -9,10 +9,10 @@ BEGIN:VEVENT
 SUMMARY:The Boys - S01E01: The Name of the Game
 DTSTART;TZID=America/New_York:20190726T120000
 DTEND;TZID=America/New_York:20190726T130000
-DTSTAMP:20260410T091133Z
+DTSTAMP:20260426T073440Z
 UID:tvshow-15299-s1e1@kz-ai-dev.github.io
 CATEGORIES:TV Show,Prime Video
-CREATED:20260410T091133Z
+CREATED:20260426T073440Z
 DESCRIPTION:Show: The Boys\nEpisode: The Name of the Game\nSeason 1\, Epis
  ode 1\nNetwork/Platform: Prime Video\nRuntime: 60 min\n\nIn a world where 
  super-powered "Supes" exist and can do whatever they want with the help of
@@ -27,10 +27,10 @@ BEGIN:VEVENT
 SUMMARY:The Boys - S01E02: Cherry
 DTSTART;TZID=America/New_York:20190726T120000
 DTEND;TZID=America/New_York:20190726T125900
-DTSTAMP:20260410T091133Z
+DTSTAMP:20260426T073440Z
 UID:tvshow-15299-s1e2@kz-ai-dev.github.io
 CATEGORIES:TV Show,Prime Video
-CREATED:20260410T091133Z
+CREATED:20260426T073440Z
 DESCRIPTION:Show: The Boys\nEpisode: Cherry\nSeason 1\, Episode 2\nNetwork
  /Platform: Prime Video\nRuntime: 59 min\n\nBilly goes to a "top man" to fi
  gure out how to deal with Translucent's impenetrable skin. Madelyn seeks l
@@ -42,10 +42,10 @@ BEGIN:VEVENT
 SUMMARY:The Boys - S01E03: Get Some
 DTSTART;TZID=America/New_York:20190726T120000
 DTEND;TZID=America/New_York:20190726T125500
-DTSTAMP:20260410T091133Z
+DTSTAMP:20260426T073440Z
 UID:tvshow-15299-s1e3@kz-ai-dev.github.io
 CATEGORIES:TV Show,Prime Video
-CREATED:20260410T091133Z
+CREATED:20260426T073440Z
 DESCRIPTION:Show: The Boys\nEpisode: Get Some\nSeason 1\, Episode 3\nNetwo
  rk/Platform: Prime Video\nRuntime: 55 min\n\nBilly recruits another former
   member of the team\, and looks Homelander in the eye. A-Train races Shock
@@ -56,10 +56,10 @@ BEGIN:VEVENT
 SUMMARY:The Boys - S01E04: The Female of the Species
 DTSTART;TZID=America/New_York:20190726T120000
 DTEND;TZID=America/New_York:20190726T125700
-DTSTAMP:20260410T091133Z
+DTSTAMP:20260426T073440Z
 UID:tvshow-15299-s1e4@kz-ai-dev.github.io
 CATEGORIES:TV Show,Prime Video
-CREATED:20260410T091133Z
+CREATED:20260426T073440Z
 DESCRIPTION:Show: The Boys\nEpisode: The Female of the Species\nSeason 1\,
   Episode 4\nNetwork/Platform: Prime Video\nRuntime: 57 min\n\nWhile Billy\
  , Mother's Milk\, and Frenchie track down A-Train's V connection and meet 
@@ -72,10 +72,10 @@ BEGIN:VEVENT
 SUMMARY:The Boys - S01E05: Good for the Soul
 DTSTART;TZID=America/New_York:20190726T120000
 DTEND;TZID=America/New_York:20190726T130000
-DTSTAMP:20260410T091133Z
+DTSTAMP:20260426T073440Z
 UID:tvshow-15299-s1e5@kz-ai-dev.github.io
 CATEGORIES:TV Show,Prime Video
-CREATED:20260410T091133Z
+CREATED:20260426T073440Z
 DESCRIPTION:Show: The Boys\nEpisode: Good for the Soul\nSeason 1\, Episode
   5\nNetwork/Platform: Prime Video\nRuntime: 60 min\n\nAt the Believe Expo\
  , Homelander and Starlight both go off script and Madelyn isn't happy. Hug
@@ -89,10 +89,10 @@ BEGIN:VEVENT
 SUMMARY:The Boys - S01E06: The Innocents
 DTSTART;TZID=America/New_York:20190726T120000
 DTEND;TZID=America/New_York:20190726T130000
-DTSTAMP:20260410T091133Z
+DTSTAMP:20260426T073440Z
 UID:tvshow-15299-s1e6@kz-ai-dev.github.io
 CATEGORIES:TV Show,Prime Video
-CREATED:20260410T091133Z
+CREATED:20260426T073440Z
 DESCRIPTION:Show: The Boys\nEpisode: The Innocents\nSeason 1\, Episode 6\n
  Network/Platform: Prime Video\nRuntime: 60 min\n\nMother's Milk finds a Su
  pe who can read the Woman's mind and find out her backstory. Vought forces
@@ -104,10 +104,10 @@ BEGIN:VEVENT
 SUMMARY:The Boys - S01E07: The Self-Preservation Society
 DTSTART;TZID=America/New_York:20190726T120000
 DTEND;TZID=America/New_York:20190726T125600
-DTSTAMP:20260410T091133Z
+DTSTAMP:20260426T073440Z
 UID:tvshow-15299-s1e7@kz-ai-dev.github.io
 CATEGORIES:TV Show,Prime Video
-CREATED:20260410T091133Z
+CREATED:20260426T073440Z
 DESCRIPTION:Show: The Boys\nEpisode: The Self-Preservation Society\nSeason
   1\, Episode 7\nNetwork/Platform: Prime Video\nRuntime: 56 min\n\nBilly ha
  s a meeting of minds with Mesmer after learning that he burned the Boys. T
@@ -120,10 +120,10 @@ BEGIN:VEVENT
 SUMMARY:The Boys - S01E08: You Found Me
 DTSTART;TZID=America/New_York:20190726T120000
 DTEND;TZID=America/New_York:20190726T130700
-DTSTAMP:20260410T091133Z
+DTSTAMP:20260426T073440Z
 UID:tvshow-15299-s1e8@kz-ai-dev.github.io
 CATEGORIES:TV Show,Prime Video
-CREATED:20260410T091133Z
+CREATED:20260426T073440Z
 DESCRIPTION:Show: The Boys\nEpisode: You Found Me\nSeason 1\, Episode 8\nN
  etwork/Platform: Prime Video\nRuntime: 67 min\n\nThe Deep has a close shav
  e in Sandusky\, Hughie and Annie have an argument\, Frenchie\, Mother's Mi
@@ -135,10 +135,10 @@ BEGIN:VEVENT
 SUMMARY:The Boys - S02E01: The Big Ride
 DTSTART;TZID=America/New_York:20200904T120000
 DTEND;TZID=America/New_York:20200904T130300
-DTSTAMP:20260410T091133Z
+DTSTAMP:20260426T073440Z
 UID:tvshow-15299-s2e1@kz-ai-dev.github.io
 CATEGORIES:TV Show,Prime Video
-CREATED:20260410T091133Z
+CREATED:20260426T073440Z
 DESCRIPTION:Show: The Boys\nEpisode: The Big Ride\nSeason 2\, Episode 1\nN
  etwork/Platform: Prime Video\nRuntime: 63 min\n\nSeason 2! New and improve
  d! Now with 50% more explosive decapitations\, terrorists\, S&amp\;M hooke
@@ -155,10 +155,10 @@ BEGIN:VEVENT
 SUMMARY:The Boys - S02E02: Proper Preparation and Planning
 DTSTART;TZID=America/New_York:20200904T120000
 DTEND;TZID=America/New_York:20200904T125900
-DTSTAMP:20260410T091133Z
+DTSTAMP:20260426T073440Z
 UID:tvshow-15299-s2e2@kz-ai-dev.github.io
 CATEGORIES:TV Show,Prime Video
-CREATED:20260410T091133Z
+CREATED:20260426T073440Z
 DESCRIPTION:Show: The Boys\nEpisode: Proper Preparation and Planning\nSeas
  on 2\, Episode 2\nNetwork/Platform: Prime Video\nRuntime: 59 min\n\nThe Bo
  ys get themselves a Super Terrorist\, Starlight gets evidence against Voug
@@ -172,10 +172,10 @@ BEGIN:VEVENT
 SUMMARY:The Boys - S02E03: Over the Hill with the Swords of a Thousand Men
 DTSTART;TZID=America/New_York:20200904T120000
 DTEND;TZID=America/New_York:20200904T125900
-DTSTAMP:20260410T091133Z
+DTSTAMP:20260426T073440Z
 UID:tvshow-15299-s2e3@kz-ai-dev.github.io
 CATEGORIES:TV Show,Prime Video
-CREATED:20260410T091133Z
+CREATED:20260426T073440Z
 DESCRIPTION:Show: The Boys\nEpisode: Over the Hill with the Swords of a Th
  ousand Men\nSeason 2\, Episode 3\nNetwork/Platform: Prime Video\nRuntime: 
  59 min\n\nAttention: If you or a loved one were exposed to Compound V\, yo
@@ -191,10 +191,10 @@ BEGIN:VEVENT
 SUMMARY:The Boys - S02E04: Nothing Like It In the World
 DTSTART;TZID=America/New_York:20200911T120000
 DTEND;TZID=America/New_York:20200911T130800
-DTSTAMP:20260410T091133Z
+DTSTAMP:20260426T073440Z
 UID:tvshow-15299-s2e4@kz-ai-dev.github.io
 CATEGORIES:TV Show,Prime Video
-CREATED:20260410T091133Z
+CREATED:20260426T073440Z
 DESCRIPTION:Show: The Boys\nEpisode: Nothing Like It In the World\nSeason 
  2\, Episode 4\nNetwork/Platform: Prime Video\nRuntime: 68 min\n\nRoad trip
  !  The Boys head to North Carolina to follow a lead on a mysterious Supe 
@@ -208,10 +208,10 @@ BEGIN:VEVENT
 SUMMARY:The Boys - S02E05: We Gotta Go Now
 DTSTART;TZID=America/New_York:20200918T120000
 DTEND;TZID=America/New_York:20200918T130100
-DTSTAMP:20260410T091133Z
+DTSTAMP:20260426T073440Z
 UID:tvshow-15299-s2e5@kz-ai-dev.github.io
 CATEGORIES:TV Show,Prime Video
-CREATED:20260410T091133Z
+CREATED:20260426T073440Z
 DESCRIPTION:Show: The Boys\nEpisode: We Gotta Go Now\nSeason 2\, Episode 5
  \nNetwork/Platform: Prime Video\nRuntime: 61 min\n\nVoughtStudios is pleas
  ed to announce that filming has begun on #DawnOfTheSeven. 12 years of VCU 
@@ -224,10 +224,10 @@ BEGIN:VEVENT
 SUMMARY:The Boys - S02E06: The Bloody Doors Off
 DTSTART;TZID=America/New_York:20200925T120000
 DTEND;TZID=America/New_York:20200925T130600
-DTSTAMP:20260410T091133Z
+DTSTAMP:20260426T073440Z
 UID:tvshow-15299-s2e6@kz-ai-dev.github.io
 CATEGORIES:TV Show,Prime Video
-CREATED:20260410T091133Z
+CREATED:20260426T073440Z
 DESCRIPTION:Show: The Boys\nEpisode: The Bloody Doors Off\nSeason 2\, Epis
  ode 6\nNetwork/Platform: Prime Video\nRuntime: 66 min\n\nWhen The Boys and
   Starlight follow a lead to Vought's mysterious Sage Grove Center\, they f
@@ -240,10 +240,10 @@ BEGIN:VEVENT
 SUMMARY:The Boys - S02E07: Butcher\, Baker\, Candlestick Maker
 DTSTART;TZID=America/New_York:20201002T120000
 DTEND;TZID=America/New_York:20201002T125500
-DTSTAMP:20260410T091133Z
+DTSTAMP:20260426T073440Z
 UID:tvshow-15299-s2e7@kz-ai-dev.github.io
 CATEGORIES:TV Show,Prime Video
-CREATED:20260410T091133Z
+CREATED:20260426T073440Z
 DESCRIPTION:Show: The Boys\nEpisode: Butcher\, Baker\, Candlestick Maker\n
  Season 2\, Episode 7\nNetwork/Platform: Prime Video\nRuntime: 55 min\n\nTo
   help Victoria Neuman make a case against Vought\, Mallory and The Boys lo
@@ -257,10 +257,10 @@ BEGIN:VEVENT
 SUMMARY:The Boys - S02E08: What I Know
 DTSTART;TZID=America/New_York:20201009T120000
 DTEND;TZID=America/New_York:20201009T130800
-DTSTAMP:20260410T091133Z
+DTSTAMP:20260426T073440Z
 UID:tvshow-15299-s2e8@kz-ai-dev.github.io
 CATEGORIES:TV Show,Prime Video
-CREATED:20260410T091133Z
+CREATED:20260426T073440Z
 DESCRIPTION:Show: The Boys\nEpisode: What I Know\nSeason 2\, Episode 8\nNe
  twork/Platform: Prime Video\nRuntime: 68 min\n\nBecca shows up on Butcher'
  s doorstep and begs for his help. The Boys agree to back Butcher\, and tog
@@ -272,10 +272,10 @@ BEGIN:VEVENT
 SUMMARY:The Boys - S03E01: Payback
 DTSTART;TZID=America/New_York:20220603T120000
 DTEND;TZID=America/New_York:20220603T130200
-DTSTAMP:20260410T091133Z
+DTSTAMP:20260426T073440Z
 UID:tvshow-15299-s3e1@kz-ai-dev.github.io
 CATEGORIES:TV Show,Prime Video
-CREATED:20260410T091133Z
+CREATED:20260426T073440Z
 DESCRIPTION:Show: The Boys\nEpisode: Payback\nSeason 3\, Episode 1\nNetwor
  k/Platform: Prime Video\nRuntime: 62 min\n\nYou and a guest are invited to
   the premiere of DAWN OF THE SEVEN this Tuesday at 7PM in Vought Tower's L
@@ -289,10 +289,10 @@ BEGIN:VEVENT
 SUMMARY:The Boys - S03E02: The Only Man in the Sky
 DTSTART;TZID=America/New_York:20220603T120000
 DTEND;TZID=America/New_York:20220603T130000
-DTSTAMP:20260410T091133Z
+DTSTAMP:20260426T073440Z
 UID:tvshow-15299-s3e2@kz-ai-dev.github.io
 CATEGORIES:TV Show,Prime Video
-CREATED:20260410T091133Z
+CREATED:20260426T073440Z
 DESCRIPTION:Show: The Boys\nEpisode: The Only Man in the Sky\nSeason 3\, E
  pisode 2\nNetwork/Platform: Prime Video\nRuntime: 60 min\n\nHomelander. Am
  erica's greatest Superhero. Defending our shores from sea to shining sea. 
@@ -307,10 +307,10 @@ BEGIN:VEVENT
 SUMMARY:The Boys - S03E03: Barbary Coast
 DTSTART;TZID=America/New_York:20220603T120000
 DTEND;TZID=America/New_York:20220603T130100
-DTSTAMP:20260410T091133Z
+DTSTAMP:20260426T073440Z
 UID:tvshow-15299-s3e3@kz-ai-dev.github.io
 CATEGORIES:TV Show,Prime Video
-CREATED:20260410T091133Z
+CREATED:20260426T073440Z
 DESCRIPTION:Show: The Boys\nEpisode: Barbary Coast\nSeason 3\, Episode 3\n
  Network/Platform: Prime Video\nRuntime: 61 min\n\nTonight at 9/8C on Vough
  t Plus\, it's the season finale of #AmericanHero! Three contestants remain
@@ -324,10 +324,10 @@ BEGIN:VEVENT
 SUMMARY:The Boys - S03E04: Glorious Five Year Plan
 DTSTART;TZID=America/New_York:20220610T120000
 DTEND;TZID=America/New_York:20220610T130100
-DTSTAMP:20260410T091133Z
+DTSTAMP:20260426T073440Z
 UID:tvshow-15299-s3e4@kz-ai-dev.github.io
 CATEGORIES:TV Show,Prime Video
-CREATED:20260410T091133Z
+CREATED:20260426T073440Z
 DESCRIPTION:Show: The Boys\nEpisode: Glorious Five Year Plan\nSeason 3\, E
  pisode 4\nNetwork/Platform: Prime Video\nRuntime: 61 min\n\nTonight\, stre
  aming live exclusively for Supeporn.com Super-Subscribers\, it's the #Clas
@@ -343,10 +343,10 @@ BEGIN:VEVENT
 SUMMARY:The Boys - S03E05: The Last Time to Look on This World of Lies
 DTSTART;TZID=America/New_York:20220617T120000
 DTEND;TZID=America/New_York:20220617T130100
-DTSTAMP:20260410T091133Z
+DTSTAMP:20260426T073440Z
 UID:tvshow-15299-s3e5@kz-ai-dev.github.io
 CATEGORIES:TV Show,Prime Video
-CREATED:20260410T091133Z
+CREATED:20260426T073440Z
 DESCRIPTION:Show: The Boys\nEpisode: The Last Time to Look on This World o
  f Lies\nSeason 3\, Episode 5\nNetwork/Platform: Prime Video\nRuntime: 61 m
  in\n\nDid you know chimpanzees are an endangered species largely because o
@@ -362,10 +362,10 @@ BEGIN:VEVENT
 SUMMARY:The Boys - S03E06: Herogasm
 DTSTART;TZID=America/New_York:20220624T120000
 DTEND;TZID=America/New_York:20220624T130100
-DTSTAMP:20260410T091133Z
+DTSTAMP:20260426T073440Z
 UID:tvshow-15299-s3e6@kz-ai-dev.github.io
 CATEGORIES:TV Show,Prime Video
-CREATED:20260410T091133Z
+CREATED:20260426T073440Z
 DESCRIPTION:Show: The Boys\nEpisode: Herogasm\nSeason 3\, Episode 6\nNetwo
  rk/Platform: Prime Video\nRuntime: 61 min\n\nYou're invited to the 70th An
  nual Herogasm! You must present this invitation in order to be admitted! S
@@ -379,10 +379,10 @@ BEGIN:VEVENT
 SUMMARY:The Boys - S03E07: Here Comes a Candle to Light You to Bed
 DTSTART;TZID=America/New_York:20220701T120000
 DTEND;TZID=America/New_York:20220701T130500
-DTSTAMP:20260410T091133Z
+DTSTAMP:20260426T073440Z
 UID:tvshow-15299-s3e7@kz-ai-dev.github.io
 CATEGORIES:TV Show,Prime Video
-CREATED:20260410T091133Z
+CREATED:20260426T073440Z
 DESCRIPTION:Show: The Boys\nEpisode: Here Comes a Candle to Light You to B
  ed\nSeason 3\, Episode 7\nNetwork/Platform: Prime Video\nRuntime: 65 min\n
  \nDid someone say birthday? Come celebrate at Buster Beaver's with our new
@@ -398,10 +398,10 @@ BEGIN:VEVENT
 SUMMARY:The Boys - S03E08: The Instant White-Hot Wild
 DTSTART;TZID=America/New_York:20220708T120000
 DTEND;TZID=America/New_York:20220708T130200
-DTSTAMP:20260410T091133Z
+DTSTAMP:20260426T073440Z
 UID:tvshow-15299-s3e8@kz-ai-dev.github.io
 CATEGORIES:TV Show,Prime Video
-CREATED:20260410T091133Z
+CREATED:20260426T073440Z
 DESCRIPTION:Show: The Boys\nEpisode: The Instant White-Hot Wild\nSeason 3\
  , Episode 8\nNetwork/Platform: Prime Video\nRuntime: 62 min\n\nCalling all
   patriots! Let's show Homelander we've got his back and we're not going to
@@ -416,10 +416,10 @@ BEGIN:VEVENT
 SUMMARY:The Boys - S04E01: Department of Dirty Tricks
 DTSTART;TZID=America/New_York:20240613T120000
 DTEND;TZID=America/New_York:20240613T130200
-DTSTAMP:20260410T091133Z
+DTSTAMP:20260426T073440Z
 UID:tvshow-15299-s4e1@kz-ai-dev.github.io
 CATEGORIES:TV Show,Prime Video
-CREATED:20260410T091133Z
+CREATED:20260426T073440Z
 DESCRIPTION:Show: The Boys\nEpisode: Department of Dirty Tricks\nSeason 4\
  , Episode 1\nNetwork/Platform: Prime Video\nRuntime: 62 min\n\nCALLING ALL
   PATRIOTS.  BE AT THE COURTHOUSE TOMORROW FOR HOMELANDER'S #VERDICT AND B
@@ -432,10 +432,10 @@ BEGIN:VEVENT
 SUMMARY:The Boys - S04E02: Life Among the Septics
 DTSTART;TZID=America/New_York:20240613T120000
 DTEND;TZID=America/New_York:20240613T130000
-DTSTAMP:20260410T091133Z
+DTSTAMP:20260426T073440Z
 UID:tvshow-15299-s4e2@kz-ai-dev.github.io
 CATEGORIES:TV Show,Prime Video
-CREATED:20260410T091133Z
+CREATED:20260426T073440Z
 DESCRIPTION:Show: The Boys\nEpisode: Life Among the Septics\nSeason 4\, Ep
  isode 2\nNetwork/Platform: Prime Video\nRuntime: 60 min\n\nDid you know gl
  obalists put chemicals in food to make us gay\, Dakota Bob is a demon from
@@ -448,10 +448,10 @@ BEGIN:VEVENT
 SUMMARY:The Boys - S04E03: We'll Keep the Red Flag Flying Here
 DTSTART;TZID=America/New_York:20240613T120000
 DTEND;TZID=America/New_York:20240613T130000
-DTSTAMP:20260410T091133Z
+DTSTAMP:20260426T073440Z
 UID:tvshow-15299-s4e3@kz-ai-dev.github.io
 CATEGORIES:TV Show,Prime Video
-CREATED:20260410T091133Z
+CREATED:20260426T073440Z
 DESCRIPTION:Show: The Boys\nEpisode: We'll Keep the Red Flag Flying Here\n
  Season 4\, Episode 3\nNetwork/Platform: Prime Video\nRuntime: 60 min\n\nTh
  is December at VoughtCoin Arena\, experience the story of Christmas the wa
@@ -464,10 +464,10 @@ BEGIN:VEVENT
 SUMMARY:The Boys - S04E04: Wisdom of the Ages
 DTSTART;TZID=America/New_York:20240620T120000
 DTEND;TZID=America/New_York:20240620T130500
-DTSTAMP:20260410T091133Z
+DTSTAMP:20260426T073440Z
 UID:tvshow-15299-s4e4@kz-ai-dev.github.io
 CATEGORIES:TV Show,Prime Video
-CREATED:20260410T091133Z
+CREATED:20260426T073440Z
 DESCRIPTION:Show: The Boys\nEpisode: Wisdom of the Ages\nSeason 4\, Episod
  e 4\nNetwork/Platform: Prime Video\nRuntime: 65 min\n\nVought News Network
   is proud to announce its new series #Truthbomb! Join host Firecracker and
@@ -480,10 +480,10 @@ BEGIN:VEVENT
 SUMMARY:The Boys - S04E05: Beware the Jabberwock\, My Son
 DTSTART;TZID=America/New_York:20240627T120000
 DTEND;TZID=America/New_York:20240627T130800
-DTSTAMP:20260410T091133Z
+DTSTAMP:20260426T073440Z
 UID:tvshow-15299-s4e5@kz-ai-dev.github.io
 CATEGORIES:TV Show,Prime Video
-CREATED:20260410T091133Z
+CREATED:20260426T073440Z
 DESCRIPTION:Show: The Boys\nEpisode: Beware the Jabberwock\, My Son\nSeaso
  n 4\, Episode 5\nNetwork/Platform: Prime Video\nRuntime: 68 min\n\nAttenti
  on #superfans! This year at #V52 see A-Train live and in person\, as he pr
@@ -496,10 +496,10 @@ BEGIN:VEVENT
 SUMMARY:The Boys - S04E06: Dirty Business
 DTSTART;TZID=America/New_York:20240704T120000
 DTEND;TZID=America/New_York:20240704T130500
-DTSTAMP:20260410T091133Z
+DTSTAMP:20260426T073440Z
 UID:tvshow-15299-s4e6@kz-ai-dev.github.io
 CATEGORIES:TV Show,Prime Video
-CREATED:20260410T091133Z
+CREATED:20260426T073440Z
 DESCRIPTION:Show: The Boys\nEpisode: Dirty Business\nSeason 4\, Episode 6\
  nNetwork/Platform: Prime Video\nRuntime: 65 min\n\nVernon Correctional Ser
  vices provides compassionate rehabilitation to those in our care to prepar
@@ -511,10 +511,10 @@ BEGIN:VEVENT
 SUMMARY:The Boys - S04E07: The Insider
 DTSTART;TZID=America/New_York:20240711T120000
 DTEND;TZID=America/New_York:20240711T130500
-DTSTAMP:20260410T091133Z
+DTSTAMP:20260426T073440Z
 UID:tvshow-15299-s4e7@kz-ai-dev.github.io
 CATEGORIES:TV Show,Prime Video
-CREATED:20260410T091133Z
+CREATED:20260426T073440Z
 DESCRIPTION:Show: The Boys\nEpisode: The Insider\nSeason 4\, Episode 7\nNe
  twork/Platform: Prime Video\nRuntime: 65 min\n\nHey kids. Did you know you
  r neighbor\, uncle\, or even Mom and Dad might be trying to destroy Americ
@@ -526,10 +526,10 @@ BEGIN:VEVENT
 SUMMARY:The Boys - S04E08: Season Four Finale
 DTSTART;TZID=America/New_York:20240718T120000
 DTEND;TZID=America/New_York:20240718T130800
-DTSTAMP:20260410T091133Z
+DTSTAMP:20260426T073440Z
 UID:tvshow-15299-s4e8@kz-ai-dev.github.io
 CATEGORIES:TV Show,Prime Video
-CREATED:20260410T091133Z
+CREATED:20260426T073440Z
 DESCRIPTION:Show: The Boys\nEpisode: Season Four Finale\nSeason 4\, Episod
  e 8\nNetwork/Platform: Prime Video\nRuntime: 68 min\n\nA call to all patri
  ots\; the stolen election will not be allowed to be certified\; Bob Singer
@@ -542,10 +542,10 @@ BEGIN:VEVENT
 SUMMARY:The Boys - S05E01: Fifteen Inches of Sheer Dynamite
 DTSTART;TZID=America/New_York:20260408T120000
 DTEND;TZID=America/New_York:20260408T130300
-DTSTAMP:20260410T091133Z
+DTSTAMP:20260426T073440Z
 UID:tvshow-15299-s5e1@kz-ai-dev.github.io
 CATEGORIES:TV Show,Prime Video
-CREATED:20260410T091133Z
+CREATED:20260426T073440Z
 DESCRIPTION:Show: The Boys\nEpisode: Fifteen Inches of Sheer Dynamite\nSea
  son 5\, Episode 1\nNetwork/Platform: Prime Video\nRuntime: 63 min\n\nATTEN
  TION FREEDOM CAMPERS: ESCAPE ATTEMPTS WILL BE MET WITH DEADLY FORCE. Have 
@@ -557,10 +557,10 @@ BEGIN:VEVENT
 SUMMARY:The Boys - S05E02: Teenage Kix
 DTSTART;TZID=America/New_York:20260408T120000
 DTEND;TZID=America/New_York:20260408T130200
-DTSTAMP:20260410T091133Z
+DTSTAMP:20260426T073440Z
 UID:tvshow-15299-s5e2@kz-ai-dev.github.io
 CATEGORIES:TV Show,Prime Video
-CREATED:20260410T091133Z
+CREATED:20260426T073440Z
 DESCRIPTION:Show: The Boys\nEpisode: Teenage Kix\nSeason 5\, Episode 2\nNe
  twork/Platform: Prime Video\nRuntime: 62 min\n\nTonight at 9/8C a @VoughtN
  ews special report: Is your loved one a secret Starlighter terrorist?
@@ -569,62 +569,65 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Boys - S05E03: Every One of You Sons of Bitches
 DTSTART;TZID=America/New_York:20260415T120000
-DTEND;TZID=America/New_York:20260415T123000
-DTSTAMP:20260410T091133Z
+DTEND;TZID=America/New_York:20260415T130500
+DTSTAMP:20260426T073440Z
 UID:tvshow-15299-s5e3@kz-ai-dev.github.io
 CATEGORIES:TV Show,Prime Video
-CREATED:20260410T091133Z
+CREATED:20260426T073440Z
 DESCRIPTION:Show: The Boys\nEpisode: Every One of You Sons of Bitches\nSea
- son 5\, Episode 3\nNetwork/Platform: Prime Video\n
+ son 5\, Episode 3\nNetwork/Platform: Prime Video\nRuntime: 65 min\n\nStorm
+  her senses with V-Bro Mango Thunder Body Spray by Vought! She'll never kn
+ ow what hit her!
 URL:https://www.tvmaze.com/episodes/3464780/the-boys-5x03-every-one-of-you
  -sons-of-bitches
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Boys - S05E04: Though the Heavens Fall
+SUMMARY:The Boys - S05E04: King of Hell
 DTSTART;TZID=America/New_York:20260422T120000
-DTEND;TZID=America/New_York:20260422T123000
-DTSTAMP:20260410T091133Z
+DTEND;TZID=America/New_York:20260422T130500
+DTSTAMP:20260426T073440Z
 UID:tvshow-15299-s5e4@kz-ai-dev.github.io
 CATEGORIES:TV Show,Prime Video
-CREATED:20260410T091133Z
-DESCRIPTION:Show: The Boys\nEpisode: Though the Heavens Fall\nSeason 5\, E
- pisode 4\nNetwork/Platform: Prime Video\n
-URL:https://www.tvmaze.com/episodes/3464781/the-boys-5x04-though-the-heave
- ns-fall
+CREATED:20260426T073440Z
+DESCRIPTION:Show: The Boys\nEpisode: King of Hell\nSeason 5\, Episode 4\nN
+ etwork/Platform: Prime Video\nRuntime: 65 min\n\nIN THIS HOUSE\, WE BELIEV
+ E IN HOMELANDER!
+URL:https://www.tvmaze.com/episodes/3464781/the-boys-5x04-king-of-hell
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Boys - S05E05: One-Shots
 DTSTART;TZID=America/New_York:20260429T120000
 DTEND;TZID=America/New_York:20260429T123000
-DTSTAMP:20260410T091133Z
+DTSTAMP:20260426T073440Z
 UID:tvshow-15299-s5e5@kz-ai-dev.github.io
 CATEGORIES:TV Show,Prime Video
-CREATED:20260410T091133Z
+CREATED:20260426T073440Z
 DESCRIPTION:Show: The Boys\nEpisode: One-Shots\nSeason 5\, Episode 5\nNetw
  ork/Platform: Prime Video\n
 URL:https://www.tvmaze.com/episodes/3464782/the-boys-5x05-one-shots
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Boys - S05E06: King of Hell
+SUMMARY:The Boys - S05E06: Though the Heavens Fall
 DTSTART;TZID=America/New_York:20260506T120000
 DTEND;TZID=America/New_York:20260506T123000
-DTSTAMP:20260410T091133Z
+DTSTAMP:20260426T073440Z
 UID:tvshow-15299-s5e6@kz-ai-dev.github.io
 CATEGORIES:TV Show,Prime Video
-CREATED:20260410T091133Z
-DESCRIPTION:Show: The Boys\nEpisode: King of Hell\nSeason 5\, Episode 6\nN
- etwork/Platform: Prime Video\n
-URL:https://www.tvmaze.com/episodes/3464783/the-boys-5x06-king-of-hell
+CREATED:20260426T073440Z
+DESCRIPTION:Show: The Boys\nEpisode: Though the Heavens Fall\nSeason 5\, E
+ pisode 6\nNetwork/Platform: Prime Video\n
+URL:https://www.tvmaze.com/episodes/3464783/the-boys-5x06-though-the-heave
+ ns-fall
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Boys - S05E07: The Frenchman\, the Female\, and the Man Called
   Mother's Milk
 DTSTART;TZID=America/New_York:20260513T120000
 DTEND;TZID=America/New_York:20260513T123000
-DTSTAMP:20260410T091133Z
+DTSTAMP:20260426T073440Z
 UID:tvshow-15299-s5e7@kz-ai-dev.github.io
 CATEGORIES:TV Show,Prime Video
-CREATED:20260410T091133Z
+CREATED:20260426T073440Z
 DESCRIPTION:Show: The Boys\nEpisode: The Frenchman\, the Female\, and the 
  Man Called Mother's Milk\nSeason 5\, Episode 7\nNetwork/Platform: Prime Vi
  deo\n
@@ -635,10 +638,10 @@ BEGIN:VEVENT
 SUMMARY:The Boys - S05E08: Blood and Bone
 DTSTART;TZID=America/New_York:20260520T120000
 DTEND;TZID=America/New_York:20260520T123000
-DTSTAMP:20260410T091133Z
+DTSTAMP:20260426T073440Z
 UID:tvshow-15299-s5e8@kz-ai-dev.github.io
 CATEGORIES:TV Show,Prime Video
-CREATED:20260410T091133Z
+CREATED:20260426T073440Z
 DESCRIPTION:Show: The Boys\nEpisode: Blood and Bone\nSeason 5\, Episode 8\
  nNetwork/Platform: Prime Video\n
 URL:https://www.tvmaze.com/episodes/3464785/the-boys-5x08-blood-and-bone
@@ -647,10 +650,10 @@ BEGIN:VEVENT
 SUMMARY:Daredevil: Born Again - S01E01: Heaven’s Half Hour
 DTSTART;TZID=America/New_York:20250304T120000
 DTEND;TZID=America/New_York:20250304T125800
-DTSTAMP:20260410T091133Z
+DTSTAMP:20260426T073441Z
 UID:tvshow-63234-s1e1@kz-ai-dev.github.io
 CATEGORIES:TV Show,Disney+
-CREATED:20260410T091133Z
+CREATED:20260426T073441Z
 DESCRIPTION:Show: Daredevil: Born Again\nEpisode: Heaven’s Half Hour\nSe
  ason 1\, Episode 1\nNetwork/Platform: Disney+\nRuntime: 58 min\n\nMatt Mur
  dock gives up the mask. Wilson Fisk has his sights set to new heights.
@@ -661,10 +664,10 @@ BEGIN:VEVENT
 SUMMARY:Daredevil: Born Again - S01E02: Optics
 DTSTART;TZID=America/New_York:20250304T120000
 DTEND;TZID=America/New_York:20250304T124700
-DTSTAMP:20260410T091133Z
+DTSTAMP:20260426T073441Z
 UID:tvshow-63234-s1e2@kz-ai-dev.github.io
 CATEGORIES:TV Show,Disney+
-CREATED:20260410T091133Z
+CREATED:20260426T073441Z
 DESCRIPTION:Show: Daredevil: Born Again\nEpisode: Optics\nSeason 1\, Episo
  de 2\nNetwork/Platform: Disney+\nRuntime: 47 min\n\nMatt Murdock gets a ne
  w client who's more than he claims to be. Fisk learns the power of optics.
@@ -675,10 +678,10 @@ BEGIN:VEVENT
 SUMMARY:Daredevil: Born Again - S01E03: The Hollow of His Hand
 DTSTART;TZID=America/New_York:20250311T120000
 DTEND;TZID=America/New_York:20250311T124400
-DTSTAMP:20260410T091133Z
+DTSTAMP:20260426T073441Z
 UID:tvshow-63234-s1e3@kz-ai-dev.github.io
 CATEGORIES:TV Show,Disney+
-CREATED:20260410T091133Z
+CREATED:20260426T073441Z
 DESCRIPTION:Show: Daredevil: Born Again\nEpisode: The Hollow of His Hand\n
  Season 1\, Episode 3\nNetwork/Platform: Disney+\nRuntime: 44 min\n\nThe tr
  ial of Hector Ayala begins. Fisk's old business associates seek to claim h
@@ -690,10 +693,10 @@ BEGIN:VEVENT
 SUMMARY:Daredevil: Born Again - S01E04: Sic Semper Systema
 DTSTART;TZID=America/New_York:20250318T120000
 DTEND;TZID=America/New_York:20250318T125200
-DTSTAMP:20260410T091133Z
+DTSTAMP:20260426T073441Z
 UID:tvshow-63234-s1e4@kz-ai-dev.github.io
 CATEGORIES:TV Show,Disney+
-CREATED:20260410T091133Z
+CREATED:20260426T073441Z
 DESCRIPTION:Show: Daredevil: Born Again\nEpisode: Sic Semper Systema\nSeas
  on 1\, Episode 4\nNetwork/Platform: Disney+\nRuntime: 52 min\n\nMatt Murdo
  ck and Wilson Fisk's darker halves fight to be unleashed.
@@ -704,10 +707,10 @@ BEGIN:VEVENT
 SUMMARY:Daredevil: Born Again - S01E05: With Interest
 DTSTART;TZID=America/New_York:20250325T120000
 DTEND;TZID=America/New_York:20250325T124000
-DTSTAMP:20260410T091133Z
+DTSTAMP:20260426T073441Z
 UID:tvshow-63234-s1e5@kz-ai-dev.github.io
 CATEGORIES:TV Show,Disney+
-CREATED:20260410T091133Z
+CREATED:20260426T073441Z
 DESCRIPTION:Show: Daredevil: Born Again\nEpisode: With Interest\nSeason 1\
  , Episode 5\nNetwork/Platform: Disney+\nRuntime: 40 min\n\nA day in the li
  fe of Matt Murdock gets unexpectedly intense\, forcing him to team up with
@@ -719,10 +722,10 @@ BEGIN:VEVENT
 SUMMARY:Daredevil: Born Again - S01E06: Excessive Force
 DTSTART;TZID=America/New_York:20250325T120000
 DTEND;TZID=America/New_York:20250325T124200
-DTSTAMP:20260410T091133Z
+DTSTAMP:20260426T073441Z
 UID:tvshow-63234-s1e6@kz-ai-dev.github.io
 CATEGORIES:TV Show,Disney+
-CREATED:20260410T091133Z
+CREATED:20260426T073441Z
 DESCRIPTION:Show: Daredevil: Born Again\nEpisode: Excessive Force\nSeason 
  1\, Episode 6\nNetwork/Platform: Disney+\nRuntime: 42 min\n\nWhen a serial
   killer terrorizes the streets of New York\, the city needs a savior.
@@ -733,10 +736,10 @@ BEGIN:VEVENT
 SUMMARY:Daredevil: Born Again - S01E07: Art for Art’s Sake
 DTSTART;TZID=America/New_York:20250401T120000
 DTEND;TZID=America/New_York:20250401T124000
-DTSTAMP:20260410T091133Z
+DTSTAMP:20260426T073441Z
 UID:tvshow-63234-s1e7@kz-ai-dev.github.io
 CATEGORIES:TV Show,Disney+
-CREATED:20260410T091133Z
+CREATED:20260426T073441Z
 DESCRIPTION:Show: Daredevil: Born Again\nEpisode: Art for Art’s Sake\nSe
  ason 1\, Episode 7\nNetwork/Platform: Disney+\nRuntime: 40 min\n\nDaredevi
  l. Is. Back. It's a race to stop Muse before he can kill again. Fisk's riv
@@ -748,10 +751,10 @@ BEGIN:VEVENT
 SUMMARY:Daredevil: Born Again - S01E08: Isle of Joy
 DTSTART;TZID=America/New_York:20250408T120000
 DTEND;TZID=America/New_York:20250408T124900
-DTSTAMP:20260410T091133Z
+DTSTAMP:20260426T073441Z
 UID:tvshow-63234-s1e8@kz-ai-dev.github.io
 CATEGORIES:TV Show,Disney+
-CREATED:20260410T091133Z
+CREATED:20260426T073441Z
 DESCRIPTION:Show: Daredevil: Born Again\nEpisode: Isle of Joy\nSeason 1\, 
  Episode 8\nNetwork/Platform: Disney+\nRuntime: 49 min\n\nAt his inaugural 
  Black and White Ball\, Mayor Fisk tightens his grip on New York City. Matt
@@ -763,10 +766,10 @@ BEGIN:VEVENT
 SUMMARY:Daredevil: Born Again - S01E09: Straight to Hell
 DTSTART;TZID=America/New_York:20250415T120000
 DTEND;TZID=America/New_York:20250415T125700
-DTSTAMP:20260410T091133Z
+DTSTAMP:20260426T073441Z
 UID:tvshow-63234-s1e9@kz-ai-dev.github.io
 CATEGORIES:TV Show,Disney+
-CREATED:20260410T091133Z
+CREATED:20260426T073441Z
 DESCRIPTION:Show: Daredevil: Born Again\nEpisode: Straight to Hell\nSeason
   1\, Episode 9\nNetwork/Platform: Disney+\nRuntime: 57 min\n\nMayor Fisk b
  ecomes Mayor Kingpin\, and Daredevil is unleashed as chaos takes over the 
@@ -778,10 +781,10 @@ BEGIN:VEVENT
 SUMMARY:Daredevil: Born Again - S02E01: The Northern Star
 DTSTART;TZID=America/New_York:20260324T120000
 DTEND;TZID=America/New_York:20260324T125100
-DTSTAMP:20260410T091133Z
+DTSTAMP:20260426T073441Z
 UID:tvshow-63234-s2e1@kz-ai-dev.github.io
 CATEGORIES:TV Show,Disney+
-CREATED:20260410T091133Z
+CREATED:20260426T073441Z
 DESCRIPTION:Show: Daredevil: Born Again\nEpisode: The Northern Star\nSeaso
  n 2\, Episode 1\nNetwork/Platform: Disney+\nRuntime: 51 min\n\nDaredevil i
  s in hiding\, but he isn't laying low. A shadowy player from Washington\, 
@@ -793,10 +796,10 @@ BEGIN:VEVENT
 SUMMARY:Daredevil: Born Again - S02E02: Shoot the Moon
 DTSTART;TZID=America/New_York:20260331T120000
 DTEND;TZID=America/New_York:20260331T124600
-DTSTAMP:20260410T091133Z
+DTSTAMP:20260426T073441Z
 UID:tvshow-63234-s2e2@kz-ai-dev.github.io
 CATEGORIES:TV Show,Disney+
-CREATED:20260410T091133Z
+CREATED:20260426T073441Z
 DESCRIPTION:Show: Daredevil: Born Again\nEpisode: Shoot the Moon\nSeason 2
  \, Episode 2\nNetwork/Platform: Disney+\nRuntime: 46 min\n\nFisk tries a n
  ew tactic to lure Daredevil out of hiding.
@@ -807,10 +810,10 @@ BEGIN:VEVENT
 SUMMARY:Daredevil: Born Again - S02E03: The Scales & the Sword
 DTSTART;TZID=America/New_York:20260331T120000
 DTEND;TZID=America/New_York:20260331T124700
-DTSTAMP:20260410T091133Z
+DTSTAMP:20260426T073441Z
 UID:tvshow-63234-s2e3@kz-ai-dev.github.io
 CATEGORIES:TV Show,Disney+
-CREATED:20260410T091133Z
+CREATED:20260426T073441Z
 DESCRIPTION:Show: Daredevil: Born Again\nEpisode: The Scales & the Sword\n
  Season 2\, Episode 3\nNetwork/Platform: Disney+\nRuntime: 47 min\n\nMatt M
  urdock and Karen Page find new allies.
@@ -821,10 +824,10 @@ BEGIN:VEVENT
 SUMMARY:Daredevil: Born Again - S02E04: Gloves Off
 DTSTART;TZID=America/New_York:20260407T120000
 DTEND;TZID=America/New_York:20260407T125100
-DTSTAMP:20260410T091133Z
+DTSTAMP:20260426T073441Z
 UID:tvshow-63234-s2e4@kz-ai-dev.github.io
 CATEGORIES:TV Show,Disney+
-CREATED:20260410T091133Z
+CREATED:20260426T073441Z
 DESCRIPTION:Show: Daredevil: Born Again\nEpisode: Gloves Off\nSeason 2\, E
  pisode 4\nNetwork/Platform: Disney+\nRuntime: 51 min\n\nBullseye adopts a 
  new morning routine. Fisk takes the ring.
@@ -835,12 +838,13 @@ BEGIN:VEVENT
 SUMMARY:Daredevil: Born Again - S02E05: The Grand Design
 DTSTART;TZID=America/New_York:20260414T120000
 DTEND;TZID=America/New_York:20260414T125000
-DTSTAMP:20260410T091133Z
+DTSTAMP:20260426T073441Z
 UID:tvshow-63234-s2e5@kz-ai-dev.github.io
 CATEGORIES:TV Show,Disney+
-CREATED:20260410T091133Z
+CREATED:20260426T073441Z
 DESCRIPTION:Show: Daredevil: Born Again\nEpisode: The Grand Design\nSeason
-  2\, Episode 5\nNetwork/Platform: Disney+\nRuntime: 50 min\n
+  2\, Episode 5\nNetwork/Platform: Disney+\nRuntime: 50 min\n\nThe Anti-Vig
+ ilante Task Force intensifies its search for Daredevil and Bullseye.
 URL:https://www.tvmaze.com/episodes/3562595/daredevil-born-again-2x05-the-
  grand-design
 END:VEVENT
@@ -848,12 +852,13 @@ BEGIN:VEVENT
 SUMMARY:Daredevil: Born Again - S02E06: Requiem
 DTSTART;TZID=America/New_York:20260421T120000
 DTEND;TZID=America/New_York:20260421T124900
-DTSTAMP:20260410T091133Z
+DTSTAMP:20260426T073441Z
 UID:tvshow-63234-s2e6@kz-ai-dev.github.io
 CATEGORIES:TV Show,Disney+
-CREATED:20260410T091133Z
+CREATED:20260426T073441Z
 DESCRIPTION:Show: Daredevil: Born Again\nEpisode: Requiem\nSeason 2\, Epis
- ode 6\nNetwork/Platform: Disney+\nRuntime: 49 min\n
+ ode 6\nNetwork/Platform: Disney+\nRuntime: 49 min\n\nFisk's operation is d
+ ealt an irrevocable blow. The resistance spills over into the streets.
 URL:https://www.tvmaze.com/episodes/3562596/daredevil-born-again-2x06-requ
  iem
 END:VEVENT
@@ -861,10 +866,10 @@ BEGIN:VEVENT
 SUMMARY:Daredevil: Born Again - S02E07: The Hateful Darkness
 DTSTART;TZID=America/New_York:20260428T120000
 DTEND;TZID=America/New_York:20260428T124400
-DTSTAMP:20260410T091133Z
+DTSTAMP:20260426T073441Z
 UID:tvshow-63234-s2e7@kz-ai-dev.github.io
 CATEGORIES:TV Show,Disney+
-CREATED:20260410T091133Z
+CREATED:20260426T073441Z
 DESCRIPTION:Show: Daredevil: Born Again\nEpisode: The Hateful Darkness\nSe
  ason 2\, Episode 7\nNetwork/Platform: Disney+\nRuntime: 44 min\n
 URL:https://www.tvmaze.com/episodes/3562597/daredevil-born-again-2x07-the-
@@ -874,24 +879,605 @@ BEGIN:VEVENT
 SUMMARY:Daredevil: Born Again - S02E08: The Southern Cross
 DTSTART;TZID=America/New_York:20260505T120000
 DTEND;TZID=America/New_York:20260505T125100
-DTSTAMP:20260410T091133Z
+DTSTAMP:20260426T073441Z
 UID:tvshow-63234-s2e8@kz-ai-dev.github.io
 CATEGORIES:TV Show,Disney+
-CREATED:20260410T091133Z
+CREATED:20260426T073441Z
 DESCRIPTION:Show: Daredevil: Born Again\nEpisode: The Southern Cross\nSeas
  on 2\, Episode 8\nNetwork/Platform: Disney+\nRuntime: 51 min\n
 URL:https://www.tvmaze.com/episodes/3562598/daredevil-born-again-2x08-the-
  southern-cross
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Frieren: Beyond Journey's End - S01E01: The Journey's End
+DTSTART;TZID=America/New_York:20230929T210000
+DTEND;TZID=America/New_York:20230929T212500
+DTSTAMP:20260426T073442Z
+UID:tvshow-69956-s1e1@kz-ai-dev.github.io
+CATEGORIES:TV Show,NTV
+CREATED:20260426T073442Z
+DESCRIPTION:Show: Frieren: Beyond Journey's End\nEpisode: The Journey's En
+ d\nSeason 1\, Episode 1\nNetwork/Platform: NTV\nRuntime: 25 min\n\nThe wor
+ ld celebrates the Demon King's defeat at the hands of the Hero and his com
+ panions. Now that their great adventure is over\, what will Frieren the ma
+ ge do next?
+URL:https://www.tvmaze.com/episodes/2647250/frieren-beyond-journeys-end-1x
+ 01-the-journeys-end
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Frieren: Beyond Journey's End - S01E02: It Didn't Have to Be Magic
+ ...
+DTSTART;TZID=America/New_York:20230929T210000
+DTEND;TZID=America/New_York:20230929T212600
+DTSTAMP:20260426T073442Z
+UID:tvshow-69956-s1e2@kz-ai-dev.github.io
+CATEGORIES:TV Show,NTV
+CREATED:20260426T073442Z
+DESCRIPTION:Show: Frieren: Beyond Journey's End\nEpisode: It Didn't Have t
+ o Be Magic...\nSeason 1\, Episode 2\nNetwork/Platform: NTV\nRuntime: 26 mi
+ n\n\nFrieren instructs Fern in the use of magic while deciphering a grimoi
+ re for Heiter.
+URL:https://www.tvmaze.com/episodes/2655203/frieren-beyond-journeys-end-1x
+ 02-it-didnt-have-to-be-magic
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Frieren: Beyond Journey's End - S01E03: Killing Magic
+DTSTART;TZID=America/New_York:20230929T210000
+DTEND;TZID=America/New_York:20230929T212400
+DTSTAMP:20260426T073442Z
+UID:tvshow-69956-s1e3@kz-ai-dev.github.io
+CATEGORIES:TV Show,NTV
+CREATED:20260426T073442Z
+DESCRIPTION:Show: Frieren: Beyond Journey's End\nEpisode: Killing Magic\nS
+ eason 1\, Episode 3\nNetwork/Platform: NTV\nRuntime: 24 min\n\nWhile retra
+ cing the path she took on her adventure with her former traveling companio
+ ns\, Frieren confronts an old enemy.
+URL:https://www.tvmaze.com/episodes/2655204/frieren-beyond-journeys-end-1x
+ 03-killing-magic
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Frieren: Beyond Journey's End - S01E04: The Land Where Souls Rest
+DTSTART;TZID=America/New_York:20230929T210000
+DTEND;TZID=America/New_York:20230929T212500
+DTSTAMP:20260426T073442Z
+UID:tvshow-69956-s1e4@kz-ai-dev.github.io
+CATEGORIES:TV Show,NTV
+CREATED:20260426T073442Z
+DESCRIPTION:Show: Frieren: Beyond Journey's End\nEpisode: The Land Where S
+ ouls Rest\nSeason 1\, Episode 4\nNetwork/Platform: NTV\nRuntime: 25 min\n\
+ nFrieren and Fern pay a visit to Eisen\, who requests their help in findin
+ g the notes of Flamme the Legendary Mage.
+URL:https://www.tvmaze.com/episodes/2655205/frieren-beyond-journeys-end-1x
+ 04-the-land-where-souls-rest
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Frieren: Beyond Journey's End - S01E05: Phantoms of the Dead
+DTSTART;TZID=America/New_York:20231006T230000
+DTEND;TZID=America/New_York:20231006T232400
+DTSTAMP:20260426T073442Z
+UID:tvshow-69956-s1e5@kz-ai-dev.github.io
+CATEGORIES:TV Show,NTV
+CREATED:20260426T073442Z
+DESCRIPTION:Show: Frieren: Beyond Journey's End\nEpisode: Phantoms of the 
+ Dead\nSeason 1\, Episode 5\nNetwork/Platform: NTV\nRuntime: 24 min\n\nFrie
+ ren and Fern investigate ghost sightings at a village where people have st
+ arted going missing.
+URL:https://www.tvmaze.com/episodes/2655224/frieren-beyond-journeys-end-1x
+ 05-phantoms-of-the-dead
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Frieren: Beyond Journey's End - S01E06: The Hero of the Village
+DTSTART;TZID=America/New_York:20231013T230000
+DTEND;TZID=America/New_York:20231013T232400
+DTSTAMP:20260426T073442Z
+UID:tvshow-69956-s1e6@kz-ai-dev.github.io
+CATEGORIES:TV Show,NTV
+CREATED:20260426T073442Z
+DESCRIPTION:Show: Frieren: Beyond Journey's End\nEpisode: The Hero of the 
+ Village\nSeason 1\, Episode 6\nNetwork/Platform: NTV\nRuntime: 24 min\n\nF
+ rieren and Fern enlist Stark's help to fight the solar dragon - but is he 
+ up to the task?
+URL:https://www.tvmaze.com/episodes/2655225/frieren-beyond-journeys-end-1x
+ 06-the-hero-of-the-village
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Frieren: Beyond Journey's End - S01E07: Like a Fairy Tale
+DTSTART;TZID=America/New_York:20231020T230000
+DTEND;TZID=America/New_York:20231020T232400
+DTSTAMP:20260426T073442Z
+UID:tvshow-69956-s1e7@kz-ai-dev.github.io
+CATEGORIES:TV Show,NTV
+CREATED:20260426T073442Z
+DESCRIPTION:Show: Frieren: Beyond Journey's End\nEpisode: Like a Fairy Tal
+ e\nSeason 1\, Episode 7\nNetwork/Platform: NTV\nRuntime: 24 min\n\nAfter r
+ eflecting on the transient nature of the past as it exists in people's col
+ lective memories\, Frieren unexpectedly runs into a sworn enemy.
+URL:https://www.tvmaze.com/episodes/2655226/frieren-beyond-journeys-end-1x
+ 07-like-a-fairy-tale
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Frieren: Beyond Journey's End - S01E08: Frieren the Slayer
+DTSTART;TZID=America/New_York:20231027T230000
+DTEND;TZID=America/New_York:20231027T232400
+DTSTAMP:20260426T073442Z
+UID:tvshow-69956-s1e8@kz-ai-dev.github.io
+CATEGORIES:TV Show,NTV
+CREATED:20260426T073442Z
+DESCRIPTION:Show: Frieren: Beyond Journey's End\nEpisode: Frieren the Slay
+ er\nSeason 1\, Episode 8\nNetwork/Platform: NTV\nRuntime: 24 min\n\nAs ten
+ sions in Graf Granat's domain reach a breaking point\, Fern and Stark find
+  their own resolve - and Frieren resumes an old duty.
+URL:https://www.tvmaze.com/episodes/2655227/frieren-beyond-journeys-end-1x
+ 08-frieren-the-slayer
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Frieren: Beyond Journey's End - S01E09: Aura the Guillotine
+DTSTART;TZID=America/New_York:20231103T230000
+DTEND;TZID=America/New_York:20231103T232400
+DTSTAMP:20260426T073442Z
+UID:tvshow-69956-s1e9@kz-ai-dev.github.io
+CATEGORIES:TV Show,NTV
+CREATED:20260426T073442Z
+DESCRIPTION:Show: Frieren: Beyond Journey's End\nEpisode: Aura the Guillot
+ ine\nSeason 1\, Episode 9\nNetwork/Platform: NTV\nRuntime: 24 min\n\nWhile
+  Fern and Stark make a temporary retreat with Graf Granat\, Frieren's true
+  foe awaits her outside the city.
+URL:https://www.tvmaze.com/episodes/2655228/frieren-beyond-journeys-end-1x
+ 09-aura-the-guillotine
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Frieren: Beyond Journey's End - S01E10: A Powerful Mage
+DTSTART;TZID=America/New_York:20231110T230000
+DTEND;TZID=America/New_York:20231110T232400
+DTSTAMP:20260426T073442Z
+UID:tvshow-69956-s1e10@kz-ai-dev.github.io
+CATEGORIES:TV Show,NTV
+CREATED:20260426T073442Z
+DESCRIPTION:Show: Frieren: Beyond Journey's End\nEpisode: A Powerful Mage\
+ nSeason 1\, Episode 10\nNetwork/Platform: NTV\nRuntime: 24 min\n\nFrieren'
+ s many years of training under her teacher Flamme are tested in her confro
+ ntation with Aura the Guillotine. Will Aura's scales find her wanting?
+URL:https://www.tvmaze.com/episodes/2655229/frieren-beyond-journeys-end-1x
+ 10-a-powerful-mage
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Frieren: Beyond Journey's End - S01E11: Winter in the Northern Lan
+ ds
+DTSTART;TZID=America/New_York:20231117T230000
+DTEND;TZID=America/New_York:20231117T232400
+DTSTAMP:20260426T073442Z
+UID:tvshow-69956-s1e11@kz-ai-dev.github.io
+CATEGORIES:TV Show,NTV
+CREATED:20260426T073442Z
+DESCRIPTION:Show: Frieren: Beyond Journey's End\nEpisode: Winter in the No
+ rthern Lands\nSeason 1\, Episode 11\nNetwork/Platform: NTV\nRuntime: 24 mi
+ n\n\nFrieren and her companions continue their journey through the norther
+ n lands\, but obstacles both natural and manmade still stand in their way.
+URL:https://www.tvmaze.com/episodes/2655230/frieren-beyond-journeys-end-1x
+ 11-winter-in-the-northern-lands
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Frieren: Beyond Journey's End - S01E12: A Real Hero
+DTSTART;TZID=America/New_York:20231124T230000
+DTEND;TZID=America/New_York:20231124T232400
+DTSTAMP:20260426T073442Z
+UID:tvshow-69956-s1e12@kz-ai-dev.github.io
+CATEGORIES:TV Show,NTV
+CREATED:20260426T073442Z
+DESCRIPTION:Show: Frieren: Beyond Journey's End\nEpisode: A Real Hero\nSea
+ son 1\, Episode 12\nNetwork/Platform: NTV\nRuntime: 24 min\n\nDeep in the 
+ mountains of the northern lands\, Frieren and her party arrive at the Vill
+ age of the Sword\, where they have another job to do.
+URL:https://www.tvmaze.com/episodes/2655231/frieren-beyond-journeys-end-1x
+ 12-a-real-hero
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Frieren: Beyond Journey's End - S01E13: Aversion to One's Own Kind
+DTSTART;TZID=America/New_York:20231201T230000
+DTEND;TZID=America/New_York:20231201T232400
+DTSTAMP:20260426T073442Z
+UID:tvshow-69956-s1e13@kz-ai-dev.github.io
+CATEGORIES:TV Show,NTV
+CREATED:20260426T073442Z
+DESCRIPTION:Show: Frieren: Beyond Journey's End\nEpisode: Aversion to One'
+ s Own Kind\nSeason 1\, Episode 13\nNetwork/Platform: NTV\nRuntime: 24 min\
+ n\nWhile passing by a village in the woods of the northern lands\, Frieren
+  and party meet Sein\, a gifted priest who is nonetheless corrupt enough t
+ o give even Heiter a run for his money. But what happened in his past?
+URL:https://www.tvmaze.com/episodes/2655232/frieren-beyond-journeys-end-1x
+ 13-aversion-to-ones-own-kind
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Frieren: Beyond Journey's End - S01E14: Privilege of the Young
+DTSTART;TZID=America/New_York:20231208T230000
+DTEND;TZID=America/New_York:20231208T232400
+DTSTAMP:20260426T073442Z
+UID:tvshow-69956-s1e14@kz-ai-dev.github.io
+CATEGORIES:TV Show,NTV
+CREATED:20260426T073442Z
+DESCRIPTION:Show: Frieren: Beyond Journey's End\nEpisode: Privilege of the
+  Young\nSeason 1\, Episode 14\nNetwork/Platform: NTV\nRuntime: 24 min\n\nT
+ he party arrives in a large and lively town with a bustling shopping distr
+ ict that Frieren once visited with Himmel\, but something seems to have co
+ me up between Fern and Stark.
+URL:https://www.tvmaze.com/episodes/2655233/frieren-beyond-journeys-end-1x
+ 14-privilege-of-the-young
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Frieren: Beyond Journey's End - S01E15: Smells Like Trouble
+DTSTART;TZID=America/New_York:20231215T230000
+DTEND;TZID=America/New_York:20231215T232400
+DTSTAMP:20260426T073442Z
+UID:tvshow-69956-s1e15@kz-ai-dev.github.io
+CATEGORIES:TV Show,NTV
+CREATED:20260426T073442Z
+DESCRIPTION:Show: Frieren: Beyond Journey's End\nEpisode: Smells Like Trou
+ ble\nSeason 1\, Episode 15\nNetwork/Platform: NTV\nRuntime: 24 min\n\nWhen
+  the party happens upon a town whose inhabitants are all mysteriously asle
+ ep\, it's time for their newest traveling companion to prove his mettle.
+URL:https://www.tvmaze.com/episodes/2655234/frieren-beyond-journeys-end-1x
+ 15-smells-like-trouble
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Frieren: Beyond Journey's End - S01E16: Long-Lived Friends
+DTSTART;TZID=America/New_York:20231222T230000
+DTEND;TZID=America/New_York:20231222T232400
+DTSTAMP:20260426T073442Z
+UID:tvshow-69956-s1e16@kz-ai-dev.github.io
+CATEGORIES:TV Show,NTV
+CREATED:20260426T073442Z
+DESCRIPTION:Show: Frieren: Beyond Journey's End\nEpisode: Long-Lived Frien
+ ds\nSeason 1\, Episode 16\nNetwork/Platform: NTV\nRuntime: 24 min\n\nFrier
+ en pays a visit to Old Man Voll\, a long-lived friend of hers\, with trave
+ ling companions in tow.
+URL:https://www.tvmaze.com/episodes/2655235/frieren-beyond-journeys-end-1x
+ 16-long-lived-friends
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Frieren: Beyond Journey's End - S01E17: Take Care
+DTSTART;TZID=America/New_York:20240105T230000
+DTEND;TZID=America/New_York:20240105T232400
+DTSTAMP:20260426T073442Z
+UID:tvshow-69956-s1e17@kz-ai-dev.github.io
+CATEGORIES:TV Show,NTV
+CREATED:20260426T073442Z
+DESCRIPTION:Show: Frieren: Beyond Journey's End\nEpisode: Take Care\nSeaso
+ n 1\, Episode 17\nNetwork/Platform: NTV\nRuntime: 24 min\n\nNow that Sein 
+ finally has a lead on the whereabouts of his long-lost friend\, is it time
+  for him and Frieren's party to part ways?
+URL:https://www.tvmaze.com/episodes/2655236/frieren-beyond-journeys-end-1x
+ 17-take-care
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Frieren: Beyond Journey's End - S01E18: First-Class Mage Exam
+DTSTART;TZID=America/New_York:20240112T230000
+DTEND;TZID=America/New_York:20240112T232400
+DTSTAMP:20260426T073442Z
+UID:tvshow-69956-s1e18@kz-ai-dev.github.io
+CATEGORIES:TV Show,NTV
+CREATED:20260426T073442Z
+DESCRIPTION:Show: Frieren: Beyond Journey's End\nEpisode: First-Class Mage
+  Exam\nSeason 1\, Episode 18\nNetwork/Platform: NTV\nRuntime: 24 min\n\nFr
+ ieren and party finally arrive in Äußerst\, ready to undergo the first-c
+ lass mage exam\, and meet a number of colorful characters who are there to
+  do the same.
+URL:https://www.tvmaze.com/episodes/2655237/frieren-beyond-journeys-end-1x
+ 18-first-class-mage-exam
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Frieren: Beyond Journey's End - S01E19: Well-Laid Plans
+DTSTART;TZID=America/New_York:20240119T230000
+DTEND;TZID=America/New_York:20240119T232400
+DTSTAMP:20260426T073442Z
+UID:tvshow-69956-s1e19@kz-ai-dev.github.io
+CATEGORIES:TV Show,NTV
+CREATED:20260426T073442Z
+DESCRIPTION:Show: Frieren: Beyond Journey's End\nEpisode: Well-Laid Plans\
+ nSeason 1\, Episode 19\nNetwork/Platform: NTV\nRuntime: 24 min\n\nFrieren 
+ and her new teammates hatch a plan to capture a Stille - but are the other
+  teams just going to stand by and let it happen?
+URL:https://www.tvmaze.com/episodes/2655238/frieren-beyond-journeys-end-1x
+ 19-well-laid-plans
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Frieren: Beyond Journey's End - S01E20: Necessary Killing
+DTSTART;TZID=America/New_York:20240126T230000
+DTEND;TZID=America/New_York:20240126T232400
+DTSTAMP:20260426T073442Z
+UID:tvshow-69956-s1e20@kz-ai-dev.github.io
+CATEGORIES:TV Show,NTV
+CREATED:20260426T073442Z
+DESCRIPTION:Show: Frieren: Beyond Journey's End\nEpisode: Necessary Killin
+ g\nSeason 1\, Episode 20\nNetwork/Platform: NTV\nRuntime: 24 min\n\nThe fi
+ rst-class mage exam intensifies as fighting breaks out between the partici
+ pants - and what's at stake might even be worth killing for.
+URL:https://www.tvmaze.com/episodes/2655239/frieren-beyond-journeys-end-1x
+ 20-necessary-killing
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Frieren: Beyond Journey's End - S01E21: The World of Magic
+DTSTART;TZID=America/New_York:20240202T230000
+DTEND;TZID=America/New_York:20240202T232400
+DTSTAMP:20260426T073442Z
+UID:tvshow-69956-s1e21@kz-ai-dev.github.io
+CATEGORIES:TV Show,NTV
+CREATED:20260426T073442Z
+DESCRIPTION:Show: Frieren: Beyond Journey's End\nEpisode: The World of Mag
+ ic\nSeason 1\, Episode 21\nNetwork/Platform: NTV\nRuntime: 24 min\n\nFrier
+ en\, Kanne\, and Lawine struggle with the 13th party over possession of th
+ e Stille\, but there'll be more surprises in store before their battle\, a
+ nd the first test\, reach their conclusion.
+URL:https://www.tvmaze.com/episodes/2655240/frieren-beyond-journeys-end-1x
+ 21-the-world-of-magic
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Frieren: Beyond Journey's End - S01E22: Future Enemies
+DTSTART;TZID=America/New_York:20240209T230000
+DTEND;TZID=America/New_York:20240209T232400
+DTSTAMP:20260426T073442Z
+UID:tvshow-69956-s1e22@kz-ai-dev.github.io
+CATEGORIES:TV Show,NTV
+CREATED:20260426T073442Z
+DESCRIPTION:Show: Frieren: Beyond Journey's End\nEpisode: Future Enemies\n
+ Season 1\, Episode 22\nNetwork/Platform: NTV\nRuntime: 24 min\n\nAfter the
+  conclusion of the first test\, the exam participants have some time to ki
+ ll in town. What do mages get up to on their days off?
+URL:https://www.tvmaze.com/episodes/2655241/frieren-beyond-journeys-end-1x
+ 22-future-enemies
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Frieren: Beyond Journey's End - S01E23: Conquering the Labyrinth
+DTSTART;TZID=America/New_York:20240216T230000
+DTEND;TZID=America/New_York:20240216T232400
+DTSTAMP:20260426T073442Z
+UID:tvshow-69956-s1e23@kz-ai-dev.github.io
+CATEGORIES:TV Show,NTV
+CREATED:20260426T073442Z
+DESCRIPTION:Show: Frieren: Beyond Journey's End\nEpisode: Conquering the L
+ abyrinth\nSeason 1\, Episode 23\nNetwork/Platform: NTV\nRuntime: 24 min\n\
+ nThe aspiring first-class mages now face their second test: conquering the
+  Ruins of the King's Tomb. A simple task\, or so the proctor claims\, but 
+ there's a reason this particular dungeon remains unexplored.
+URL:https://www.tvmaze.com/episodes/2655242/frieren-beyond-journeys-end-1x
+ 23-conquering-the-labyrinth
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Frieren: Beyond Journey's End - S01E24: Perfect Replicas
+DTSTART;TZID=America/New_York:20240223T230000
+DTEND;TZID=America/New_York:20240223T232400
+DTSTAMP:20260426T073442Z
+UID:tvshow-69956-s1e24@kz-ai-dev.github.io
+CATEGORIES:TV Show,NTV
+CREATED:20260426T073442Z
+DESCRIPTION:Show: Frieren: Beyond Journey's End\nEpisode: Perfect Replicas
+ \nSeason 1\, Episode 24\nNetwork/Platform: NTV\nRuntime: 24 min\n\nDue to 
+ the Spiegel\, a legendary monster that can create perfect replicas of othe
+ rs\, the test-takers who would conquer the Ruins of the King's Tomb must f
+ irst face the ultimate enemy: themselves.
+URL:https://www.tvmaze.com/episodes/2655243/frieren-beyond-journeys-end-1x
+ 24-perfect-replicas
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Frieren: Beyond Journey's End - S01E25: A Fatal Vulnerability
+DTSTART;TZID=America/New_York:20240301T010000
+DTEND;TZID=America/New_York:20240301T012400
+DTSTAMP:20260426T073442Z
+UID:tvshow-69956-s1e25@kz-ai-dev.github.io
+CATEGORIES:TV Show,NTV
+CREATED:20260426T073442Z
+DESCRIPTION:Show: Frieren: Beyond Journey's End\nEpisode: A Fatal Vulnerab
+ ility\nSeason 1\, Episode 25\nNetwork/Platform: NTV\nRuntime: 24 min\n\nA 
+ perfect imitation of Frieren stands between the test-takers and victory\, 
+ but Fern believes she knows how to win. Is it time for the student to surp
+ ass the master?
+URL:https://www.tvmaze.com/episodes/2655244/frieren-beyond-journeys-end-1x
+ 25-a-fatal-vulnerability
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Frieren: Beyond Journey's End - S01E26: The Height of Magic
+DTSTART;TZID=America/New_York:20240308T010000
+DTEND;TZID=America/New_York:20240308T012400
+DTSTAMP:20260426T073442Z
+UID:tvshow-69956-s1e26@kz-ai-dev.github.io
+CATEGORIES:TV Show,NTV
+CREATED:20260426T073442Z
+DESCRIPTION:Show: Frieren: Beyond Journey's End\nEpisode: The Height of Ma
+ gic\nSeason 1\, Episode 26\nNetwork/Platform: NTV\nRuntime: 24 min\n
+URL:https://www.tvmaze.com/episodes/2780952/frieren-beyond-journeys-end-1x
+ 26-the-height-of-magic
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Frieren: Beyond Journey's End - S01E27: An Era of Humans
+DTSTART;TZID=America/New_York:20240315T000000
+DTEND;TZID=America/New_York:20240315T002400
+DTSTAMP:20260426T073442Z
+UID:tvshow-69956-s1e27@kz-ai-dev.github.io
+CATEGORIES:TV Show,NTV
+CREATED:20260426T073442Z
+DESCRIPTION:Show: Frieren: Beyond Journey's End\nEpisode: An Era of Humans
+ \nSeason 1\, Episode 27\nNetwork/Platform: NTV\nRuntime: 24 min\n\nWith th
+ e second test behind them\, only one remains - but first\, Frieren and Fer
+ n need to settle an important matter in town. What awaits them in the thir
+ d test?
+URL:https://www.tvmaze.com/episodes/2780953/frieren-beyond-journeys-end-1x
+ 27-an-era-of-humans
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Frieren: Beyond Journey's End - S01E28: It Would Be Embarrassing W
+ hen We Met Again
+DTSTART;TZID=America/New_York:20240322T000000
+DTEND;TZID=America/New_York:20240322T002400
+DTSTAMP:20260426T073442Z
+UID:tvshow-69956-s1e28@kz-ai-dev.github.io
+CATEGORIES:TV Show,NTV
+CREATED:20260426T073442Z
+DESCRIPTION:Show: Frieren: Beyond Journey's End\nEpisode: It Would Be Emba
+ rrassing When We Met Again\nSeason 1\, Episode 28\nNetwork/Platform: NTV\n
+ Runtime: 24 min\n\nAs the first-class mage exam concludes and the test-tak
+ ers go their separate ways\, farewell leads to departure - but the next st
+ age of Frieren's journey has only just begun.
+URL:https://www.tvmaze.com/episodes/2780954/frieren-beyond-journeys-end-1x
+ 28-it-would-be-embarrassing-when-we-met-again
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Frieren: Beyond Journey's End - S02E01: Shall We Go\, Then?
+DTSTART;TZID=America/New_York:20260116T010000
+DTEND;TZID=America/New_York:20260116T012400
+DTSTAMP:20260426T073442Z
+UID:tvshow-69956-s2e1@kz-ai-dev.github.io
+CATEGORIES:TV Show,NTV
+CREATED:20260426T073442Z
+DESCRIPTION:Show: Frieren: Beyond Journey's End\nEpisode: Shall We Go\, Th
+ en?\nSeason 2\, Episode 1\nNetwork/Platform: NTV\nRuntime: 24 min\n\nFrier
+ en\, Fern\, and Stark leave the magic city of Äußerst behind and travel 
+ along a road in the northern lands.
+URL:https://www.tvmaze.com/episodes/3449494/frieren-beyond-journeys-end-2x
+ 01-shall-we-go-then
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Frieren: Beyond Journey's End - S02E02: The Hero of the South
+DTSTART;TZID=America/New_York:20260123T010000
+DTEND;TZID=America/New_York:20260123T012300
+DTSTAMP:20260426T073442Z
+UID:tvshow-69956-s2e2@kz-ai-dev.github.io
+CATEGORIES:TV Show,NTV
+CREATED:20260426T073442Z
+DESCRIPTION:Show: Frieren: Beyond Journey's End\nEpisode: The Hero of the 
+ South\nSeason 2\, Episode 2\nNetwork/Platform: NTV\nRuntime: 23 min\n\nIn 
+ a village in the northern lands\, Frieren's party are hired to polish a st
+ atue of a hero.
+URL:https://www.tvmaze.com/episodes/3526004/frieren-beyond-journeys-end-2x
+ 02-the-hero-of-the-south
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Frieren: Beyond Journey's End - S02E03: Somewhere She'd Like
+DTSTART;TZID=America/New_York:20260130T010000
+DTEND;TZID=America/New_York:20260130T012400
+DTSTAMP:20260426T073442Z
+UID:tvshow-69956-s2e3@kz-ai-dev.github.io
+CATEGORIES:TV Show,NTV
+CREATED:20260426T073442Z
+DESCRIPTION:Show: Frieren: Beyond Journey's End\nEpisode: Somewhere She'd 
+ Like\nSeason 2\, Episode 3\nNetwork/Platform: NTV\nRuntime: 24 min\n\nFrie
+ ren's party dream of hot springs as they reach Etwas\, but the village is 
+ abandoned.
+URL:https://www.tvmaze.com/episodes/3526005/frieren-beyond-journeys-end-2x
+ 03-somewhere-shed-like
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Frieren: Beyond Journey's End - S02E04: Other People's Homes
+DTSTART;TZID=America/New_York:20260206T010000
+DTEND;TZID=America/New_York:20260206T012300
+DTSTAMP:20260426T073442Z
+UID:tvshow-69956-s2e4@kz-ai-dev.github.io
+CATEGORIES:TV Show,NTV
+CREATED:20260426T073442Z
+DESCRIPTION:Show: Frieren: Beyond Journey's End\nEpisode: Other People's H
+ omes\nSeason 2\, Episode 4\nNetwork/Platform: NTV\nRuntime: 23 min\n\nStar
+ k only asked Fern out as a joke\, but the two end up going on a date.
+URL:https://www.tvmaze.com/episodes/3526006/frieren-beyond-journeys-end-2x
+ 04-other-peoples-homes
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Frieren: Beyond Journey's End - S02E05: Logistics in the Northern 
+ Plateau
+DTSTART;TZID=America/New_York:20260213T010000
+DTEND;TZID=America/New_York:20260213T012400
+DTSTAMP:20260426T073442Z
+UID:tvshow-69956-s2e5@kz-ai-dev.github.io
+CATEGORIES:TV Show,NTV
+CREATED:20260426T073442Z
+DESCRIPTION:Show: Frieren: Beyond Journey's End\nEpisode: Logistics in the
+  Northern Plateau\nSeason 2\, Episode 5\nNetwork/Platform: NTV\nRuntime: 2
+ 4 min\n\nFrieren is reunited with Fass the dwarf\, who has been searching 
+ for the Boshaft liquor for over 200 years.
+URL:https://www.tvmaze.com/episodes/3526007/frieren-beyond-journeys-end-2x
+ 05-logistics-in-the-northern-plateau
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Frieren: Beyond Journey's End - S02E06: A Demon-Slaying Request
+DTSTART;TZID=America/New_York:20260227T010000
+DTEND;TZID=America/New_York:20260227T012300
+DTSTAMP:20260426T073442Z
+UID:tvshow-69956-s2e6@kz-ai-dev.github.io
+CATEGORIES:TV Show,NTV
+CREATED:20260426T073442Z
+DESCRIPTION:Show: Frieren: Beyond Journey's End\nEpisode: A Demon-Slaying 
+ Request\nSeason 2\, Episode 6\nNetwork/Platform: NTV\nRuntime: 23 min\n\nA
+  village on the Northern Plateau is wiped out\, and the victims' distincti
+ ve wounds point to a certain demon.
+URL:https://www.tvmaze.com/episodes/3526008/frieren-beyond-journeys-end-2x
+ 06-a-demon-slaying-request
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Frieren: Beyond Journey's End - S02E07: The Divine Revolte
+DTSTART;TZID=America/New_York:20260306T010000
+DTEND;TZID=America/New_York:20260306T012400
+DTSTAMP:20260426T073442Z
+UID:tvshow-69956-s2e7@kz-ai-dev.github.io
+CATEGORIES:TV Show,NTV
+CREATED:20260426T073442Z
+DESCRIPTION:Show: Frieren: Beyond Journey's End\nEpisode: The Divine Revol
+ te\nSeason 2\, Episode 7\nNetwork/Platform: NTV\nRuntime: 24 min\n\nFriere
+ n\, Fern\, and Methode enter the woods to look for the four-armed Divine R
+ evolte.
+URL:https://www.tvmaze.com/episodes/3526009/frieren-beyond-journeys-end-2x
+ 07-the-divine-revolte
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Frieren: Beyond Journey's End - S02E08: A Magnificent End
+DTSTART;TZID=America/New_York:20260313T010000
+DTEND;TZID=America/New_York:20260313T013000
+DTSTAMP:20260426T073442Z
+UID:tvshow-69956-s2e8@kz-ai-dev.github.io
+CATEGORIES:TV Show,NTV
+CREATED:20260426T073442Z
+DESCRIPTION:Show: Frieren: Beyond Journey's End\nEpisode: A Magnificent En
+ d\nSeason 2\, Episode 8\nNetwork/Platform: NTV\nRuntime: 30 min\n\nThe Div
+ ine Revolte appears at the village\, while Frieren\, Fern\, and Methode ba
+ ttle Solide and Hemmung.
+URL:https://www.tvmaze.com/episodes/3526010/frieren-beyond-journeys-end-2x
+ 08-a-magnificent-end
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Frieren: Beyond Journey's End - S02E09: Himmel's Memoirs
+DTSTART;TZID=America/New_York:20260320T010000
+DTEND;TZID=America/New_York:20260320T013000
+DTSTAMP:20260426T073442Z
+UID:tvshow-69956-s2e9@kz-ai-dev.github.io
+CATEGORIES:TV Show,NTV
+CREATED:20260426T073442Z
+DESCRIPTION:Show: Frieren: Beyond Journey's End\nEpisode: Himmel's Memoirs
+ \nSeason 2\, Episode 9\nNetwork/Platform: NTV\nRuntime: 30 min\n\nWhen Fri
+ eren's party cannot afford the fare to cross Lake Korridor\, the captain p
+ roposes a trade.
+URL:https://www.tvmaze.com/episodes/3526011/frieren-beyond-journeys-end-2x
+ 09-himmels-memoirs
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Frieren: Beyond Journey's End - S02E10: A Beautiful Sight
+DTSTART;TZID=America/New_York:20260327T010000
+DTEND;TZID=America/New_York:20260327T013000
+DTSTAMP:20260426T073442Z
+UID:tvshow-69956-s2e10@kz-ai-dev.github.io
+CATEGORIES:TV Show,NTV
+CREATED:20260426T073442Z
+DESCRIPTION:Show: Frieren: Beyond Journey's End\nEpisode: A Beautiful Sigh
+ t\nSeason 2\, Episode 10\nNetwork/Platform: NTV\nRuntime: 30 min\n\nHidden
+  within the massive bridge spanning the Great Canyon Tor is a secret story
+  of Himmel and Gehen.
+URL:https://www.tvmaze.com/episodes/3526012/frieren-beyond-journeys-end-2x
+ 10-a-beautiful-sight
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Hell's Paradise: Jigokuraku - S01E01: The Death Row Convict and th
  e Executioner
 DTSTART;TZID=America/New_York:20230401T230000
 DTEND;TZID=America/New_York:20230401T233000
-DTSTAMP:20260410T091135Z
+DTSTAMP:20260426T073443Z
 UID:tvshow-65876-s1e1@kz-ai-dev.github.io
 CATEGORIES:TV Show,TV Tokyo
-CREATED:20260410T091135Z
+CREATED:20260426T073443Z
 DESCRIPTION:Show: Hell's Paradise: Jigokuraku\nEpisode: The Death Row Conv
  ict and the Executioner\nSeason 1\, Episode 1\nNetwork/Platform: TV Tokyo\
  nRuntime: 30 min\n\nGabimaru the Hollow has been sentenced to death. Carry
@@ -904,10 +1490,10 @@ BEGIN:VEVENT
 SUMMARY:Hell's Paradise: Jigokuraku - S01E02: Screening and Choosing
 DTSTART;TZID=America/New_York:20230408T230000
 DTEND;TZID=America/New_York:20230408T233000
-DTSTAMP:20260410T091135Z
+DTSTAMP:20260426T073443Z
 UID:tvshow-65876-s1e2@kz-ai-dev.github.io
 CATEGORIES:TV Show,TV Tokyo
-CREATED:20260410T091135Z
+CREATED:20260426T073443Z
 DESCRIPTION:Show: Hell's Paradise: Jigokuraku\nEpisode: Screening and Choo
  sing\nSeason 1\, Episode 2\nNetwork/Platform: TV Tokyo\nRuntime: 30 min\n\
  nThe condemned criminals are gathered on the beach to prepare for the expe
@@ -919,10 +1505,10 @@ BEGIN:VEVENT
 SUMMARY:Hell's Paradise: Jigokuraku - S01E03: Weakness and Strength
 DTSTART;TZID=America/New_York:20230415T230000
 DTEND;TZID=America/New_York:20230415T233000
-DTSTAMP:20260410T091135Z
+DTSTAMP:20260426T073443Z
 UID:tvshow-65876-s1e3@kz-ai-dev.github.io
 CATEGORIES:TV Show,TV Tokyo
-CREATED:20260410T091135Z
+CREATED:20260426T073443Z
 DESCRIPTION:Show: Hell's Paradise: Jigokuraku\nEpisode: Weakness and Stren
  gth\nSeason 1\, Episode 3\nNetwork/Platform: TV Tokyo\nRuntime: 30 min\n\n
  Gabimaru\, Sagiri\, and the others arrive on Shinsenkyo\, and their battle
@@ -934,10 +1520,10 @@ BEGIN:VEVENT
 SUMMARY:Hell's Paradise: Jigokuraku - S01E04: Hell and Paradise
 DTSTART;TZID=America/New_York:20230422T230000
 DTEND;TZID=America/New_York:20230422T233000
-DTSTAMP:20260410T091135Z
+DTSTAMP:20260426T073443Z
 UID:tvshow-65876-s1e4@kz-ai-dev.github.io
 CATEGORIES:TV Show,TV Tokyo
-CREATED:20260410T091135Z
+CREATED:20260426T073443Z
 DESCRIPTION:Show: Hell's Paradise: Jigokuraku\nEpisode: Hell and Paradise\
  nSeason 1\, Episode 4\nNetwork/Platform: TV Tokyo\nRuntime: 30 min\n\nYuzu
  riha approaches Gabimaru and Sagiri with an offer.
@@ -948,10 +1534,10 @@ BEGIN:VEVENT
 SUMMARY:Hell's Paradise: Jigokuraku - S01E05: The Samurai and the Woman
 DTSTART;TZID=America/New_York:20230429T230000
 DTEND;TZID=America/New_York:20230429T233000
-DTSTAMP:20260410T091135Z
+DTSTAMP:20260426T073443Z
 UID:tvshow-65876-s1e5@kz-ai-dev.github.io
 CATEGORIES:TV Show,TV Tokyo
-CREATED:20260410T091135Z
+CREATED:20260426T073443Z
 DESCRIPTION:Show: Hell's Paradise: Jigokuraku\nEpisode: The Samurai and th
  e Woman\nSeason 1\, Episode 5\nNetwork/Platform: TV Tokyo\nRuntime: 30 min
  \n\nGabimaru and Sagiri's group cross paths with another Yamada Asaemon\, 
@@ -965,10 +1551,10 @@ BEGIN:VEVENT
 SUMMARY:Hell's Paradise: Jigokuraku - S01E06: Heart and Reason
 DTSTART;TZID=America/New_York:20230506T230000
 DTEND;TZID=America/New_York:20230506T233000
-DTSTAMP:20260410T091135Z
+DTSTAMP:20260426T073443Z
 UID:tvshow-65876-s1e6@kz-ai-dev.github.io
 CATEGORIES:TV Show,TV Tokyo
-CREATED:20260410T091135Z
+CREATED:20260426T073443Z
 DESCRIPTION:Show: Hell's Paradise: Jigokuraku\nEpisode: Heart and Reason\n
  Season 1\, Episode 6\nNetwork/Platform: TV Tokyo\nRuntime: 30 min\n\nRokur
  ota\, the Giant of Bizen\, attacks Gabimaru and Sagiri's party. Meanwhile\
@@ -981,10 +1567,10 @@ BEGIN:VEVENT
 SUMMARY:Hell's Paradise: Jigokuraku - S01E07: Flowers and Offerings
 DTSTART;TZID=America/New_York:20230513T230000
 DTEND;TZID=America/New_York:20230513T233000
-DTSTAMP:20260410T091135Z
+DTSTAMP:20260426T073443Z
 UID:tvshow-65876-s1e7@kz-ai-dev.github.io
 CATEGORIES:TV Show,TV Tokyo
-CREATED:20260410T091135Z
+CREATED:20260426T073443Z
 DESCRIPTION:Show: Hell's Paradise: Jigokuraku\nEpisode: Flowers and Offeri
  ngs\nSeason 1\, Episode 7\nNetwork/Platform: TV Tokyo\nRuntime: 30 min\n\n
  Chobe and Toma encounter people unlike any they've ever encountered before
@@ -996,10 +1582,10 @@ BEGIN:VEVENT
 SUMMARY:Hell's Paradise: Jigokuraku - S01E08: Student and Master
 DTSTART;TZID=America/New_York:20230520T230000
 DTEND;TZID=America/New_York:20230520T233000
-DTSTAMP:20260410T091135Z
+DTSTAMP:20260426T073443Z
 UID:tvshow-65876-s1e8@kz-ai-dev.github.io
 CATEGORIES:TV Show,TV Tokyo
-CREATED:20260410T091135Z
+CREATED:20260426T073443Z
 DESCRIPTION:Show: Hell's Paradise: Jigokuraku\nEpisode: Student and Master
  \nSeason 1\, Episode 8\nNetwork/Platform: TV Tokyo\nRuntime: 30 min\n\nTen
  za and Nurugai also encounter one of the island's strange denizens with un
@@ -1012,10 +1598,10 @@ BEGIN:VEVENT
 SUMMARY:Hell's Paradise: Jigokuraku - S01E09: Gods and People
 DTSTART;TZID=America/New_York:20230603T230000
 DTEND;TZID=America/New_York:20230603T233000
-DTSTAMP:20260410T091135Z
+DTSTAMP:20260426T073443Z
 UID:tvshow-65876-s1e9@kz-ai-dev.github.io
 CATEGORIES:TV Show,TV Tokyo
-CREATED:20260410T091135Z
+CREATED:20260426T073443Z
 DESCRIPTION:Show: Hell's Paradise: Jigokuraku\nEpisode: Gods and People\nS
  eason 1\, Episode 9\nNetwork/Platform: TV Tokyo\nRuntime: 30 min\n\nSagiri
  's group sets off in search of Horai. Gabimaru goes ahead and encounters t
@@ -1027,10 +1613,10 @@ BEGIN:VEVENT
 SUMMARY:Hell's Paradise: Jigokuraku - S01E10: Yin and Yang
 DTSTART;TZID=America/New_York:20230610T230000
 DTEND;TZID=America/New_York:20230610T233000
-DTSTAMP:20260410T091135Z
+DTSTAMP:20260426T073443Z
 UID:tvshow-65876-s1e10@kz-ai-dev.github.io
 CATEGORIES:TV Show,TV Tokyo
-CREATED:20260410T091135Z
+CREATED:20260426T073443Z
 DESCRIPTION:Show: Hell's Paradise: Jigokuraku\nEpisode: Yin and Yang\nSeas
  on 1\, Episode 10\nNetwork/Platform: TV Tokyo\nRuntime: 30 min\n\nMei atte
  mpts to explain something very important to Sagiri's party in the forest. 
@@ -1044,10 +1630,10 @@ BEGIN:VEVENT
 SUMMARY:Hell's Paradise: Jigokuraku - S01E11: Weak and Strong
 DTSTART;TZID=America/New_York:20230617T230000
 DTEND;TZID=America/New_York:20230617T233000
-DTSTAMP:20260410T091135Z
+DTSTAMP:20260426T073443Z
 UID:tvshow-65876-s1e11@kz-ai-dev.github.io
 CATEGORIES:TV Show,TV Tokyo
-CREATED:20260410T091135Z
+CREATED:20260426T073443Z
 DESCRIPTION:Show: Hell's Paradise: Jigokuraku\nEpisode: Weak and Strong\nS
  eason 1\, Episode 11\nNetwork/Platform: TV Tokyo\nRuntime: 30 min\n\nChobe
   brings new abilities to bear as he faces the Tensen's servants. A secret 
@@ -1060,10 +1646,10 @@ BEGIN:VEVENT
 SUMMARY:Hell's Paradise: Jigokuraku - S01E12: Umbrella and Ink
 DTSTART;TZID=America/New_York:20230624T230000
 DTEND;TZID=America/New_York:20230624T233000
-DTSTAMP:20260410T091135Z
+DTSTAMP:20260426T073443Z
 UID:tvshow-65876-s1e12@kz-ai-dev.github.io
 CATEGORIES:TV Show,TV Tokyo
-CREATED:20260410T091135Z
+CREATED:20260426T073443Z
 DESCRIPTION:Show: Hell's Paradise: Jigokuraku\nEpisode: Umbrella and Ink\n
  Season 1\, Episode 12\nNetwork/Platform: TV Tokyo\nRuntime: 30 min\n\nMu D
  an confronts Sagiri's party and reveals shocking truths about the island's
@@ -1075,10 +1661,10 @@ BEGIN:VEVENT
 SUMMARY:Hell's Paradise: Jigokuraku - S01E13: Dreams and Reality
 DTSTART;TZID=America/New_York:20230701T230000
 DTEND;TZID=America/New_York:20230701T233000
-DTSTAMP:20260410T091135Z
+DTSTAMP:20260426T073443Z
 UID:tvshow-65876-s1e13@kz-ai-dev.github.io
 CATEGORIES:TV Show,TV Tokyo
-CREATED:20260410T091135Z
+CREATED:20260426T073443Z
 DESCRIPTION:Show: Hell's Paradise: Jigokuraku\nEpisode: Dreams and Reality
  \nSeason 1\, Episode 13\nNetwork/Platform: TV Tokyo\nRuntime: 30 min\n\nSa
  giri's party faces Mu Dan's seemingly unstoppable true form. Shion does hi
@@ -1090,10 +1676,10 @@ BEGIN:VEVENT
 SUMMARY:Hell's Paradise: Jigokuraku - S02E01: Dawn and Confusion
 DTSTART;TZID=America/New_York:20260111T234500
 DTEND;TZID=America/New_York:20260112T001500
-DTSTAMP:20260410T091135Z
+DTSTAMP:20260426T073443Z
 UID:tvshow-65876-s2e1@kz-ai-dev.github.io
 CATEGORIES:TV Show,TV Tokyo
-CREATED:20260410T091135Z
+CREATED:20260426T073443Z
 DESCRIPTION:Show: Hell's Paradise: Jigokuraku\nEpisode: Dawn and Confusion
  \nSeason 2\, Episode 1\nNetwork/Platform: TV Tokyo\nRuntime: 30 min\n\nShu
  gen and Jikka are sent to Shinsenkyo\, while Gabimaru and his companions b
@@ -1105,10 +1691,10 @@ BEGIN:VEVENT
 SUMMARY:Hell's Paradise: Jigokuraku - S02E02: Reality and Fantasy
 DTSTART;TZID=America/New_York:20260118T234500
 DTEND;TZID=America/New_York:20260119T001500
-DTSTAMP:20260410T091135Z
+DTSTAMP:20260426T073443Z
 UID:tvshow-65876-s2e2@kz-ai-dev.github.io
 CATEGORIES:TV Show,TV Tokyo
-CREATED:20260410T091135Z
+CREATED:20260426T073443Z
 DESCRIPTION:Show: Hell's Paradise: Jigokuraku\nEpisode: Reality and Fantas
  y\nSeason 2\, Episode 2\nNetwork/Platform: TV Tokyo\nRuntime: 30 min\n\nAz
  a Chobe and Gabimaru lose themselves in battle\, but Mei stops their fight
@@ -1120,10 +1706,10 @@ BEGIN:VEVENT
 SUMMARY:Hell's Paradise: Jigokuraku - S02E03: Immutability and Change
 DTSTART;TZID=America/New_York:20260125T234500
 DTEND;TZID=America/New_York:20260126T001500
-DTSTAMP:20260410T091135Z
+DTSTAMP:20260426T073443Z
 UID:tvshow-65876-s2e3@kz-ai-dev.github.io
 CATEGORIES:TV Show,TV Tokyo
-CREATED:20260410T091135Z
+CREATED:20260426T073443Z
 DESCRIPTION:Show: Hell's Paradise: Jigokuraku\nEpisode: Immutability and C
  hange\nSeason 2\, Episode 3\nNetwork/Platform: TV Tokyo\nRuntime: 30 min\n
  \nWhile Aza Chobe battles Rien\, Gabimaru regains his memories and begins 
@@ -1135,10 +1721,10 @@ BEGIN:VEVENT
 SUMMARY:Hell's Paradise: Jigokuraku - S02E04: The Samurai Code and Carnage
 DTSTART;TZID=America/New_York:20260201T234500
 DTEND;TZID=America/New_York:20260202T001500
-DTSTAMP:20260410T091135Z
+DTSTAMP:20260426T073443Z
 UID:tvshow-65876-s2e4@kz-ai-dev.github.io
 CATEGORIES:TV Show,TV Tokyo
-CREATED:20260410T091135Z
+CREATED:20260426T073443Z
 DESCRIPTION:Show: Hell's Paradise: Jigokuraku\nEpisode: The Samurai Code a
  nd Carnage\nSeason 2\, Episode 4\nNetwork/Platform: TV Tokyo\nRuntime: 30 
  min\n\nSagiri believes Shugen will be an ally and eagerly anticipates the 
@@ -1150,10 +1736,10 @@ BEGIN:VEVENT
 SUMMARY:Hell's Paradise: Jigokuraku - S02E05: Humans and Sages
 DTSTART;TZID=America/New_York:20260208T234500
 DTEND;TZID=America/New_York:20260209T001500
-DTSTAMP:20260410T091135Z
+DTSTAMP:20260426T073443Z
 UID:tvshow-65876-s2e5@kz-ai-dev.github.io
 CATEGORIES:TV Show,TV Tokyo
-CREATED:20260410T091135Z
+CREATED:20260426T073443Z
 DESCRIPTION:Show: Hell's Paradise: Jigokuraku\nEpisode: Humans and Sages\n
  Season 2\, Episode 5\nNetwork/Platform: TV Tokyo\nRuntime: 30 min\n\nAs th
  e expeditioners prepare\, Gabimaru asks Mei if she's sure she wants to lea
@@ -1166,10 +1752,10 @@ SUMMARY:Hell's Paradise: Jigokuraku - S02E06: Conflict and Growing Togethe
  r
 DTSTART;TZID=America/New_York:20260215T234500
 DTEND;TZID=America/New_York:20260216T001500
-DTSTAMP:20260410T091135Z
+DTSTAMP:20260426T073443Z
 UID:tvshow-65876-s2e6@kz-ai-dev.github.io
 CATEGORIES:TV Show,TV Tokyo
-CREATED:20260410T091135Z
+CREATED:20260426T073443Z
 DESCRIPTION:Show: Hell's Paradise: Jigokuraku\nEpisode: Conflict and Growi
  ng Together\nSeason 2\, Episode 6\nNetwork/Platform: TV Tokyo\nRuntime: 30
   min\n\nGabimaru's group finally enters the sacred mountain\, but the Tens
@@ -1181,10 +1767,10 @@ BEGIN:VEVENT
 SUMMARY:Hell's Paradise: Jigokuraku - S02E07: Two People and One Person
 DTSTART;TZID=America/New_York:20260222T234500
 DTEND;TZID=America/New_York:20260223T001500
-DTSTAMP:20260410T091135Z
+DTSTAMP:20260426T073443Z
 UID:tvshow-65876-s2e7@kz-ai-dev.github.io
 CATEGORIES:TV Show,TV Tokyo
-CREATED:20260410T091135Z
+CREATED:20260426T073443Z
 DESCRIPTION:Show: Hell's Paradise: Jigokuraku\nEpisode: Two People and One
   Person\nSeason 2\, Episode 7\nNetwork/Platform: TV Tokyo\nRuntime: 30 min
  \n\nGantetsusai and Fuchi struggle against Tao Fa\, but they seem to be en
@@ -1196,10 +1782,10 @@ BEGIN:VEVENT
 SUMMARY:Hell's Paradise: Jigokuraku - S02E08: Chrysanthemum and Peach
 DTSTART;TZID=America/New_York:20260301T234500
 DTEND;TZID=America/New_York:20260302T001500
-DTSTAMP:20260410T091135Z
+DTSTAMP:20260426T073443Z
 UID:tvshow-65876-s2e8@kz-ai-dev.github.io
 CATEGORIES:TV Show,TV Tokyo
-CREATED:20260410T091135Z
+CREATED:20260426T073443Z
 DESCRIPTION:Show: Hell's Paradise: Jigokuraku\nEpisode: Chrysanthemum and 
  Peach\nSeason 2\, Episode 8\nNetwork/Platform: TV Tokyo\nRuntime: 30 min\n
  \nWhen Tao Fa asks Ju Fa for help\, Ju Fa recalls the time they spent toge
@@ -1211,10 +1797,10 @@ BEGIN:VEVENT
 SUMMARY:Hell's Paradise: Jigokuraku - S02E09: Love and Karma
 DTSTART;TZID=America/New_York:20260308T234500
 DTEND;TZID=America/New_York:20260309T001500
-DTSTAMP:20260410T091135Z
+DTSTAMP:20260426T073443Z
 UID:tvshow-65876-s2e9@kz-ai-dev.github.io
 CATEGORIES:TV Show,TV Tokyo
-CREATED:20260410T091135Z
+CREATED:20260426T073443Z
 DESCRIPTION:Show: Hell's Paradise: Jigokuraku\nEpisode: Love and Karma\nSe
  ason 2\, Episode 9\nNetwork/Platform: TV Tokyo\nRuntime: 30 min\n\nThe exp
  editioners work together to take on Tao Fa and Ju Fa\, who have undergone 
@@ -1226,10 +1812,10 @@ BEGIN:VEVENT
 SUMMARY:Hell's Paradise: Jigokuraku - S02E10: Master and Student
 DTSTART;TZID=America/New_York:20260315T234500
 DTEND;TZID=America/New_York:20260316T001500
-DTSTAMP:20260410T091135Z
+DTSTAMP:20260426T073443Z
 UID:tvshow-65876-s2e10@kz-ai-dev.github.io
 CATEGORIES:TV Show,TV Tokyo
-CREATED:20260410T091135Z
+CREATED:20260426T073443Z
 DESCRIPTION:Show: Hell's Paradise: Jigokuraku\nEpisode: Master and Student
  \nSeason 2\, Episode 10\nNetwork/Platform: TV Tokyo\nRuntime: 30 min\n\nSh
  ion and Nurugai take on Zhu Jin\, but both sides lack the ability to finis
@@ -1241,10 +1827,10 @@ BEGIN:VEVENT
 SUMMARY:Hell's Paradise: Jigokuraku - S02E11: Ephemeralness and Fire
 DTSTART;TZID=America/New_York:20260322T234500
 DTEND;TZID=America/New_York:20260323T001500
-DTSTAMP:20260410T091135Z
+DTSTAMP:20260426T073443Z
 UID:tvshow-65876-s2e11@kz-ai-dev.github.io
 CATEGORIES:TV Show,TV Tokyo
-CREATED:20260410T091135Z
+CREATED:20260426T073443Z
 DESCRIPTION:Show: Hell's Paradise: Jigokuraku\nEpisode: Ephemeralness and 
  Fire\nSeason 2\, Episode 11\nNetwork/Platform: TV Tokyo\nRuntime: 30 min\n
  \nGabimaru recalls the days he spent with Yui. How will his battle against
@@ -1256,10 +1842,10 @@ BEGIN:VEVENT
 SUMMARY:Hell's Paradise: Jigokuraku - S02E12: Endings and Beginnings
 DTSTART;TZID=America/New_York:20260329T234500
 DTEND;TZID=America/New_York:20260330T001500
-DTSTAMP:20260410T091135Z
+DTSTAMP:20260426T073443Z
 UID:tvshow-65876-s2e12@kz-ai-dev.github.io
 CATEGORIES:TV Show,TV Tokyo
-CREATED:20260410T091135Z
+CREATED:20260426T073443Z
 DESCRIPTION:Show: Hell's Paradise: Jigokuraku\nEpisode: Endings and Beginn
  ings\nSeason 2\, Episode 12\nNetwork/Platform: TV Tokyo\nRuntime: 30 min\n
  \nAs Gabimaru and his companions finish their respective battles\, the add
@@ -1271,10 +1857,10 @@ BEGIN:VEVENT
 SUMMARY:Hijack - S01E01: Final Call
 DTSTART;TZID=America/New_York:20230628T120000
 DTEND;TZID=America/New_York:20230628T124600
-DTSTAMP:20260410T091135Z
+DTSTAMP:20260426T073444Z
 UID:tvshow-61739-s1e1@kz-ai-dev.github.io
 CATEGORIES:TV Show,Apple TV
-CREATED:20260410T091135Z
+CREATED:20260426T073444Z
 DESCRIPTION:Show: Hijack\nEpisode: Final Call\nSeason 1\, Episode 1\nNetwo
  rk/Platform: Apple TV\nRuntime: 46 min\n\nSam Nelson gets on a flight to L
  ondon hoping to win back his ex-wife\, but something on board feels wrong 
@@ -1285,10 +1871,10 @@ BEGIN:VEVENT
 SUMMARY:Hijack - S01E02: 3 Degrees
 DTSTART;TZID=America/New_York:20230628T120000
 DTEND;TZID=America/New_York:20230628T124400
-DTSTAMP:20260410T091135Z
+DTSTAMP:20260426T073444Z
 UID:tvshow-61739-s1e2@kz-ai-dev.github.io
 CATEGORIES:TV Show,Apple TV
-CREATED:20260410T091135Z
+CREATED:20260426T073444Z
 DESCRIPTION:Show: Hijack\nEpisode: 3 Degrees\nSeason 1\, Episode 2\nNetwor
  k/Platform: Apple TV\nRuntime: 44 min\n\nSpotting an opportunity\, Sam exe
  cutes a plan to get a covert message to authorities on the ground.
@@ -1298,10 +1884,10 @@ BEGIN:VEVENT
 SUMMARY:Hijack - S01E03: Draw a Blank
 DTSTART;TZID=America/New_York:20230704T120000
 DTEND;TZID=America/New_York:20230704T124800
-DTSTAMP:20260410T091135Z
+DTSTAMP:20260426T073444Z
 UID:tvshow-61739-s1e3@kz-ai-dev.github.io
 CATEGORIES:TV Show,Apple TV
-CREATED:20260410T091135Z
+CREATED:20260426T073444Z
 DESCRIPTION:Show: Hijack\nEpisode: Draw a Blank\nSeason 1\, Episode 3\nNet
  work/Platform: Apple TV\nRuntime: 48 min\n\nAs the UK's counterterrorism u
  nit learns of Flight KA29\, Sam gets involved in a risky plan to take on t
@@ -1312,10 +1898,10 @@ BEGIN:VEVENT
 SUMMARY:Hijack - S01E04: Not Responding
 DTSTART;TZID=America/New_York:20230712T120000
 DTEND;TZID=America/New_York:20230712T124500
-DTSTAMP:20260410T091135Z
+DTSTAMP:20260426T073444Z
 UID:tvshow-61739-s1e4@kz-ai-dev.github.io
 CATEGORIES:TV Show,Apple TV
-CREATED:20260410T091135Z
+CREATED:20260426T073444Z
 DESCRIPTION:Show: Hijack\nEpisode: Not Responding\nSeason 1\, Episode 4\nN
  etwork/Platform: Apple TV\nRuntime: 45 min\n\nAn incident team in Westmins
  ter scrambles to intercept fighter jets. Sam tries contacting the ground o
@@ -1326,10 +1912,10 @@ BEGIN:VEVENT
 SUMMARY:Hijack - S01E05: Less Than an Hour
 DTSTART;TZID=America/New_York:20230719T120000
 DTEND;TZID=America/New_York:20230719T124600
-DTSTAMP:20260410T091135Z
+DTSTAMP:20260426T073444Z
 UID:tvshow-61739-s1e5@kz-ai-dev.github.io
 CATEGORIES:TV Show,Apple TV
-CREATED:20260410T091135Z
+CREATED:20260426T073444Z
 DESCRIPTION:Show: Hijack\nEpisode: Less Than an Hour\nSeason 1\, Episode 5
  \nNetwork/Platform: Apple TV\nRuntime: 46 min\n\nSam attempts to convince 
  the hijackers to land the plane. A list of demands reveals who's behind th
@@ -1340,10 +1926,10 @@ BEGIN:VEVENT
 SUMMARY:Hijack - S01E06: Comply Slowly
 DTSTART;TZID=America/New_York:20230726T120000
 DTEND;TZID=America/New_York:20230726T125100
-DTSTAMP:20260410T091135Z
+DTSTAMP:20260426T073444Z
 UID:tvshow-61739-s1e6@kz-ai-dev.github.io
 CATEGORIES:TV Show,Apple TV
-CREATED:20260410T091135Z
+CREATED:20260426T073444Z
 DESCRIPTION:Show: Hijack\nEpisode: Comply Slowly\nSeason 1\, Episode 6\nNe
  twork/Platform: Apple TV\nRuntime: 51 min\n\nFaced with an impossible deci
  sion\, the passengers ready themselves for a fight.
@@ -1353,10 +1939,10 @@ BEGIN:VEVENT
 SUMMARY:Hijack - S01E07: Brace Brace Brace
 DTSTART;TZID=America/New_York:20230802T120000
 DTEND;TZID=America/New_York:20230802T125200
-DTSTAMP:20260410T091135Z
+DTSTAMP:20260426T073444Z
 UID:tvshow-61739-s1e7@kz-ai-dev.github.io
 CATEGORIES:TV Show,Apple TV
-CREATED:20260410T091135Z
+CREATED:20260426T073444Z
 DESCRIPTION:Show: Hijack\nEpisode: Brace Brace Brace\nSeason 1\, Episode 7
  \nNetwork/Platform: Apple TV\nRuntime: 52 min\n\nSeason finale. A new thre
  at emerges on board as Sam struggles to control the chaos unfolding around
@@ -1367,10 +1953,10 @@ BEGIN:VEVENT
 SUMMARY:Hijack - S02E01: Signal
 DTSTART;TZID=America/New_York:20260114T120000
 DTEND;TZID=America/New_York:20260114T124700
-DTSTAMP:20260410T091135Z
+DTSTAMP:20260426T073444Z
 UID:tvshow-61739-s2e1@kz-ai-dev.github.io
 CATEGORIES:TV Show,Apple TV
-CREATED:20260410T091135Z
+CREATED:20260426T073444Z
 DESCRIPTION:Show: Hijack\nEpisode: Signal\nSeason 2\, Episode 1\nNetwork/P
  latform: Apple TV\nRuntime: 47 min\n\nTwo years after Flight KA29's hijack
  ing\, Sam Nelson is thrust into another life-threatening ordeal—but this
@@ -1381,10 +1967,10 @@ BEGIN:VEVENT
 SUMMARY:Hijack - S02E02: Control
 DTSTART;TZID=America/New_York:20260121T120000
 DTEND;TZID=America/New_York:20260121T124600
-DTSTAMP:20260410T091135Z
+DTSTAMP:20260426T073444Z
 UID:tvshow-61739-s2e2@kz-ai-dev.github.io
 CATEGORIES:TV Show,Apple TV
-CREATED:20260410T091135Z
+CREATED:20260426T073444Z
 DESCRIPTION:Show: Hijack\nEpisode: Control\nSeason 2\, Episode 2\nNetwork/
  Platform: Apple TV\nRuntime: 46 min\n\nSam urges Otto to keep his cool as 
  passengers begin to suspect something is wrong. Police Chief Winter races 
@@ -1395,10 +1981,10 @@ BEGIN:VEVENT
 SUMMARY:Hijack - S02E03: Baggage
 DTSTART;TZID=America/New_York:20260128T120000
 DTEND;TZID=America/New_York:20260128T125500
-DTSTAMP:20260410T091135Z
+DTSTAMP:20260426T073444Z
 UID:tvshow-61739-s2e3@kz-ai-dev.github.io
 CATEGORIES:TV Show,Apple TV
-CREATED:20260410T091135Z
+CREATED:20260426T073444Z
 DESCRIPTION:Show: Hijack\nEpisode: Baggage\nSeason 2\, Episode 3\nNetwork/
  Platform: Apple TV\nRuntime: 55 min\n\nBerlin police scramble to contain t
  he situation. Sam pressures Winter to meet his demands. Marsha discovers s
@@ -1409,10 +1995,10 @@ BEGIN:VEVENT
 SUMMARY:Hijack - S02E04: Switch
 DTSTART;TZID=America/New_York:20260204T120000
 DTEND;TZID=America/New_York:20260204T124400
-DTSTAMP:20260410T091135Z
+DTSTAMP:20260426T073444Z
 UID:tvshow-61739-s2e4@kz-ai-dev.github.io
 CATEGORIES:TV Show,Apple TV
-CREATED:20260410T091135Z
+CREATED:20260426T073444Z
 DESCRIPTION:Show: Hijack\nEpisode: Switch\nSeason 2\, Episode 4\nNetwork/P
  latform: Apple TV\nRuntime: 44 min\n\nA shocking turn of events forces Sam
   to make a gesture of good faith. In London\, Daniel calls on a friend to 
@@ -1423,10 +2009,10 @@ BEGIN:VEVENT
 SUMMARY:Hijack - S02E05: Outage
 DTSTART;TZID=America/New_York:20260211T120000
 DTEND;TZID=America/New_York:20260211T123800
-DTSTAMP:20260410T091135Z
+DTSTAMP:20260426T073444Z
 UID:tvshow-61739-s2e5@kz-ai-dev.github.io
 CATEGORIES:TV Show,Apple TV
-CREATED:20260410T091135Z
+CREATED:20260426T073444Z
 DESCRIPTION:Show: Hijack\nEpisode: Outage\nSeason 2\, Episode 5\nNetwork/P
  latform: Apple TV\nRuntime: 38 min\n\nAnger and frustration among the pass
  engers begin to boil over—just as Sam comes to a frightening realization
@@ -1437,10 +2023,10 @@ BEGIN:VEVENT
 SUMMARY:Hijack - S02E06: Junction
 DTSTART;TZID=America/New_York:20260218T120000
 DTEND;TZID=America/New_York:20260218T124300
-DTSTAMP:20260410T091135Z
+DTSTAMP:20260426T073444Z
 UID:tvshow-61739-s2e6@kz-ai-dev.github.io
 CATEGORIES:TV Show,Apple TV
-CREATED:20260410T091135Z
+CREATED:20260426T073444Z
 DESCRIPTION:Show: Hijack\nEpisode: Junction\nSeason 2\, Episode 6\nNetwork
  /Platform: Apple TV\nRuntime: 43 min\n\nTo avoid further disaster\, Sam mu
  st work with an unlikely ally. The enemy closes in on Marsha as Zahra and 
@@ -1451,10 +2037,10 @@ BEGIN:VEVENT
 SUMMARY:Hijack - S02E07: Contact
 DTSTART;TZID=America/New_York:20260225T120000
 DTEND;TZID=America/New_York:20260225T124400
-DTSTAMP:20260410T091135Z
+DTSTAMP:20260426T073444Z
 UID:tvshow-61739-s2e7@kz-ai-dev.github.io
 CATEGORIES:TV Show,Apple TV
-CREATED:20260410T091135Z
+CREATED:20260426T073444Z
 DESCRIPTION:Show: Hijack\nEpisode: Contact\nSeason 2\, Episode 7\nNetwork/
  Platform: Apple TV\nRuntime: 44 min\n\nSam gambles on a dangerous tactic i
  n hopes of outsmarting the police. Armed with new intel\, Olivia tries to 
@@ -1465,10 +2051,10 @@ BEGIN:VEVENT
 SUMMARY:Hijack - S02E08: Terminal
 DTSTART;TZID=America/New_York:20260304T120000
 DTEND;TZID=America/New_York:20260304T125000
-DTSTAMP:20260410T091135Z
+DTSTAMP:20260426T073444Z
 UID:tvshow-61739-s2e8@kz-ai-dev.github.io
 CATEGORIES:TV Show,Apple TV
-CREATED:20260410T091135Z
+CREATED:20260426T073444Z
 DESCRIPTION:Show: Hijack\nEpisode: Terminal\nSeason 2\, Episode 8\nNetwork
  /Platform: Apple TV\nRuntime: 50 min\n\nSeason finale. With the handover i
  mminent\, Sam is prepared to put his life on the line to save Marsha—and
@@ -1479,10 +2065,10 @@ BEGIN:VEVENT
 SUMMARY:Jujutsu Kaisen - S01E01: Ryomen Sukuna
 DTSTART;TZID=America/New_York:20201002T012500
 DTEND;TZID=America/New_York:20201002T015500
-DTSTAMP:20260410T091136Z
+DTSTAMP:20260426T073445Z
 UID:tvshow-48450-s1e1@kz-ai-dev.github.io
 CATEGORIES:TV Show,MBS
-CREATED:20260410T091136Z
+CREATED:20260426T073445Z
 DESCRIPTION:Show: Jujutsu Kaisen\nEpisode: Ryomen Sukuna\nSeason 1\, Episo
  de 1\nNetwork/Platform: MBS\nRuntime: 30 min\n\nMahito deftly uses Yoshino
  's admiration toward him to make him fight Itadori. Yoshino races toward v
@@ -1496,10 +2082,10 @@ BEGIN:VEVENT
 SUMMARY:Jujutsu Kaisen - S01E02: For Myself
 DTSTART;TZID=America/New_York:20201009T012500
 DTEND;TZID=America/New_York:20201009T015500
-DTSTAMP:20260410T091136Z
+DTSTAMP:20260426T073445Z
 UID:tvshow-48450-s1e2@kz-ai-dev.github.io
 CATEGORIES:TV Show,MBS
-CREATED:20260410T091136Z
+CREATED:20260426T073445Z
 DESCRIPTION:Show: Jujutsu Kaisen\nEpisode: For Myself\nSeason 1\, Episode 
  2\nNetwork/Platform: MBS\nRuntime: 30 min\n\nItadori wakes up in an unfami
  liar room and before him rests Gojo Satoru\, a teacher at Jujutsu High\, w
@@ -1513,10 +2099,10 @@ BEGIN:VEVENT
 SUMMARY:Jujutsu Kaisen - S01E03: Girl of Steel
 DTSTART;TZID=America/New_York:20201016T012500
 DTEND;TZID=America/New_York:20201016T015500
-DTSTAMP:20260410T091136Z
+DTSTAMP:20260426T073445Z
 UID:tvshow-48450-s1e3@kz-ai-dev.github.io
 CATEGORIES:TV Show,MBS
-CREATED:20260410T091136Z
+CREATED:20260426T073445Z
 DESCRIPTION:Show: Jujutsu Kaisen\nEpisode: Girl of Steel\nSeason 1\, Episo
  de 3\nNetwork/Platform: MBS\nRuntime: 30 min\n\nItadori\, Fushiguro\, and 
  Gojo head out to meet up with the third first year\, Kugizaki Nobara. Ther
@@ -1531,10 +2117,10 @@ BEGIN:VEVENT
 SUMMARY:Jujutsu Kaisen - S01E04: Curse Womb Must Die
 DTSTART;TZID=America/New_York:20201023T012500
 DTEND;TZID=America/New_York:20201023T015500
-DTSTAMP:20260410T091136Z
+DTSTAMP:20260426T073445Z
 UID:tvshow-48450-s1e4@kz-ai-dev.github.io
 CATEGORIES:TV Show,MBS
-CREATED:20260410T091136Z
+CREATED:20260426T073445Z
 DESCRIPTION:Show: Jujutsu Kaisen\nEpisode: Curse Womb Must Die\nSeason 1\,
   Episode 4\nNetwork/Platform: MBS\nRuntime: 30 min\n\nAn emergency breaks 
  out at a juvenile detention center and Itadori\, Fushiguro\, and Kugisaki 
@@ -1548,10 +2134,10 @@ BEGIN:VEVENT
 SUMMARY:Jujutsu Kaisen - S01E05: Curse Womb Must Die -II-
 DTSTART;TZID=America/New_York:20201030T012500
 DTEND;TZID=America/New_York:20201030T015500
-DTSTAMP:20260410T091136Z
+DTSTAMP:20260426T073445Z
 UID:tvshow-48450-s1e5@kz-ai-dev.github.io
 CATEGORIES:TV Show,MBS
-CREATED:20260410T091136Z
+CREATED:20260426T073445Z
 DESCRIPTION:Show: Jujutsu Kaisen\nEpisode: Curse Womb Must Die -II-\nSeaso
  n 1\, Episode 5\nNetwork/Platform: MBS\nRuntime: 30 min\n\nAfter retreatin
  g outside the juvenile detention center\, Fushiguro notices the death of t
@@ -1567,10 +2153,10 @@ BEGIN:VEVENT
 SUMMARY:Jujutsu Kaisen - S01E06: After Rain
 DTSTART;TZID=America/New_York:20201106T012500
 DTEND;TZID=America/New_York:20201106T015500
-DTSTAMP:20260410T091136Z
+DTSTAMP:20260426T073445Z
 UID:tvshow-48450-s1e6@kz-ai-dev.github.io
 CATEGORIES:TV Show,MBS
-CREATED:20260410T091136Z
+CREATED:20260426T073445Z
 DESCRIPTION:Show: Jujutsu Kaisen\nEpisode: After Rain\nSeason 1\, Episode 
  6\nNetwork/Platform: MBS\nRuntime: 30 min\n\nGojo stews in his frustration
   over Itadori's death. Both Fushiguro and Nobara are depressed by their te
@@ -1583,10 +2169,10 @@ BEGIN:VEVENT
 SUMMARY:Jujutsu Kaisen - S01E07: Assault
 DTSTART;TZID=America/New_York:20201113T012500
 DTEND;TZID=America/New_York:20201113T015500
-DTSTAMP:20260410T091136Z
+DTSTAMP:20260426T073445Z
 UID:tvshow-48450-s1e7@kz-ai-dev.github.io
 CATEGORIES:TV Show,MBS
-CREATED:20260410T091136Z
+CREATED:20260426T073445Z
 DESCRIPTION:Show: Jujutsu Kaisen\nEpisode: Assault\nSeason 1\, Episode 7\n
  Network/Platform: MBS\nRuntime: 30 min\n\nWhile in transit Gojo is suddenl
  y attacked by the special grade cursed spirit Jogo. After launching severa
@@ -1600,10 +2186,10 @@ BEGIN:VEVENT
 SUMMARY:Jujutsu Kaisen - S01E08: Boredom
 DTSTART;TZID=America/New_York:20201120T012500
 DTEND;TZID=America/New_York:20201120T015500
-DTSTAMP:20260410T091136Z
+DTSTAMP:20260426T073445Z
 UID:tvshow-48450-s1e8@kz-ai-dev.github.io
 CATEGORIES:TV Show,MBS
-CREATED:20260410T091136Z
+CREATED:20260426T073445Z
 DESCRIPTION:Show: Jujutsu Kaisen\nEpisode: Boredom\nSeason 1\, Episode 8\n
  Network/Platform: MBS\nRuntime: 30 min\n\nWhile they're training for the e
  xchange event\, Kugisaki and Fushiguro come face to face with Kyoto's Juju
@@ -1616,10 +2202,10 @@ BEGIN:VEVENT
 SUMMARY:Jujutsu Kaisen - S01E09: Small Fry and Reverse Retribution
 DTSTART;TZID=America/New_York:20201127T012500
 DTEND;TZID=America/New_York:20201127T015500
-DTSTAMP:20260410T091136Z
+DTSTAMP:20260426T073445Z
 UID:tvshow-48450-s1e9@kz-ai-dev.github.io
 CATEGORIES:TV Show,MBS
-CREATED:20260410T091136Z
+CREATED:20260426T073445Z
 DESCRIPTION:Show: Jujutsu Kaisen\nEpisode: Small Fry and Reverse Retributi
  on\nSeason 1\, Episode 9\nNetwork/Platform: MBS\nRuntime: 30 min\n\nYoshin
  o Junpei skips school to go to a movie theater\, but then he witnesses the
@@ -1634,10 +2220,10 @@ BEGIN:VEVENT
 SUMMARY:Jujutsu Kaisen - S01E10: Idle Transfiguration
 DTSTART;TZID=America/New_York:20201204T012500
 DTEND;TZID=America/New_York:20201204T015500
-DTSTAMP:20260410T091136Z
+DTSTAMP:20260426T073445Z
 UID:tvshow-48450-s1e10@kz-ai-dev.github.io
 CATEGORIES:TV Show,MBS
-CREATED:20260410T091136Z
+CREATED:20260426T073445Z
 DESCRIPTION:Show: Jujutsu Kaisen\nEpisode: Idle Transfiguration\nSeason 1\
  , Episode 10\nNetwork/Platform: MBS\nRuntime: 30 min\n\nItadori's plan to 
  expose Yoshino takes a direct turn\, while Nanami closes in on Mahito's ba
@@ -1649,10 +2235,10 @@ BEGIN:VEVENT
 SUMMARY:Jujutsu Kaisen - S01E11: Narrow-minded
 DTSTART;TZID=America/New_York:20201211T012500
 DTEND;TZID=America/New_York:20201211T015500
-DTSTAMP:20260410T091136Z
+DTSTAMP:20260426T073445Z
 UID:tvshow-48450-s1e11@kz-ai-dev.github.io
 CATEGORIES:TV Show,MBS
-CREATED:20260410T091136Z
+CREATED:20260426T073445Z
 DESCRIPTION:Show: Jujutsu Kaisen\nEpisode: Narrow-minded\nSeason 1\, Episo
  de 11\nNetwork/Platform: MBS\nRuntime: 30 min\n\nMahito corners Nanami\, b
  ut he releases the limiter on his cursed energy\, destroying the wall of t
@@ -1667,10 +2253,10 @@ BEGIN:VEVENT
 SUMMARY:Jujutsu Kaisen - S01E12: To You\, Someday
 DTSTART;TZID=America/New_York:20201218T012500
 DTEND;TZID=America/New_York:20201218T015500
-DTSTAMP:20260410T091136Z
+DTSTAMP:20260426T073445Z
 UID:tvshow-48450-s1e12@kz-ai-dev.github.io
 CATEGORIES:TV Show,MBS
-CREATED:20260410T091136Z
+CREATED:20260426T073445Z
 DESCRIPTION:Show: Jujutsu Kaisen\nEpisode: To You\, Someday\nSeason 1\, Ep
  isode 12\nNetwork/Platform: MBS\nRuntime: 30 min\n\nMahito deftly uses Yos
  hino's admiration toward him to make him fight Itadori. Yoshino races towa
@@ -1684,10 +2270,10 @@ BEGIN:VEVENT
 SUMMARY:Jujutsu Kaisen - S01E13: Tomorrow
 DTSTART;TZID=America/New_York:20201225T010500
 DTEND;TZID=America/New_York:20201225T013500
-DTSTAMP:20260410T091136Z
+DTSTAMP:20260426T073445Z
 UID:tvshow-48450-s1e13@kz-ai-dev.github.io
 CATEGORIES:TV Show,MBS
-CREATED:20260410T091136Z
+CREATED:20260426T073445Z
 DESCRIPTION:Show: Jujutsu Kaisen\nEpisode: Tomorrow\nSeason 1\, Episode 13
  \nNetwork/Platform: MBS\nRuntime: 30 min\n\nNanami steps in at the last se
  cond to save Itadori from Mahito's blow. Then Itadori and Nanami match the
@@ -1702,10 +2288,10 @@ SUMMARY:Jujutsu Kaisen - S01E14: Kyoto Sister School Exchange Event - Grou
  p Battle 0 -
 DTSTART;TZID=America/New_York:20210115T012500
 DTEND;TZID=America/New_York:20210115T015500
-DTSTAMP:20260410T091136Z
+DTSTAMP:20260426T073445Z
 UID:tvshow-48450-s1e14@kz-ai-dev.github.io
 CATEGORIES:TV Show,MBS
-CREATED:20260410T091136Z
+CREATED:20260426T073445Z
 DESCRIPTION:Show: Jujutsu Kaisen\nEpisode: Kyoto Sister School Exchange Ev
  ent - Group Battle 0 -\nSeason 1\, Episode 14\nNetwork/Platform: MBS\nRunt
  ime: 30 min\n\nAfter escaping from Itadori and Nanami\, Mojito reunites wi
@@ -1719,10 +2305,10 @@ SUMMARY:Jujutsu Kaisen - S01E15: Kyoto Sister School Exchange Event - Grou
  p Battle 1 -
 DTSTART;TZID=America/New_York:20210122T012500
 DTEND;TZID=America/New_York:20210122T015500
-DTSTAMP:20260410T091136Z
+DTSTAMP:20260426T073445Z
 UID:tvshow-48450-s1e15@kz-ai-dev.github.io
 CATEGORIES:TV Show,MBS
-CREATED:20260410T091136Z
+CREATED:20260426T073445Z
 DESCRIPTION:Show: Jujutsu Kaisen\nEpisode: Kyoto Sister School Exchange Ev
  ent - Group Battle 1 -\nSeason 1\, Episode 15\nNetwork/Platform: MBS\nRunt
  ime: 30 min\n\nThe Kyoto Sister School Exchange Event's group battle begin
@@ -1738,10 +2324,10 @@ SUMMARY:Jujutsu Kaisen - S01E16: Kyoto Sister School Exchange Event - Grou
  p Battle 2 -
 DTSTART;TZID=America/New_York:20210129T012500
 DTEND;TZID=America/New_York:20210129T015500
-DTSTAMP:20260410T091136Z
+DTSTAMP:20260426T073445Z
 UID:tvshow-48450-s1e16@kz-ai-dev.github.io
 CATEGORIES:TV Show,MBS
-CREATED:20260410T091136Z
+CREATED:20260426T073445Z
 DESCRIPTION:Show: Jujutsu Kaisen\nEpisode: Kyoto Sister School Exchange Ev
  ent - Group Battle 2 -\nSeason 1\, Episode 16\nNetwork/Platform: MBS\nRunt
  ime: 30 min\n\nItadori faces Todo's full might while Kugisaki and Panda en
@@ -1754,10 +2340,10 @@ SUMMARY:Jujutsu Kaisen - S01E17: Kyoto Sister School Exchange Event - Grou
  p Battle 3 -
 DTSTART;TZID=America/New_York:20210205T012500
 DTEND;TZID=America/New_York:20210205T015500
-DTSTAMP:20260410T091136Z
+DTSTAMP:20260426T073445Z
 UID:tvshow-48450-s1e17@kz-ai-dev.github.io
 CATEGORIES:TV Show,MBS
-CREATED:20260410T091136Z
+CREATED:20260426T073445Z
 DESCRIPTION:Show: Jujutsu Kaisen\nEpisode: Kyoto Sister School Exchange Ev
  ent - Group Battle 3 -\nSeason 1\, Episode 17\nNetwork/Platform: MBS\nRunt
  ime: 30 min\n\nMaki's strength stuns Miwa in battle\, while Kugisaki chase
@@ -1769,10 +2355,10 @@ BEGIN:VEVENT
 SUMMARY:Jujutsu Kaisen - S01E18: Sage
 DTSTART;TZID=America/New_York:20210212T012500
 DTEND;TZID=America/New_York:20210212T015500
-DTSTAMP:20260410T091136Z
+DTSTAMP:20260426T073445Z
 UID:tvshow-48450-s1e18@kz-ai-dev.github.io
 CATEGORIES:TV Show,MBS
-CREATED:20260410T091136Z
+CREATED:20260426T073445Z
 DESCRIPTION:Show: Jujutsu Kaisen\nEpisode: Sage\nSeason 1\, Episode 18\nNe
  twork/Platform: MBS\nRuntime: 30 min\n\nFushiguro clashes with Kamo's Bloo
  d Manipulation\, while Inumaki senses a sinister presence approaching.
@@ -1782,10 +2368,10 @@ BEGIN:VEVENT
 SUMMARY:Jujutsu Kaisen - S01E19: Black Flash
 DTSTART;TZID=America/New_York:20210219T012500
 DTEND;TZID=America/New_York:20210219T015500
-DTSTAMP:20260410T091136Z
+DTSTAMP:20260426T073445Z
 UID:tvshow-48450-s1e19@kz-ai-dev.github.io
 CATEGORIES:TV Show,MBS
-CREATED:20260410T091136Z
+CREATED:20260426T073445Z
 DESCRIPTION:Show: Jujutsu Kaisen\nEpisode: Black Flash\nSeason 1\, Episode
   19\nNetwork/Platform: MBS\nRuntime: 30 min\n\nOutmatched by a cursed spir
  it\, Fushiguro and allies fight to survive until unexpected help arrives.
@@ -1796,10 +2382,10 @@ BEGIN:VEVENT
 SUMMARY:Jujutsu Kaisen - S01E20: Nonstandard
 DTSTART;TZID=America/New_York:20210226T012500
 DTEND;TZID=America/New_York:20210226T015500
-DTSTAMP:20260410T091136Z
+DTSTAMP:20260426T073445Z
 UID:tvshow-48450-s1e20@kz-ai-dev.github.io
 CATEGORIES:TV Show,MBS
-CREATED:20260410T091136Z
+CREATED:20260426T073445Z
 DESCRIPTION:Show: Jujutsu Kaisen\nEpisode: Nonstandard\nSeason 1\, Episode
   20\nNetwork/Platform: MBS\nRuntime: 30 min\n\nItadori and Todo join the b
  attle against Hanami. Itadori lands his Black Flash\, and his Todo unleash
@@ -1813,10 +2399,10 @@ BEGIN:VEVENT
 SUMMARY:Jujutsu Kaisen - S01E21: Jujutsu Koshien
 DTSTART;TZID=America/New_York:20210305T012500
 DTEND;TZID=America/New_York:20210305T015500
-DTSTAMP:20260410T091136Z
+DTSTAMP:20260426T073445Z
 UID:tvshow-48450-s1e21@kz-ai-dev.github.io
 CATEGORIES:TV Show,MBS
-CREATED:20260410T091136Z
+CREATED:20260426T073445Z
 DESCRIPTION:Show: Jujutsu Kaisen\nEpisode: Jujutsu Koshien\nSeason 1\, Epi
  sode 21\nNetwork/Platform: MBS\nRuntime: 30 min\n\nGojo has driven Hanami 
  away with his overwhelming strength. Mahito reunites with Hanami\, who's o
@@ -1829,10 +2415,10 @@ BEGIN:VEVENT
 SUMMARY:Jujutsu Kaisen - S01E22: The Origin of Blind Obedience
 DTSTART;TZID=America/New_York:20210312T012500
 DTEND;TZID=America/New_York:20210312T015500
-DTSTAMP:20260410T091136Z
+DTSTAMP:20260426T073445Z
 UID:tvshow-48450-s1e22@kz-ai-dev.github.io
 CATEGORIES:TV Show,MBS
-CREATED:20260410T091136Z
+CREATED:20260426T073445Z
 DESCRIPTION:Show: Jujutsu Kaisen\nEpisode: The Origin of Blind Obedience\n
  Season 1\, Episode 22\nNetwork/Platform: MBS\nRuntime: 30 min\n\nThree men
   have died under similar circumstances from a cursed spirit. Investigators
@@ -1845,10 +2431,10 @@ BEGIN:VEVENT
 SUMMARY:Jujutsu Kaisen - S01E23: The Origin of Blind Obedience - 2 -
 DTSTART;TZID=America/New_York:20210319T012500
 DTEND;TZID=America/New_York:20210319T015500
-DTSTAMP:20260410T091136Z
+DTSTAMP:20260426T073445Z
 UID:tvshow-48450-s1e23@kz-ai-dev.github.io
 CATEGORIES:TV Show,MBS
-CREATED:20260410T091136Z
+CREATED:20260426T073445Z
 DESCRIPTION:Show: Jujutsu Kaisen\nEpisode: The Origin of Blind Obedience -
   2 -\nSeason 1\, Episode 23\nNetwork/Platform: MBS\nRuntime: 30 min\n\nIn 
  addition to the curse of Yasohachi Bridge\, Itadori\, Fushiguro\, and Kugi
@@ -1862,10 +2448,10 @@ BEGIN:VEVENT
 SUMMARY:Jujutsu Kaisen - S01E24: Accomplices
 DTSTART;TZID=America/New_York:20210326T012500
 DTEND;TZID=America/New_York:20210326T015500
-DTSTAMP:20260410T091136Z
+DTSTAMP:20260426T073445Z
 UID:tvshow-48450-s1e24@kz-ai-dev.github.io
 CATEGORIES:TV Show,MBS
-CREATED:20260410T091136Z
+CREATED:20260426T073445Z
 DESCRIPTION:Show: Jujutsu Kaisen\nEpisode: Accomplices\nSeason 1\, Episode
   24\nNetwork/Platform: MBS\nRuntime: 30 min\n\nEso and Kechizu face off ag
  ainst Itadori and Kugisaki\, but the two begin to rot after they're bathed
@@ -1878,10 +2464,10 @@ BEGIN:VEVENT
 SUMMARY:Jujutsu Kaisen - S02E01: Hidden Inventory
 DTSTART;TZID=America/New_York:20230706T235600
 DTEND;TZID=America/New_York:20230707T002600
-DTSTAMP:20260410T091136Z
+DTSTAMP:20260426T073445Z
 UID:tvshow-48450-s2e1@kz-ai-dev.github.io
 CATEGORIES:TV Show,MBS
-CREATED:20260410T091136Z
+CREATED:20260426T073445Z
 DESCRIPTION:Show: Jujutsu Kaisen\nEpisode: Hidden Inventory\nSeason 2\, Ep
  isode 1\nNetwork/Platform: MBS\nRuntime: 30 min\n\nThe jujutsu sorcerers\,
   Utahime Iori and Mei Mei\, are dispatched to an ominous manor where sever
@@ -1895,10 +2481,10 @@ BEGIN:VEVENT
 SUMMARY:Jujutsu Kaisen - S02E02: Hidden Inventory\, Part 2
 DTSTART;TZID=America/New_York:20230713T235600
 DTEND;TZID=America/New_York:20230714T002600
-DTSTAMP:20260410T091136Z
+DTSTAMP:20260426T073445Z
 UID:tvshow-48450-s2e2@kz-ai-dev.github.io
 CATEGORIES:TV Show,MBS
-CREATED:20260410T091136Z
+CREATED:20260426T073445Z
 DESCRIPTION:Show: Jujutsu Kaisen\nEpisode: Hidden Inventory\, Part 2\nSeas
  on 2\, Episode 2\nNetwork/Platform: MBS\nRuntime: 30 min\n\nGojo and Geto 
  are assigned to the mission of escorting and erasing the young girl compat
@@ -1912,10 +2498,10 @@ BEGIN:VEVENT
 SUMMARY:Jujutsu Kaisen - S02E03: Hidden Inventory\, Part 3
 DTSTART;TZID=America/New_York:20230720T235600
 DTEND;TZID=America/New_York:20230721T002600
-DTSTAMP:20260410T091136Z
+DTSTAMP:20260426T073445Z
 UID:tvshow-48450-s2e3@kz-ai-dev.github.io
 CATEGORIES:TV Show,MBS
-CREATED:20260410T091136Z
+CREATED:20260426T073445Z
 DESCRIPTION:Show: Jujutsu Kaisen\nEpisode: Hidden Inventory\, Part 3\nSeas
  on 2\, Episode 3\nNetwork/Platform: MBS\nRuntime: 30 min\n\nGojo and Geto 
  beat back the curse users after the bounty placed on Amanai's head when he
@@ -1929,10 +2515,10 @@ BEGIN:VEVENT
 SUMMARY:Jujutsu Kaisen - S02E04: Hidden Inventory\, Part 4
 DTSTART;TZID=America/New_York:20230727T235600
 DTEND;TZID=America/New_York:20230728T002600
-DTSTAMP:20260410T091136Z
+DTSTAMP:20260426T073445Z
 UID:tvshow-48450-s2e4@kz-ai-dev.github.io
 CATEGORIES:TV Show,MBS
-CREATED:20260410T091136Z
+CREATED:20260426T073445Z
 DESCRIPTION:Show: Jujutsu Kaisen\nEpisode: Hidden Inventory\, Part 4\nSeas
  on 2\, Episode 4\nNetwork/Platform: MBS\nRuntime: 30 min\n\n"Let's go home
  \, Riko-chan." The moment Geto extends a hand to Amanai\, the worst that c
@@ -1945,10 +2531,10 @@ BEGIN:VEVENT
 SUMMARY:Jujutsu Kaisen - S02E05: Premature Death
 DTSTART;TZID=America/New_York:20230803T235600
 DTEND;TZID=America/New_York:20230804T002600
-DTSTAMP:20260410T091136Z
+DTSTAMP:20260426T073445Z
 UID:tvshow-48450-s2e5@kz-ai-dev.github.io
 CATEGORIES:TV Show,MBS
-CREATED:20260410T091136Z
+CREATED:20260426T073445Z
 DESCRIPTION:Show: Jujutsu Kaisen\nEpisode: Premature Death\nSeason 2\, Epi
  sode 5\nNetwork/Platform: MBS\nRuntime: 30 min\n\nAugust 2007. Gojo starts
   to handle missions on his own\, causing Geto to\, as well. One day a cert
@@ -1962,10 +2548,10 @@ BEGIN:VEVENT
 SUMMARY:Jujutsu Kaisen - S02E06: It's Like That
 DTSTART;TZID=America/New_York:20230831T235600
 DTEND;TZID=America/New_York:20230901T002600
-DTSTAMP:20260410T091136Z
+DTSTAMP:20260426T073445Z
 UID:tvshow-48450-s2e6@kz-ai-dev.github.io
 CATEGORIES:TV Show,MBS
-CREATED:20260410T091136Z
+CREATED:20260426T073445Z
 DESCRIPTION:Show: Jujutsu Kaisen\nEpisode: It's Like That\nSeason 2\, Epis
  ode 6\nNetwork/Platform: MBS\nRuntime: 30 min\n\n2018. After finishing a m
  ission one day\, Itadori decides to go to the movies\, Kugisaki decides to
@@ -1979,10 +2565,10 @@ BEGIN:VEVENT
 SUMMARY:Jujutsu Kaisen - S02E07: Evening Festival
 DTSTART;TZID=America/New_York:20230907T235600
 DTEND;TZID=America/New_York:20230908T002600
-DTSTAMP:20260410T091136Z
+DTSTAMP:20260426T073445Z
 UID:tvshow-48450-s2e7@kz-ai-dev.github.io
 CATEGORIES:TV Show,MBS
-CREATED:20260410T091136Z
+CREATED:20260426T073445Z
 DESCRIPTION:Show: Jujutsu Kaisen\nEpisode: Evening Festival\nSeason 2\, Ep
  isode 7\nNetwork/Platform: MBS\nRuntime: 30 min\n\nThe battle between Muta
   and Mahito continues and reaches its conclusion. Later\, on October 31st\
@@ -1995,10 +2581,10 @@ BEGIN:VEVENT
 SUMMARY:Jujutsu Kaisen - S02E08: The Shibuya Incident
 DTSTART;TZID=America/New_York:20230914T235600
 DTEND;TZID=America/New_York:20230915T002600
-DTSTAMP:20260410T091136Z
+DTSTAMP:20260426T073445Z
 UID:tvshow-48450-s2e8@kz-ai-dev.github.io
 CATEGORIES:TV Show,MBS
-CREATED:20260410T091136Z
+CREATED:20260426T073445Z
 DESCRIPTION:Show: Jujutsu Kaisen\nEpisode: The Shibuya Incident\nSeason 2\
  , Episode 8\nNetwork/Platform: MBS\nRuntime: 30 min\n\nTeam Mei Mei are re
  assigned to a veil that has been lowered over Meiji Shrine Station. The te
@@ -2011,10 +2597,10 @@ BEGIN:VEVENT
 SUMMARY:Jujutsu Kaisen - S02E09: The Shibuya Incident - Gate Open
 DTSTART;TZID=America/New_York:20230921T235600
 DTEND;TZID=America/New_York:20230922T002600
-DTSTAMP:20260410T091136Z
+DTSTAMP:20260426T073445Z
 UID:tvshow-48450-s2e9@kz-ai-dev.github.io
 CATEGORIES:TV Show,MBS
-CREATED:20260410T091136Z
+CREATED:20260426T073445Z
 DESCRIPTION:Show: Jujutsu Kaisen\nEpisode: The Shibuya Incident - Gate Ope
  n\nSeason 2\, Episode 9\nNetwork/Platform: MBS\nRuntime: 30 min\n\nThe bat
  tle between Satoru Gojo\, Jogo\, Hanami and Choso begins. Gojo informs Han
@@ -2028,10 +2614,10 @@ BEGIN:VEVENT
 SUMMARY:Jujutsu Kaisen - S02E10: Pandemonium
 DTSTART;TZID=America/New_York:20230928T235600
 DTEND;TZID=America/New_York:20230929T002600
-DTSTAMP:20260410T091136Z
+DTSTAMP:20260426T073445Z
 UID:tvshow-48450-s2e10@kz-ai-dev.github.io
 CATEGORIES:TV Show,MBS
-CREATED:20260410T091136Z
+CREATED:20260426T073445Z
 DESCRIPTION:Show: Jujutsu Kaisen\nEpisode: Pandemonium\nSeason 2\, Episode
   10\nNetwork/Platform: MBS\nRuntime: 30 min\n\nNow that Satoru Gojo has be
  en sealed\, Mechamaru works with Team Mei Mei to inform them about what is
@@ -2043,10 +2629,10 @@ BEGIN:VEVENT
 SUMMARY:Jujutsu Kaisen - S02E11: Summon
 DTSTART;TZID=America/New_York:20231005T235600
 DTEND;TZID=America/New_York:20231006T002600
-DTSTAMP:20260410T091136Z
+DTSTAMP:20260426T073445Z
 UID:tvshow-48450-s2e11@kz-ai-dev.github.io
 CATEGORIES:TV Show,MBS
-CREATED:20260410T091136Z
+CREATED:20260426T073445Z
 DESCRIPTION:Show: Jujutsu Kaisen\nEpisode: Summon\nSeason 2\, Episode 11\n
  Network/Platform: MBS\nRuntime: 30 min\n\nNanami\, Fushiguro\, and Ino mee
  t up with Itadori\, then Nanami issues new orders for the others to work t
@@ -2057,10 +2643,10 @@ BEGIN:VEVENT
 SUMMARY:Jujutsu Kaisen - S02E12: Dull Knife
 DTSTART;TZID=America/New_York:20231012T235600
 DTEND;TZID=America/New_York:20231013T002600
-DTSTAMP:20260410T091136Z
+DTSTAMP:20260426T073445Z
 UID:tvshow-48450-s2e12@kz-ai-dev.github.io
 CATEGORIES:TV Show,MBS
-CREATED:20260410T091136Z
+CREATED:20260426T073445Z
 DESCRIPTION:Show: Jujutsu Kaisen\nEpisode: Dull Knife\nSeason 2\, Episode 
  12\nNetwork/Platform: MBS\nRuntime: 30 min\n\nYuji and Megumi lift the vei
  l that was keeping sorcerers from entering Shibuya. Nobara and Nitta encou
@@ -2072,10 +2658,10 @@ BEGIN:VEVENT
 SUMMARY:Jujutsu Kaisen - S02E13: Red Scale
 DTSTART;TZID=America/New_York:20231019T235600
 DTEND;TZID=America/New_York:20231020T002600
-DTSTAMP:20260410T091136Z
+DTSTAMP:20260426T073445Z
 UID:tvshow-48450-s2e13@kz-ai-dev.github.io
 CATEGORIES:TV Show,MBS
-CREATED:20260410T091136Z
+CREATED:20260426T073445Z
 DESCRIPTION:Show: Jujutsu Kaisen\nEpisode: Red Scale\nSeason 2\, Episode 1
  3\nNetwork/Platform: MBS\nRuntime: 30 min\n\nYuji makes his way to Shibuya
   Station where he's confronted by Choso. Choso unleashes his Convergence a
@@ -2086,10 +2672,10 @@ BEGIN:VEVENT
 SUMMARY:Jujutsu Kaisen - S02E14: Fluctuations
 DTSTART;TZID=America/New_York:20231026T235600
 DTEND;TZID=America/New_York:20231027T002600
-DTSTAMP:20260410T091136Z
+DTSTAMP:20260426T073445Z
 UID:tvshow-48450-s2e14@kz-ai-dev.github.io
 CATEGORIES:TV Show,MBS
-CREATED:20260410T091136Z
+CREATED:20260426T073445Z
 DESCRIPTION:Show: Jujutsu Kaisen\nEpisode: Fluctuations\nSeason 2\, Episod
  e 14\nNetwork/Platform: MBS\nRuntime: 30 min\n\nMei Mei and Ui Ui fight th
  e Special-Grade Disease Curse summoned by whatever is pretending to be Sug
@@ -2102,10 +2688,10 @@ BEGIN:VEVENT
 SUMMARY:Jujutsu Kaisen - S02E15: Fluctuations II
 DTSTART;TZID=America/New_York:20231102T235600
 DTEND;TZID=America/New_York:20231103T002600
-DTSTAMP:20260410T091136Z
+DTSTAMP:20260426T073445Z
 UID:tvshow-48450-s2e15@kz-ai-dev.github.io
 CATEGORIES:TV Show,MBS
-CREATED:20260410T091136Z
+CREATED:20260426T073445Z
 DESCRIPTION:Show: Jujutsu Kaisen\nEpisode: Fluctuations II\nSeason 2\, Epi
  sode 15\nNetwork/Platform: MBS\nRuntime: 30 min\n\nNanami\, Maki\, and Nao
  bito are driven to the edge after the Special-Grade Cursed Spirit\, Dagon\
@@ -2119,10 +2705,10 @@ BEGIN:VEVENT
 SUMMARY:Jujutsu Kaisen - S02E16: Thunderclap
 DTSTART;TZID=America/New_York:20231109T235600
 DTEND;TZID=America/New_York:20231110T002600
-DTSTAMP:20260410T091136Z
+DTSTAMP:20260426T073445Z
 UID:tvshow-48450-s2e16@kz-ai-dev.github.io
 CATEGORIES:TV Show,MBS
-CREATED:20260410T091136Z
+CREATED:20260426T073445Z
 DESCRIPTION:Show: Jujutsu Kaisen\nEpisode: Thunderclap\nSeason 2\, Episode
   16\nNetwork/Platform: MBS\nRuntime: 30 min\n\nSukuna refuses to heed Jogo
  's advice after waking up\, instead displaying his overwhelming strength a
@@ -2136,10 +2722,10 @@ BEGIN:VEVENT
 SUMMARY:Jujutsu Kaisen - S02E17: Thunderclap II
 DTSTART;TZID=America/New_York:20231116T235600
 DTEND;TZID=America/New_York:20231117T002600
-DTSTAMP:20260410T091136Z
+DTSTAMP:20260426T073445Z
 UID:tvshow-48450-s2e17@kz-ai-dev.github.io
 CATEGORIES:TV Show,MBS
-CREATED:20260410T091136Z
+CREATED:20260426T073445Z
 DESCRIPTION:Show: Jujutsu Kaisen\nEpisode: Thunderclap II\nSeason 2\, Epis
  ode 17\nNetwork/Platform: MBS\nRuntime: 30 min\n\nAfter being severely inj
  ured in his fight against Toji\, Fushiguro suffers a surprise attack from 
@@ -2153,10 +2739,10 @@ BEGIN:VEVENT
 SUMMARY:Jujutsu Kaisen - S02E18: Right and Wrong
 DTSTART;TZID=America/New_York:20231123T235600
 DTEND;TZID=America/New_York:20231124T002600
-DTSTAMP:20260410T091136Z
+DTSTAMP:20260426T073445Z
 UID:tvshow-48450-s2e18@kz-ai-dev.github.io
 CATEGORIES:TV Show,MBS
-CREATED:20260410T091136Z
+CREATED:20260426T073445Z
 DESCRIPTION:Show: Jujutsu Kaisen\nEpisode: Right and Wrong\nSeason 2\, Epi
  sode 18\nNetwork/Platform: MBS\nRuntime: 30 min\n\nItadori reawakens with 
  grievous resolve as he bears witness to the aftermath Sukuna has wrought u
@@ -2169,10 +2755,10 @@ BEGIN:VEVENT
 SUMMARY:Jujutsu Kaisen - S02E19: Right and Wrong II
 DTSTART;TZID=America/New_York:20231130T235600
 DTEND;TZID=America/New_York:20231201T002600
-DTSTAMP:20260410T091136Z
+DTSTAMP:20260426T073445Z
 UID:tvshow-48450-s2e19@kz-ai-dev.github.io
 CATEGORIES:TV Show,MBS
-CREATED:20260410T091136Z
+CREATED:20260426T073445Z
 DESCRIPTION:Show: Jujutsu Kaisen\nEpisode: Right and Wrong II\nSeason 2\, 
  Episode 19\nNetwork/Platform: MBS\nRuntime: 30 min\n\nItadori launches int
  o a back-and-forth battle against Mahito\, but he struggles against Mahito
@@ -2185,10 +2771,10 @@ BEGIN:VEVENT
 SUMMARY:Jujutsu Kaisen - S02E20: Right and Wrong III
 DTSTART;TZID=America/New_York:20231207T235600
 DTEND;TZID=America/New_York:20231208T002600
-DTSTAMP:20260410T091136Z
+DTSTAMP:20260426T073445Z
 UID:tvshow-48450-s2e20@kz-ai-dev.github.io
 CATEGORIES:TV Show,MBS
-CREATED:20260410T091136Z
+CREATED:20260426T073445Z
 DESCRIPTION:Show: Jujutsu Kaisen\nEpisode: Right and Wrong III\nSeason 2\,
   Episode 20\nNetwork/Platform: MBS\nRuntime: 30 min\n\nItadori stands in a
   daze at the disaster before his eyes\, his mind already well past its lim
@@ -2201,10 +2787,10 @@ BEGIN:VEVENT
 SUMMARY:Jujutsu Kaisen - S02E21: Transformation
 DTSTART;TZID=America/New_York:20231214T235600
 DTEND;TZID=America/New_York:20231215T002600
-DTSTAMP:20260410T091136Z
+DTSTAMP:20260426T073445Z
 UID:tvshow-48450-s2e21@kz-ai-dev.github.io
 CATEGORIES:TV Show,MBS
-CREATED:20260410T091136Z
+CREATED:20260426T073445Z
 DESCRIPTION:Show: Jujutsu Kaisen\nEpisode: Transformation\nSeason 2\, Epis
  ode 21\nNetwork/Platform: MBS\nRuntime: 30 min\n\nAfter rescuing Itadori f
  rom his predicament\, Todo bolsters his morale and encourages him to stand
@@ -2217,10 +2803,10 @@ BEGIN:VEVENT
 SUMMARY:Jujutsu Kaisen - S02E22: Transformation II
 DTSTART;TZID=America/New_York:20231221T235600
 DTEND;TZID=America/New_York:20231222T002600
-DTSTAMP:20260410T091136Z
+DTSTAMP:20260426T073445Z
 UID:tvshow-48450-s2e22@kz-ai-dev.github.io
 CATEGORIES:TV Show,MBS
-CREATED:20260410T091136Z
+CREATED:20260426T073445Z
 DESCRIPTION:Show: Jujutsu Kaisen\nEpisode: Transformation II\nSeason 2\, E
  pisode 22\nNetwork/Platform: MBS\nRuntime: 30 min\n\nThe moment it appeare
  d Itadori and Mahito's battle to the death was resolved\, the being wearin
@@ -2234,10 +2820,10 @@ BEGIN:VEVENT
 SUMMARY:Jujutsu Kaisen - S02E23: The Shibuya Incident - Gate Closed
 DTSTART;TZID=America/New_York:20231228T235600
 DTEND;TZID=America/New_York:20231229T002600
-DTSTAMP:20260410T091136Z
+DTSTAMP:20260426T073445Z
 UID:tvshow-48450-s2e23@kz-ai-dev.github.io
 CATEGORIES:TV Show,MBS
-CREATED:20260410T091136Z
+CREATED:20260426T073445Z
 DESCRIPTION:Show: Jujutsu Kaisen\nEpisode: The Shibuya Incident - Gate Clo
  sed\nSeason 2\, Episode 23\nNetwork/Platform: MBS\nRuntime: 30 min\n\nChos
  o begins to realize the identity of the mastermind parasitizing Geto's cor
@@ -2251,10 +2837,10 @@ BEGIN:VEVENT
 SUMMARY:Jujutsu Kaisen - S03E01: Execution
 DTSTART;TZID=America/New_York:20260108T002600
 DTEND;TZID=America/New_York:20260108T005600
-DTSTAMP:20260410T091136Z
+DTSTAMP:20260426T073445Z
 UID:tvshow-48450-s3e1@kz-ai-dev.github.io
 CATEGORIES:TV Show,MBS
-CREATED:20260410T091136Z
+CREATED:20260426T073445Z
 DESCRIPTION:Show: Jujutsu Kaisen\nEpisode: Execution\nSeason 3\, Episode 1
  \nNetwork/Platform: MBS\nRuntime: 30 min\n\nWhile Yuji grapples with the w
  eight of his sins\, Naoya Zen'in and Yuta Okkotsu set out to execute him.
@@ -2264,10 +2850,10 @@ BEGIN:VEVENT
 SUMMARY:Jujutsu Kaisen - S03E02: One More Time
 DTSTART;TZID=America/New_York:20260108T002600
 DTEND;TZID=America/New_York:20260108T005600
-DTSTAMP:20260410T091136Z
+DTSTAMP:20260426T073445Z
 UID:tvshow-48450-s3e2@kz-ai-dev.github.io
 CATEGORIES:TV Show,MBS
-CREATED:20260410T091136Z
+CREATED:20260426T073445Z
 DESCRIPTION:Show: Jujutsu Kaisen\nEpisode: One More Time\nSeason 3\, Episo
  de 2\nNetwork/Platform: MBS\nRuntime: 30 min\n\nAfter fighting Yuta\, Yuji
   learns his real objective. Megumi asks for Yuji's help to save his sister
@@ -2278,10 +2864,10 @@ BEGIN:VEVENT
 SUMMARY:Jujutsu Kaisen - S03E03: About the Culling Game
 DTSTART;TZID=America/New_York:20260115T002600
 DTEND;TZID=America/New_York:20260115T005600
-DTSTAMP:20260410T091136Z
+DTSTAMP:20260426T073445Z
 UID:tvshow-48450-s3e3@kz-ai-dev.github.io
 CATEGORIES:TV Show,MBS
-CREATED:20260410T091136Z
+CREATED:20260426T073445Z
 DESCRIPTION:Show: Jujutsu Kaisen\nEpisode: About the Culling Game\nSeason 
  3\, Episode 3\nNetwork/Platform: MBS\nRuntime: 30 min\n\nItadori and his f
  riends speak with Tengen about Kenjaku's objectives and their plans for th
@@ -2293,10 +2879,10 @@ BEGIN:VEVENT
 SUMMARY:Jujutsu Kaisen - S03E04: Perfect Preparation
 DTSTART;TZID=America/New_York:20260122T235600
 DTEND;TZID=America/New_York:20260123T002600
-DTSTAMP:20260410T091136Z
+DTSTAMP:20260426T073445Z
 UID:tvshow-48450-s3e4@kz-ai-dev.github.io
 CATEGORIES:TV Show,MBS
-CREATED:20260410T091136Z
+CREATED:20260426T073445Z
 DESCRIPTION:Show: Jujutsu Kaisen\nEpisode: Perfect Preparation\nSeason 3\,
   Episode 4\nNetwork/Platform: MBS\nRuntime: 30 min\n\nAfter going to colle
  ct their Cursed Tools\, Maki awakens her true potential &amp\; slaughters 
@@ -2308,10 +2894,10 @@ BEGIN:VEVENT
 SUMMARY:Jujutsu Kaisen - S03E05: Passion
 DTSTART;TZID=America/New_York:20260129T235600
 DTEND;TZID=America/New_York:20260130T002600
-DTSTAMP:20260410T091136Z
+DTSTAMP:20260426T073445Z
 UID:tvshow-48450-s3e5@kz-ai-dev.github.io
 CATEGORIES:TV Show,MBS
-CREATED:20260410T091136Z
+CREATED:20260426T073445Z
 DESCRIPTION:Show: Jujutsu Kaisen\nEpisode: Passion\nSeason 3\, Episode 5\n
  Network/Platform: MBS\nRuntime: 30 min\n\nYaga is executed. Yuji and Fushi
  guro go to Hakari's fight club hoping to meet him and recruit him.
@@ -2321,10 +2907,10 @@ BEGIN:VEVENT
 SUMMARY:Jujutsu Kaisen - S03E06: Cog
 DTSTART;TZID=America/New_York:20260205T235600
 DTEND;TZID=America/New_York:20260206T002600
-DTSTAMP:20260410T091136Z
+DTSTAMP:20260426T073445Z
 UID:tvshow-48450-s3e6@kz-ai-dev.github.io
 CATEGORIES:TV Show,MBS
-CREATED:20260410T091136Z
+CREATED:20260426T073445Z
 DESCRIPTION:Show: Jujutsu Kaisen\nEpisode: Cog\nSeason 3\, Episode 6\nNetw
  ork/Platform: MBS\nRuntime: 30 min\n\nFushiguro and Panda fight Kirara to 
  try and persuade them while Yuji attempts to convince Hakari.
@@ -2334,10 +2920,10 @@ BEGIN:VEVENT
 SUMMARY:Jujutsu Kaisen - S03E07: Tokyo Colony No. 1
 DTSTART;TZID=America/New_York:20260212T235600
 DTEND;TZID=America/New_York:20260213T002600
-DTSTAMP:20260410T091136Z
+DTSTAMP:20260426T073445Z
 UID:tvshow-48450-s3e7@kz-ai-dev.github.io
 CATEGORIES:TV Show,MBS
-CREATED:20260410T091136Z
+CREATED:20260426T073445Z
 DESCRIPTION:Show: Jujutsu Kaisen\nEpisode: Tokyo Colony No. 1\nSeason 3\, 
  Episode 7\nNetwork/Platform: MBS\nRuntime: 30 min\n\nYuji's group enters t
  wo of the colonies and fight the Culling Game's newbie hunters.
@@ -2348,10 +2934,10 @@ BEGIN:VEVENT
 SUMMARY:Jujutsu Kaisen - S03E08: Tokyo Colony No. 1\, Part 2
 DTSTART;TZID=America/New_York:20260226T235600
 DTEND;TZID=America/New_York:20260227T002600
-DTSTAMP:20260410T091136Z
+DTSTAMP:20260426T073445Z
 UID:tvshow-48450-s3e8@kz-ai-dev.github.io
 CATEGORIES:TV Show,MBS
-CREATED:20260410T091136Z
+CREATED:20260426T073445Z
 DESCRIPTION:Show: Jujutsu Kaisen\nEpisode: Tokyo Colony No. 1\, Part 2\nSe
  ason 3\, Episode 8\nNetwork/Platform: MBS\nRuntime: 30 min\n\nYuji meets H
  iguruma and tries to persuade him\, while Fushiguro is falsely led to Regg
@@ -2363,10 +2949,10 @@ BEGIN:VEVENT
 SUMMARY:Jujutsu Kaisen - S03E09: Tokyo Colony No. 1\, Part 3
 DTSTART;TZID=America/New_York:20260305T235600
 DTEND;TZID=America/New_York:20260306T002600
-DTSTAMP:20260410T091136Z
+DTSTAMP:20260426T073445Z
 UID:tvshow-48450-s3e9@kz-ai-dev.github.io
 CATEGORIES:TV Show,MBS
-CREATED:20260410T091136Z
+CREATED:20260426T073445Z
 DESCRIPTION:Show: Jujutsu Kaisen\nEpisode: Tokyo Colony No. 1\, Part 3\nSe
  ason 3\, Episode 9\nNetwork/Platform: MBS\nRuntime: 30 min\n\nYuji Itadori
   fights Hiromi Higuruma.
@@ -2377,10 +2963,10 @@ BEGIN:VEVENT
 SUMMARY:Jujutsu Kaisen - S03E10: Tokyo Colony No. 1\, Part 4
 DTSTART;TZID=America/New_York:20260312T235600
 DTEND;TZID=America/New_York:20260313T002600
-DTSTAMP:20260410T091136Z
+DTSTAMP:20260426T073445Z
 UID:tvshow-48450-s3e10@kz-ai-dev.github.io
 CATEGORIES:TV Show,MBS
-CREATED:20260410T091136Z
+CREATED:20260426T073445Z
 DESCRIPTION:Show: Jujutsu Kaisen\nEpisode: Tokyo Colony No. 1\, Part 4\nSe
  ason 3\, Episode 10\nNetwork/Platform: MBS\nRuntime: 30 min\n\nTakaba hand
  les the minions while Fushiguro has his showdown with Reggie.
@@ -2391,10 +2977,10 @@ BEGIN:VEVENT
 SUMMARY:Jujutsu Kaisen - S03E11: Tokyo Colony No. 1\, Part 5
 DTSTART;TZID=America/New_York:20260319T235600
 DTEND;TZID=America/New_York:20260320T002600
-DTSTAMP:20260410T091136Z
+DTSTAMP:20260426T073445Z
 UID:tvshow-48450-s3e11@kz-ai-dev.github.io
 CATEGORIES:TV Show,MBS
-CREATED:20260410T091136Z
+CREATED:20260426T073445Z
 DESCRIPTION:Show: Jujutsu Kaisen\nEpisode: Tokyo Colony No. 1\, Part 5\nSe
  ason 3\, Episode 11\nNetwork/Platform: MBS\nRuntime: 30 min\n\nFushiguro d
  eploys his Domain Expansion in his climatic fight against Reggie.
@@ -2405,10 +2991,10 @@ BEGIN:VEVENT
 SUMMARY:Jujutsu Kaisen - S03E12: Sendai Colony
 DTSTART;TZID=America/New_York:20260326T235600
 DTEND;TZID=America/New_York:20260327T002600
-DTSTAMP:20260410T091136Z
+DTSTAMP:20260426T073445Z
 UID:tvshow-48450-s3e12@kz-ai-dev.github.io
 CATEGORIES:TV Show,MBS
-CREATED:20260410T091136Z
+CREATED:20260426T073445Z
 DESCRIPTION:Show: Jujutsu Kaisen\nEpisode: Sendai Colony\nSeason 3\, Episo
  de 12\nNetwork/Platform: MBS\nRuntime: 30 min\n\nOkkotsu fights three powe
  rful sorcerers in Sendai Colony.
@@ -2419,10 +3005,10 @@ BEGIN:VEVENT
 SUMMARY:Invincible - S01E01: It's About Time
 DTSTART;TZID=America/New_York:20210326T120000
 DTEND;TZID=America/New_York:20210326T124800
-DTSTAMP:20260410T091137Z
+DTSTAMP:20260426T073446Z
 UID:tvshow-37196-s1e1@kz-ai-dev.github.io
 CATEGORIES:TV Show,Prime Video
-CREATED:20260410T091137Z
+CREATED:20260426T073446Z
 DESCRIPTION:Show: Invincible\nEpisode: It's About Time\nSeason 1\, Episode
   1\nNetwork/Platform: Prime Video\nRuntime: 48 min\n\nWhen Mark Grayson fi
  nally inherits powers from his superhero father\, it's a dream come true. 
@@ -2433,10 +3019,10 @@ BEGIN:VEVENT
 SUMMARY:Invincible - S01E02: Here Goes Nothing
 DTSTART;TZID=America/New_York:20210326T120000
 DTEND;TZID=America/New_York:20210326T124400
-DTSTAMP:20260410T091137Z
+DTSTAMP:20260426T073446Z
 UID:tvshow-37196-s1e2@kz-ai-dev.github.io
 CATEGORIES:TV Show,Prime Video
-CREATED:20260410T091137Z
+CREATED:20260426T073446Z
 DESCRIPTION:Show: Invincible\nEpisode: Here Goes Nothing\nSeason 1\, Episo
  de 2\nNetwork/Platform: Prime Video\nRuntime: 44 min\n\nWith his father ou
  t of action\, Mark struggles to defend the city against an interdimensiona
@@ -2448,10 +3034,10 @@ BEGIN:VEVENT
 SUMMARY:Invincible - S01E03: Who You Calling Ugly?
 DTSTART;TZID=America/New_York:20210326T120000
 DTEND;TZID=America/New_York:20210326T124200
-DTSTAMP:20260410T091137Z
+DTSTAMP:20260426T073446Z
 UID:tvshow-37196-s1e3@kz-ai-dev.github.io
 CATEGORIES:TV Show,Prime Video
-CREATED:20260410T091137Z
+CREATED:20260426T073446Z
 DESCRIPTION:Show: Invincible\nEpisode: Who You Calling Ugly?\nSeason 1\, E
  pisode 3\nNetwork/Platform: Prime Video\nRuntime: 42 min\n\nMark has to cu
  t a study date short to help save Mount Rushmore from a crazed scientist. 
@@ -2464,10 +3050,10 @@ BEGIN:VEVENT
 SUMMARY:Invincible - S01E04: Neil Armstrong\, Eat Your Heart Out
 DTSTART;TZID=America/New_York:20210402T120000
 DTEND;TZID=America/New_York:20210402T124500
-DTSTAMP:20260410T091137Z
+DTSTAMP:20260426T073446Z
 UID:tvshow-37196-s1e4@kz-ai-dev.github.io
 CATEGORIES:TV Show,Prime Video
-CREATED:20260410T091137Z
+CREATED:20260426T073446Z
 DESCRIPTION:Show: Invincible\nEpisode: Neil Armstrong\, Eat Your Heart Out
  \nSeason 1\, Episode 4\nNetwork/Platform: Prime Video\nRuntime: 45 min\n\n
  It's two firsts for Mark: a first date and a first trip to another planet.
@@ -2480,10 +3066,10 @@ BEGIN:VEVENT
 SUMMARY:Invincible - S01E05: That Actually Hurt
 DTSTART;TZID=America/New_York:20210409T120000
 DTEND;TZID=America/New_York:20210409T124600
-DTSTAMP:20260410T091137Z
+DTSTAMP:20260426T073446Z
 UID:tvshow-37196-s1e5@kz-ai-dev.github.io
 CATEGORIES:TV Show,Prime Video
-CREATED:20260410T091137Z
+CREATED:20260426T073446Z
 DESCRIPTION:Show: Invincible\nEpisode: That Actually Hurt\nSeason 1\, Epis
  ode 5\nNetwork/Platform: Prime Video\nRuntime: 46 min\n\nFeeling confident
   in his new abilities\, Mark risks a team-up with a local villain to take 
@@ -2496,10 +3082,10 @@ BEGIN:VEVENT
 SUMMARY:Invincible - S01E06: You Look Kinda Dead
 DTSTART;TZID=America/New_York:20210416T120000
 DTEND;TZID=America/New_York:20210416T124500
-DTSTAMP:20260410T091137Z
+DTSTAMP:20260426T073446Z
 UID:tvshow-37196-s1e6@kz-ai-dev.github.io
 CATEGORIES:TV Show,Prime Video
-CREATED:20260410T091137Z
+CREATED:20260426T073446Z
 DESCRIPTION:Show: Invincible\nEpisode: You Look Kinda Dead\nSeason 1\, Epi
  sode 6\nNetwork/Platform: Prime Video\nRuntime: 45 min\n\nMark joins Willi
  am and Amber on a campus visit to Upstate University\, hoping to discover 
@@ -2511,10 +3097,10 @@ BEGIN:VEVENT
 SUMMARY:Invincible - S01E07: We Need to Talk
 DTSTART;TZID=America/New_York:20210423T120000
 DTEND;TZID=America/New_York:20210423T124900
-DTSTAMP:20260410T091137Z
+DTSTAMP:20260426T073446Z
 UID:tvshow-37196-s1e7@kz-ai-dev.github.io
 CATEGORIES:TV Show,Prime Video
-CREATED:20260410T091137Z
+CREATED:20260426T073446Z
 DESCRIPTION:Show: Invincible\nEpisode: We Need to Talk\nSeason 1\, Episode
   7\nNetwork/Platform: Prime Video\nRuntime: 49 min\n\nFeeling lost and con
  fused\, Mark looks for advice from Eve. At the same time\, everyone's look
@@ -2526,10 +3112,10 @@ BEGIN:VEVENT
 SUMMARY:Invincible - S01E08: Where I Really Come From
 DTSTART;TZID=America/New_York:20210430T120000
 DTEND;TZID=America/New_York:20210430T124500
-DTSTAMP:20260410T091137Z
+DTSTAMP:20260426T073446Z
 UID:tvshow-37196-s1e8@kz-ai-dev.github.io
 CATEGORIES:TV Show,Prime Video
-CREATED:20260410T091137Z
+CREATED:20260426T073446Z
 DESCRIPTION:Show: Invincible\nEpisode: Where I Really Come From\nSeason 1\
  , Episode 8\nNetwork/Platform: Prime Video\nRuntime: 45 min\n\nMark must p
  rove he's become the hero he's always wanted to be by stopping an unstoppa
@@ -2541,10 +3127,10 @@ BEGIN:VEVENT
 SUMMARY:Invincible - S02E01: A Lesson for Your Next Life
 DTSTART;TZID=America/New_York:20231103T120000
 DTEND;TZID=America/New_York:20231103T124900
-DTSTAMP:20260410T091137Z
+DTSTAMP:20260426T073446Z
 UID:tvshow-37196-s2e1@kz-ai-dev.github.io
 CATEGORIES:TV Show,Prime Video
-CREATED:20260410T091137Z
+CREATED:20260426T073446Z
 DESCRIPTION:Show: Invincible\nEpisode: A Lesson for Your Next Life\nSeason
   2\, Episode 1\nNetwork/Platform: Prime Video\nRuntime: 49 min\n\nIn the a
  ftermath of his father's betrayal\, Mark struggles with his responsibiliti
@@ -2557,10 +3143,10 @@ SUMMARY:Invincible - S02E02: In About Six Hours I Lose My Virginity to a F
  ish
 DTSTART;TZID=America/New_York:20231110T120000
 DTEND;TZID=America/New_York:20231110T125000
-DTSTAMP:20260410T091137Z
+DTSTAMP:20260426T073446Z
 UID:tvshow-37196-s2e2@kz-ai-dev.github.io
 CATEGORIES:TV Show,Prime Video
-CREATED:20260410T091137Z
+CREATED:20260426T073446Z
 DESCRIPTION:Show: Invincible\nEpisode: In About Six Hours I Lose My Virgin
  ity to a Fish\nSeason 2\, Episode 2\nNetwork/Platform: Prime Video\nRuntim
  e: 50 min\n\nIt's summer break for Mark and his friends\, but supervillain
@@ -2573,10 +3159,10 @@ BEGIN:VEVENT
 SUMMARY:Invincible - S02E03: This Missive\, This Machination
 DTSTART;TZID=America/New_York:20231117T120000
 DTEND;TZID=America/New_York:20231117T124900
-DTSTAMP:20260410T091137Z
+DTSTAMP:20260426T073446Z
 UID:tvshow-37196-s2e3@kz-ai-dev.github.io
 CATEGORIES:TV Show,Prime Video
-CREATED:20260410T091137Z
+CREATED:20260426T073446Z
 DESCRIPTION:Show: Invincible\nEpisode: This Missive\, This Machination\nSe
  ason 2\, Episode 3\nNetwork/Platform: Prime Video\nRuntime: 49 min\n\nMark
   starts his college career\, Debbie struggles with personal trauma\, and A
@@ -2589,10 +3175,10 @@ BEGIN:VEVENT
 SUMMARY:Invincible - S02E04: It's Been a While
 DTSTART;TZID=America/New_York:20231124T120000
 DTEND;TZID=America/New_York:20231124T124700
-DTSTAMP:20260410T091137Z
+DTSTAMP:20260426T073446Z
 UID:tvshow-37196-s2e4@kz-ai-dev.github.io
 CATEGORIES:TV Show,Prime Video
-CREATED:20260410T091137Z
+CREATED:20260426T073446Z
 DESCRIPTION:Show: Invincible\nEpisode: It's Been a While\nSeason 2\, Episo
  de 4\nNetwork/Platform: Prime Video\nRuntime: 47 min\n\nMark answers the c
  all to save an alien species\, but the mission has unexpected personal con
@@ -2604,10 +3190,10 @@ BEGIN:VEVENT
 SUMMARY:Invincible - S02E05: This Must Come as a Shock
 DTSTART;TZID=America/New_York:20240314T120000
 DTEND;TZID=America/New_York:20240314T125100
-DTSTAMP:20260410T091137Z
+DTSTAMP:20260426T073446Z
 UID:tvshow-37196-s2e5@kz-ai-dev.github.io
 CATEGORIES:TV Show,Prime Video
-CREATED:20260410T091137Z
+CREATED:20260426T073446Z
 DESCRIPTION:Show: Invincible\nEpisode: This Must Come as a Shock\nSeason 2
  \, Episode 5\nNetwork/Platform: Prime Video\nRuntime: 51 min\n\nThe Grayso
  n household is upended when Mark returns to Earth with surprising new resp
@@ -2620,10 +3206,10 @@ BEGIN:VEVENT
 SUMMARY:Invincible - S02E06: It's Not That Simple
 DTSTART;TZID=America/New_York:20240321T120000
 DTEND;TZID=America/New_York:20240321T125000
-DTSTAMP:20260410T091137Z
+DTSTAMP:20260426T073446Z
 UID:tvshow-37196-s2e6@kz-ai-dev.github.io
 CATEGORIES:TV Show,Prime Video
-CREATED:20260410T091137Z
+CREATED:20260426T073446Z
 DESCRIPTION:Show: Invincible\nEpisode: It's Not That Simple\nSeason 2\, Ep
  isode 6\nNetwork/Platform: Prime Video\nRuntime: 50 min\n\nAfter two chall
  enging missions\, The Guardians of the Globe struggle to work as a team. M
@@ -2636,10 +3222,10 @@ BEGIN:VEVENT
 SUMMARY:Invincible - S02E07: I'm Not Going Anywhere
 DTSTART;TZID=America/New_York:20240328T120000
 DTEND;TZID=America/New_York:20240328T125200
-DTSTAMP:20260410T091137Z
+DTSTAMP:20260426T073446Z
 UID:tvshow-37196-s2e7@kz-ai-dev.github.io
 CATEGORIES:TV Show,Prime Video
-CREATED:20260410T091137Z
+CREATED:20260426T073446Z
 DESCRIPTION:Show: Invincible\nEpisode: I'm Not Going Anywhere\nSeason 2\, 
  Episode 7\nNetwork/Platform: Prime Video\nRuntime: 52 min\n\nAs Mark attem
  pts to salvage his personal life\, a new villain arrives\, presenting Invi
@@ -2651,10 +3237,10 @@ BEGIN:VEVENT
 SUMMARY:Invincible - S02E08: I Thought You Were Stronger
 DTSTART;TZID=America/New_York:20240404T120000
 DTEND;TZID=America/New_York:20240404T125400
-DTSTAMP:20260410T091137Z
+DTSTAMP:20260426T073446Z
 UID:tvshow-37196-s2e8@kz-ai-dev.github.io
 CATEGORIES:TV Show,Prime Video
-CREATED:20260410T091137Z
+CREATED:20260426T073446Z
 DESCRIPTION:Show: Invincible\nEpisode: I Thought You Were Stronger\nSeason
   2\, Episode 8\nNetwork/Platform: Prime Video\nRuntime: 54 min\n\nAn old e
  nemy threatens everything Mark holds dear.
@@ -2665,10 +3251,10 @@ BEGIN:VEVENT
 SUMMARY:Invincible - S03E01: You're Not Laughing Now
 DTSTART;TZID=America/New_York:20250206T120000
 DTEND;TZID=America/New_York:20250206T124900
-DTSTAMP:20260410T091137Z
+DTSTAMP:20260426T073446Z
 UID:tvshow-37196-s3e1@kz-ai-dev.github.io
 CATEGORIES:TV Show,Prime Video
-CREATED:20260410T091137Z
+CREATED:20260426T073446Z
 DESCRIPTION:Show: Invincible\nEpisode: You're Not Laughing Now\nSeason 3\,
   Episode 1\nNetwork/Platform: Prime Video\nRuntime: 49 min\n\nMark Grayson
   is back and stronger than ever - with new enemies out for blood and old v
@@ -2680,10 +3266,10 @@ BEGIN:VEVENT
 SUMMARY:Invincible - S03E02: A Deal with the Devil
 DTSTART;TZID=America/New_York:20250206T120000
 DTEND;TZID=America/New_York:20250206T124900
-DTSTAMP:20260410T091137Z
+DTSTAMP:20260426T073446Z
 UID:tvshow-37196-s3e2@kz-ai-dev.github.io
 CATEGORIES:TV Show,Prime Video
-CREATED:20260410T091137Z
+CREATED:20260426T073446Z
 DESCRIPTION:Show: Invincible\nEpisode: A Deal with the Devil\nSeason 3\, E
  pisode 2\nNetwork/Platform: Prime Video\nRuntime: 49 min\n\nMark takes a s
  tand\, unaware of the ramifications for his family\, the GDA\, and even th
@@ -2695,10 +3281,10 @@ BEGIN:VEVENT
 SUMMARY:Invincible - S03E03: You Want a Real Costume\, Right?
 DTSTART;TZID=America/New_York:20250206T120000
 DTEND;TZID=America/New_York:20250206T125000
-DTSTAMP:20260410T091137Z
+DTSTAMP:20260426T073446Z
 UID:tvshow-37196-s3e3@kz-ai-dev.github.io
 CATEGORIES:TV Show,Prime Video
-CREATED:20260410T091137Z
+CREATED:20260426T073446Z
 DESCRIPTION:Show: Invincible\nEpisode: You Want a Real Costume\, Right?\nS
  eason 3\, Episode 3\nNetwork/Platform: Prime Video\nRuntime: 50 min\n\nMar
  k struggles to teach Oliver what it means to be a superhero. Debbie explor
@@ -2710,10 +3296,10 @@ BEGIN:VEVENT
 SUMMARY:Invincible - S03E04: You Were My Hero
 DTSTART;TZID=America/New_York:20250213T120000
 DTEND;TZID=America/New_York:20250213T124900
-DTSTAMP:20260410T091137Z
+DTSTAMP:20260426T073446Z
 UID:tvshow-37196-s3e4@kz-ai-dev.github.io
 CATEGORIES:TV Show,Prime Video
-CREATED:20260410T091137Z
+CREATED:20260426T073446Z
 DESCRIPTION:Show: Invincible\nEpisode: You Were My Hero\nSeason 3\, Episod
  e 4\nNetwork/Platform: Prime Video\nRuntime: 49 min\n\nTwo strangers ask M
  ark for help with a mysterious villain. Elsewhere in the galaxy\, Nolan gr
@@ -2725,10 +3311,10 @@ BEGIN:VEVENT
 SUMMARY:Invincible - S03E05: This Was Supposed to Be Easy
 DTSTART;TZID=America/New_York:20250220T120000
 DTEND;TZID=America/New_York:20250220T124900
-DTSTAMP:20260410T091137Z
+DTSTAMP:20260426T073446Z
 UID:tvshow-37196-s3e5@kz-ai-dev.github.io
 CATEGORIES:TV Show,Prime Video
-CREATED:20260410T091137Z
+CREATED:20260426T073446Z
 DESCRIPTION:Show: Invincible\nEpisode: This Was Supposed to Be Easy\nSeaso
  n 3\, Episode 5\nNetwork/Platform: Prime Video\nRuntime: 49 min\n\nMark an
  d Eve start a business and encounter a familiar face. Debbie worries that 
@@ -2740,10 +3326,10 @@ BEGIN:VEVENT
 SUMMARY:Invincible - S03E06: All I Can Say Is I'm Sorry
 DTSTART;TZID=America/New_York:20250227T120000
 DTEND;TZID=America/New_York:20250227T125400
-DTSTAMP:20260410T091137Z
+DTSTAMP:20260426T073446Z
 UID:tvshow-37196-s3e6@kz-ai-dev.github.io
 CATEGORIES:TV Show,Prime Video
-CREATED:20260410T091137Z
+CREATED:20260426T073446Z
 DESCRIPTION:Show: Invincible\nEpisode: All I Can Say Is I'm Sorry\nSeason 
  3\, Episode 6\nNetwork/Platform: Prime Video\nRuntime: 54 min\n\nA powerfu
  l new figure challenges Mark's idea of what's right and what's wrong. Rae 
@@ -2755,10 +3341,10 @@ BEGIN:VEVENT
 SUMMARY:Invincible - S03E07: What Have I Done?
 DTSTART;TZID=America/New_York:20250306T120000
 DTEND;TZID=America/New_York:20250306T125100
-DTSTAMP:20260410T091137Z
+DTSTAMP:20260426T073446Z
 UID:tvshow-37196-s3e7@kz-ai-dev.github.io
 CATEGORIES:TV Show,Prime Video
-CREATED:20260410T091137Z
+CREATED:20260426T073446Z
 DESCRIPTION:Show: Invincible\nEpisode: What Have I Done?\nSeason 3\, Episo
  de 7\nNetwork/Platform: Prime Video\nRuntime: 51 min\n\nEarth's greatest h
  eroes join forces to fight an unimaginable threat.
@@ -2769,10 +3355,10 @@ BEGIN:VEVENT
 SUMMARY:Invincible - S03E08: I Thought You'd Never Shut Up
 DTSTART;TZID=America/New_York:20250313T120000
 DTEND;TZID=America/New_York:20250313T124500
-DTSTAMP:20260410T091137Z
+DTSTAMP:20260426T073446Z
 UID:tvshow-37196-s3e8@kz-ai-dev.github.io
 CATEGORIES:TV Show,Prime Video
-CREATED:20260410T091137Z
+CREATED:20260426T073446Z
 DESCRIPTION:Show: Invincible\nEpisode: I Thought You'd Never Shut Up\nSeas
  on 3\, Episode 8\nNetwork/Platform: Prime Video\nRuntime: 45 min\n\nWith t
  he world still reeling\, a dangerous stranger arrives - testing Mark to hi
@@ -2784,10 +3370,10 @@ BEGIN:VEVENT
 SUMMARY:Invincible - S04E01: Making the World a Better Place
 DTSTART;TZID=America/New_York:20260318T120000
 DTEND;TZID=America/New_York:20260318T125300
-DTSTAMP:20260410T091137Z
+DTSTAMP:20260426T073446Z
 UID:tvshow-37196-s4e1@kz-ai-dev.github.io
 CATEGORIES:TV Show,Prime Video
-CREATED:20260410T091137Z
+CREATED:20260426T073446Z
 DESCRIPTION:Show: Invincible\nEpisode: Making the World a Better Place\nSe
  ason 4\, Episode 1\nNetwork/Platform: Prime Video\nRuntime: 53 min\n\nMark
   battles enemies new and old in his fight to keep Earth safe.
@@ -2798,10 +3384,10 @@ BEGIN:VEVENT
 SUMMARY:Invincible - S04E02: I'll Give You the Grand Tour
 DTSTART;TZID=America/New_York:20260318T120000
 DTEND;TZID=America/New_York:20260318T125000
-DTSTAMP:20260410T091137Z
+DTSTAMP:20260426T073446Z
 UID:tvshow-37196-s4e2@kz-ai-dev.github.io
 CATEGORIES:TV Show,Prime Video
-CREATED:20260410T091137Z
+CREATED:20260426T073446Z
 DESCRIPTION:Show: Invincible\nEpisode: I'll Give You the Grand Tour\nSeaso
  n 4\, Episode 2\nNetwork/Platform: Prime Video\nRuntime: 50 min\n\nLoyalti
  es are challenged when an old enemy is revealed.
@@ -2812,10 +3398,10 @@ BEGIN:VEVENT
 SUMMARY:Invincible - S04E03: I Gotta Get Some Air
 DTSTART;TZID=America/New_York:20260318T120000
 DTEND;TZID=America/New_York:20260318T124900
-DTSTAMP:20260410T091137Z
+DTSTAMP:20260426T073446Z
 UID:tvshow-37196-s4e3@kz-ai-dev.github.io
 CATEGORIES:TV Show,Prime Video
-CREATED:20260410T091137Z
+CREATED:20260426T073446Z
 DESCRIPTION:Show: Invincible\nEpisode: I Gotta Get Some Air\nSeason 4\, Ep
  isode 3\nNetwork/Platform: Prime Video\nRuntime: 49 min\n\nConsequences we
  igh on Mark. Oliver takes on a new job.
@@ -2826,10 +3412,10 @@ BEGIN:VEVENT
 SUMMARY:Invincible - S04E04: Hurm
 DTSTART;TZID=America/New_York:20260325T120000
 DTEND;TZID=America/New_York:20260325T125500
-DTSTAMP:20260410T091137Z
+DTSTAMP:20260426T073446Z
 UID:tvshow-37196-s4e4@kz-ai-dev.github.io
 CATEGORIES:TV Show,Prime Video
-CREATED:20260410T091137Z
+CREATED:20260426T073446Z
 DESCRIPTION:Show: Invincible\nEpisode: Hurm\nSeason 4\, Episode 4\nNetwork
  /Platform: Prime Video\nRuntime: 55 min\n\nHurm.
 URL:https://www.tvmaze.com/episodes/3552383/invincible-4x04-hurm
@@ -2838,10 +3424,10 @@ BEGIN:VEVENT
 SUMMARY:Invincible - S04E05: Give Us a Moment
 DTSTART;TZID=America/New_York:20260401T120000
 DTEND;TZID=America/New_York:20260401T125100
-DTSTAMP:20260410T091137Z
+DTSTAMP:20260426T073446Z
 UID:tvshow-37196-s4e5@kz-ai-dev.github.io
 CATEGORIES:TV Show,Prime Video
-CREATED:20260410T091137Z
+CREATED:20260426T073446Z
 DESCRIPTION:Show: Invincible\nEpisode: Give Us a Moment\nSeason 4\, Episod
  e 5\nNetwork/Platform: Prime Video\nRuntime: 51 min\n\nMark embarks on a n
  ew and dangerous mission\, throwing Debbie into a tailspin and plunging Ev
@@ -2853,10 +3439,10 @@ BEGIN:VEVENT
 SUMMARY:Invincible - S04E06: You Look Horrible
 DTSTART;TZID=America/New_York:20260408T120000
 DTEND;TZID=America/New_York:20260408T125200
-DTSTAMP:20260410T091137Z
+DTSTAMP:20260426T073446Z
 UID:tvshow-37196-s4e6@kz-ai-dev.github.io
 CATEGORIES:TV Show,Prime Video
-CREATED:20260410T091137Z
+CREATED:20260426T073446Z
 DESCRIPTION:Show: Invincible\nEpisode: You Look Horrible\nSeason 4\, Episo
  de 6\nNetwork/Platform: Prime Video\nRuntime: 52 min\n\nFamily bonds are p
  ut to the test. Under pressure\, Allen makes a new friend.
@@ -2866,26 +3452,28 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Invincible - S04E07: Don't Do Anything Rash
 DTSTART;TZID=America/New_York:20260415T120000
-DTEND;TZID=America/New_York:20260415T123000
-DTSTAMP:20260410T091137Z
+DTEND;TZID=America/New_York:20260415T125300
+DTSTAMP:20260426T073446Z
 UID:tvshow-37196-s4e7@kz-ai-dev.github.io
 CATEGORIES:TV Show,Prime Video
-CREATED:20260410T091137Z
+CREATED:20260426T073446Z
 DESCRIPTION:Show: Invincible\nEpisode: Don't Do Anything Rash\nSeason 4\, 
- Episode 7\nNetwork/Platform: Prime Video\n
+ Episode 7\nNetwork/Platform: Prime Video\nRuntime: 53 min\n\nNothing goes 
+ according to plan during a massive confrontation.
 URL:https://www.tvmaze.com/episodes/3552386/invincible-4x07-dont-do-anythi
  ng-rash
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Invincible - S04E08: Don't Leave Me Hanging Here
 DTSTART;TZID=America/New_York:20260422T120000
-DTEND;TZID=America/New_York:20260422T123000
-DTSTAMP:20260410T091137Z
+DTEND;TZID=America/New_York:20260422T125100
+DTSTAMP:20260426T073446Z
 UID:tvshow-37196-s4e8@kz-ai-dev.github.io
 CATEGORIES:TV Show,Prime Video
-CREATED:20260410T091137Z
+CREATED:20260426T073446Z
 DESCRIPTION:Show: Invincible\nEpisode: Don't Leave Me Hanging Here\nSeason
-  4\, Episode 8\nNetwork/Platform: Prime Video\n
+  4\, Episode 8\nNetwork/Platform: Prime Video\nRuntime: 51 min\n\nMark con
+ fronts his darkest fears as his life changes forever.
 URL:https://www.tvmaze.com/episodes/3552387/invincible-4x08-dont-leave-me-
  hanging-here
 END:VEVENT
@@ -2894,10 +3482,10 @@ SUMMARY:Re:Zero kara Hajimeru Isekai Seikatsu - S01E01: The End of the Beg
  inning and the Beginning of the End
 DTSTART;TZID=America/New_York:20160404T000000
 DTEND;TZID=America/New_York:20160404T005000
-DTSTAMP:20260410T091138Z
+DTSTAMP:20260426T073447Z
 UID:tvshow-14459-s1e1@kz-ai-dev.github.io
 CATEGORIES:TV Show,AT-X
-CREATED:20260410T091138Z
+CREATED:20260426T073447Z
 DESCRIPTION:Show: Re:Zero kara Hajimeru Isekai Seikatsu\nEpisode: The End 
  of the Beginning and the Beginning of the End\nSeason 1\, Episode 1\nNetwo
  rk/Platform: AT-X\nRuntime: 50 min\n\nNatsuki Subaru is summoned to a para
@@ -2916,10 +3504,10 @@ SUMMARY:Re:Zero kara Hajimeru Isekai Seikatsu - S01E02: Reunion with the W
  itch
 DTSTART;TZID=America/New_York:20160411T010500
 DTEND;TZID=America/New_York:20160411T013000
-DTSTAMP:20260410T091138Z
+DTSTAMP:20260426T073447Z
 UID:tvshow-14459-s1e2@kz-ai-dev.github.io
 CATEGORIES:TV Show,AT-X
-CREATED:20260410T091138Z
+CREATED:20260426T073447Z
 DESCRIPTION:Show: Re:Zero kara Hajimeru Isekai Seikatsu\nEpisode: Reunion 
  with the Witch\nSeason 1\, Episode 2\nNetwork/Platform: AT-X\nRuntime: 25 
  min\n\nAfter being attacked by someone the first time\, sliced open by Els
@@ -2937,10 +3525,10 @@ SUMMARY:Re:Zero kara Hajimeru Isekai Seikatsu - S01E03: Starting Life from
   Zero in Another World
 DTSTART;TZID=America/New_York:20160418T010500
 DTEND;TZID=America/New_York:20160418T013000
-DTSTAMP:20260410T091138Z
+DTSTAMP:20260426T073447Z
 UID:tvshow-14459-s1e3@kz-ai-dev.github.io
 CATEGORIES:TV Show,AT-X
-CREATED:20260410T091138Z
+CREATED:20260426T073447Z
 DESCRIPTION:Show: Re:Zero kara Hajimeru Isekai Seikatsu\nEpisode: Starting
   Life from Zero in Another World\nSeason 1\, Episode 3\nNetwork/Platform: 
  AT-X\nRuntime: 25 min\n\nSubaru attempts to buy the insignia from Felt and
@@ -2955,10 +3543,10 @@ SUMMARY:Re:Zero kara Hajimeru Isekai Seikatsu - S01E04: The Happy Roswaal
  Mansion Family
 DTSTART;TZID=America/New_York:20160425T010500
 DTEND;TZID=America/New_York:20160425T013000
-DTSTAMP:20260410T091138Z
+DTSTAMP:20260426T073447Z
 UID:tvshow-14459-s1e4@kz-ai-dev.github.io
 CATEGORIES:TV Show,AT-X
-CREATED:20260410T091138Z
+CREATED:20260426T073447Z
 DESCRIPTION:Show: Re:Zero kara Hajimeru Isekai Seikatsu\nEpisode: The Happ
  y Roswaal Mansion Family\nSeason 1\, Episode 4\nNetwork/Platform: AT-X\nRu
  ntime: 25 min\n\nAfter being badly wounded by Elsa\, Subaru somehow surviv
@@ -2972,10 +3560,10 @@ SUMMARY:Re:Zero kara Hajimeru Isekai Seikatsu - S01E05: The Morning of Our
   Promise Is Still Distant
 DTSTART;TZID=America/New_York:20160502T010500
 DTEND;TZID=America/New_York:20160502T013000
-DTSTAMP:20260410T091138Z
+DTSTAMP:20260426T073447Z
 UID:tvshow-14459-s1e5@kz-ai-dev.github.io
 CATEGORIES:TV Show,AT-X
-CREATED:20260410T091138Z
+CREATED:20260426T073447Z
 DESCRIPTION:Show: Re:Zero kara Hajimeru Isekai Seikatsu\nEpisode: The Morn
  ing of Our Promise Is Still Distant\nSeason 1\, Episode 5\nNetwork/Platfor
  m: AT-X\nRuntime: 25 min\n\nSubaru now lives and works in Roswaal's mansio
@@ -2993,10 +3581,10 @@ SUMMARY:Re:Zero kara Hajimeru Isekai Seikatsu - S01E06: The Sound of Chain
  s
 DTSTART;TZID=America/New_York:20160509T010500
 DTEND;TZID=America/New_York:20160509T013000
-DTSTAMP:20260410T091138Z
+DTSTAMP:20260426T073447Z
 UID:tvshow-14459-s1e6@kz-ai-dev.github.io
 CATEGORIES:TV Show,AT-X
-CREATED:20260410T091138Z
+CREATED:20260426T073447Z
 DESCRIPTION:Show: Re:Zero kara Hajimeru Isekai Seikatsu\nEpisode: The Soun
  d of Chains\nSeason 1\, Episode 6\nNetwork/Platform: AT-X\nRuntime: 25 min
  \n\nSubaru's first day at the Roswaal mansion begins for the third time. T
@@ -3014,10 +3602,10 @@ SUMMARY:Re:Zero kara Hajimeru Isekai Seikatsu - S01E07: Natsuki Subaru's R
  estart
 DTSTART;TZID=America/New_York:20160516T010500
 DTEND;TZID=America/New_York:20160516T013000
-DTSTAMP:20260410T091138Z
+DTSTAMP:20260426T073447Z
 UID:tvshow-14459-s1e7@kz-ai-dev.github.io
 CATEGORIES:TV Show,AT-X
-CREATED:20260410T091138Z
+CREATED:20260426T073447Z
 DESCRIPTION:Show: Re:Zero kara Hajimeru Isekai Seikatsu\nEpisode: Natsuki 
  Subaru's Restart\nSeason 1\, Episode 7\nNetwork/Platform: AT-X\nRuntime: 2
  5 min\n\nStanding before Subaru is someone he never expected. The truth of
@@ -3035,10 +3623,10 @@ SUMMARY:Re:Zero kara Hajimeru Isekai Seikatsu - S01E08: I Cried\, Cried My
   Lungs Out\, and Stopped Crying
 DTSTART;TZID=America/New_York:20160523T010500
 DTEND;TZID=America/New_York:20160523T013000
-DTSTAMP:20260410T091138Z
+DTSTAMP:20260426T073447Z
 UID:tvshow-14459-s1e8@kz-ai-dev.github.io
 CATEGORIES:TV Show,AT-X
-CREATED:20260410T091138Z
+CREATED:20260426T073447Z
 DESCRIPTION:Show: Re:Zero kara Hajimeru Isekai Seikatsu\nEpisode: I Cried\
  , Cried My Lungs Out\, and Stopped Crying\nSeason 1\, Episode 8\nNetwork/P
  latform: AT-X\nRuntime: 25 min\n\nSubaru's first day in Roswaal's mansion 
@@ -3056,10 +3644,10 @@ SUMMARY:Re:Zero kara Hajimeru Isekai Seikatsu - S01E09: The Meaning of Cou
  rage
 DTSTART;TZID=America/New_York:20160530T010500
 DTEND;TZID=America/New_York:20160530T013000
-DTSTAMP:20260410T091138Z
+DTSTAMP:20260426T073447Z
 UID:tvshow-14459-s1e9@kz-ai-dev.github.io
 CATEGORIES:TV Show,AT-X
-CREATED:20260410T091138Z
+CREATED:20260426T073447Z
 DESCRIPTION:Show: Re:Zero kara Hajimeru Isekai Seikatsu\nEpisode: The Mean
  ing of Courage\nSeason 1\, Episode 9\nNetwork/Platform: AT-X\nRuntime: 25 
  min\n\nThe scattered pieces of the puzzle finally come together\, and Suba
@@ -3076,10 +3664,10 @@ SUMMARY:Re:Zero kara Hajimeru Isekai Seikatsu - S01E10: Fanatical Methods
  Like a Demon
 DTSTART;TZID=America/New_York:20160606T010500
 DTEND;TZID=America/New_York:20160606T013000
-DTSTAMP:20260410T091138Z
+DTSTAMP:20260426T073447Z
 UID:tvshow-14459-s1e10@kz-ai-dev.github.io
 CATEGORIES:TV Show,AT-X
-CREATED:20260410T091138Z
+CREATED:20260426T073447Z
 DESCRIPTION:Show: Re:Zero kara Hajimeru Isekai Seikatsu\nEpisode: Fanatica
  l Methods Like a Demon\nSeason 1\, Episode 10\nNetwork/Platform: AT-X\nRun
  time: 25 min\n\nSubaru risked his life to save the children from a pack of
@@ -3096,10 +3684,10 @@ BEGIN:VEVENT
 SUMMARY:Re:Zero kara Hajimeru Isekai Seikatsu - S01E11: Rem
 DTSTART;TZID=America/New_York:20160613T010500
 DTEND;TZID=America/New_York:20160613T013000
-DTSTAMP:20260410T091138Z
+DTSTAMP:20260426T073447Z
 UID:tvshow-14459-s1e11@kz-ai-dev.github.io
 CATEGORIES:TV Show,AT-X
-CREATED:20260410T091138Z
+CREATED:20260426T073447Z
 DESCRIPTION:Show: Re:Zero kara Hajimeru Isekai Seikatsu\nEpisode: Rem\nSea
  son 1\, Episode 11\nNetwork/Platform: AT-X\nRuntime: 25 min\n\nKnocked unc
  onscious by Subaru's attack\, Rem dreams of an event in her past that she 
@@ -3116,10 +3704,10 @@ SUMMARY:Re:Zero kara Hajimeru Isekai Seikatsu - S01E12: Return to the Capi
  tal
 DTSTART;TZID=America/New_York:20160620T010500
 DTEND;TZID=America/New_York:20160620T013000
-DTSTAMP:20260410T091138Z
+DTSTAMP:20260426T073447Z
 UID:tvshow-14459-s1e12@kz-ai-dev.github.io
 CATEGORIES:TV Show,AT-X
-CREATED:20260410T091138Z
+CREATED:20260426T073447Z
 DESCRIPTION:Show: Re:Zero kara Hajimeru Isekai Seikatsu\nEpisode: Return t
  o the Capital\nSeason 1\, Episode 12\nNetwork/Platform: AT-X\nRuntime: 25 
  min\n\nAt the order of the council of elders that manages Lugunica in the 
@@ -3137,10 +3725,10 @@ SUMMARY:Re:Zero kara Hajimeru Isekai Seikatsu - S01E13: Self-Proclaimed Kn
  ight Natsuki Subaru
 DTSTART;TZID=America/New_York:20160627T010500
 DTEND;TZID=America/New_York:20160627T013000
-DTSTAMP:20260410T091138Z
+DTSTAMP:20260426T073447Z
 UID:tvshow-14459-s1e13@kz-ai-dev.github.io
 CATEGORIES:TV Show,AT-X
-CREATED:20260410T091138Z
+CREATED:20260426T073447Z
 DESCRIPTION:Show: Re:Zero kara Hajimeru Isekai Seikatsu\nEpisode: Self-Pro
  claimed Knight Natsuki Subaru\nSeason 1\, Episode 13\nNetwork/Platform: AT
  -X\nRuntime: 25 min\n\nAs Emilia joins Priscilla\, Crusch\, and Anastasia 
@@ -3158,10 +3746,10 @@ SUMMARY:Re:Zero kara Hajimeru Isekai Seikatsu - S01E14: The Sickness Calle
  d Despair
 DTSTART;TZID=America/New_York:20160704T010500
 DTEND;TZID=America/New_York:20160704T013000
-DTSTAMP:20260410T091138Z
+DTSTAMP:20260426T073447Z
 UID:tvshow-14459-s1e14@kz-ai-dev.github.io
 CATEGORIES:TV Show,AT-X
-CREATED:20260410T091138Z
+CREATED:20260426T073447Z
 DESCRIPTION:Show: Re:Zero kara Hajimeru Isekai Seikatsu\nEpisode: The Sick
  ness Called Despair\nSeason 1\, Episode 14\nNetwork/Platform: AT-X\nRuntim
  e: 25 min\n\n"I just wanted to protect her. That feeling wasn't a lie. Whe
@@ -3179,10 +3767,10 @@ SUMMARY:Re:Zero kara Hajimeru Isekai Seikatsu - S01E15: The Outside of Mad
  ness
 DTSTART;TZID=America/New_York:20160711T010500
 DTEND;TZID=America/New_York:20160711T013000
-DTSTAMP:20260410T091138Z
+DTSTAMP:20260426T073447Z
 UID:tvshow-14459-s1e15@kz-ai-dev.github.io
 CATEGORIES:TV Show,AT-X
-CREATED:20260410T091138Z
+CREATED:20260426T073447Z
 DESCRIPTION:Show: Re:Zero kara Hajimeru Isekai Seikatsu\nEpisode: The Outs
  ide of Madness\nSeason 1\, Episode 15\nNetwork/Platform: AT-X\nRuntime: 25
   min\n\nUpon returning to Roswaal's mansion\, Subaru is greeted by an unbe
@@ -3196,10 +3784,10 @@ BEGIN:VEVENT
 SUMMARY:Re:Zero kara Hajimeru Isekai Seikatsu - S01E16: The Greed of a Pig
 DTSTART;TZID=America/New_York:20160718T010500
 DTEND;TZID=America/New_York:20160718T013000
-DTSTAMP:20260410T091138Z
+DTSTAMP:20260426T073447Z
 UID:tvshow-14459-s1e16@kz-ai-dev.github.io
 CATEGORIES:TV Show,AT-X
-CREATED:20260410T091138Z
+CREATED:20260426T073447Z
 DESCRIPTION:Show: Re:Zero kara Hajimeru Isekai Seikatsu\nEpisode: The Gree
  d of a Pig\nSeason 1\, Episode 16\nNetwork/Platform: AT-X\nRuntime: 25 min
  \n\nSubaru wakes up in front of the appa shop once again. Feeling boxed in
@@ -3218,10 +3806,10 @@ SUMMARY:Re:Zero kara Hajimeru Isekai Seikatsu - S01E17: Disgrace in the Ex
  treme
 DTSTART;TZID=America/New_York:20160725T010500
 DTEND;TZID=America/New_York:20160725T013000
-DTSTAMP:20260410T091138Z
+DTSTAMP:20260426T073447Z
 UID:tvshow-14459-s1e17@kz-ai-dev.github.io
 CATEGORIES:TV Show,AT-X
-CREATED:20260410T091138Z
+CREATED:20260426T073447Z
 DESCRIPTION:Show: Re:Zero kara Hajimeru Isekai Seikatsu\nEpisode: Disgrace
   in the Extreme\nSeason 1\, Episode 17\nNetwork/Platform: AT-X\nRuntime: 2
  5 min\n\nA mysterious figure appears before Subaru and his traveling compa
@@ -3234,10 +3822,10 @@ BEGIN:VEVENT
 SUMMARY:Re:Zero kara Hajimeru Isekai Seikatsu - S01E18: From Zero
 DTSTART;TZID=America/New_York:20160801T010500
 DTEND;TZID=America/New_York:20160801T013000
-DTSTAMP:20260410T091138Z
+DTSTAMP:20260426T073447Z
 UID:tvshow-14459-s1e18@kz-ai-dev.github.io
 CATEGORIES:TV Show,AT-X
-CREATED:20260410T091138Z
+CREATED:20260426T073447Z
 DESCRIPTION:Show: Re:Zero kara Hajimeru Isekai Seikatsu\nEpisode: From Zer
  o\nSeason 1\, Episode 18\nNetwork/Platform: AT-X\nRuntime: 25 min\n\nSubar
  u laments that he could not do anything or save anyone\, and has no option
@@ -3251,10 +3839,10 @@ SUMMARY:Re:Zero kara Hajimeru Isekai Seikatsu - S01E19: Battle Against the
   White Whale
 DTSTART;TZID=America/New_York:20160808T010500
 DTEND;TZID=America/New_York:20160808T013000
-DTSTAMP:20260410T091138Z
+DTSTAMP:20260426T073447Z
 UID:tvshow-14459-s1e19@kz-ai-dev.github.io
 CATEGORIES:TV Show,AT-X
-CREATED:20260410T091138Z
+CREATED:20260426T073447Z
 DESCRIPTION:Show: Re:Zero kara Hajimeru Isekai Seikatsu\nEpisode: Battle A
  gainst the White Whale\nSeason 1\, Episode 19\nNetwork/Platform: AT-X\nRun
  time: 25 min\n\nTo save Emilia\, Subaru approaches Crusch to negotiate the
@@ -3267,10 +3855,10 @@ BEGIN:VEVENT
 SUMMARY:Re:Zero kara Hajimeru Isekai Seikatsu - S01E20: Wilhelm van Astrea
 DTSTART;TZID=America/New_York:20160815T010500
 DTEND;TZID=America/New_York:20160815T013000
-DTSTAMP:20260410T091138Z
+DTSTAMP:20260426T073447Z
 UID:tvshow-14459-s1e20@kz-ai-dev.github.io
 CATEGORIES:TV Show,AT-X
-CREATED:20260410T091138Z
+CREATED:20260426T073447Z
 DESCRIPTION:Show: Re:Zero kara Hajimeru Isekai Seikatsu\nEpisode: Wilhelm 
  van Astrea\nSeason 1\, Episode 20\nNetwork/Platform: AT-X\nRuntime: 25 min
  \n\nSubaru has devoted everything he had\, and done all he could do. His p
@@ -3284,10 +3872,10 @@ SUMMARY:Re:Zero kara Hajimeru Isekai Seikatsu - S01E21: A Bet That Fights
  Against Despair
 DTSTART;TZID=America/New_York:20160822T010500
 DTEND;TZID=America/New_York:20160822T013000
-DTSTAMP:20260410T091138Z
+DTSTAMP:20260426T073447Z
 UID:tvshow-14459-s1e21@kz-ai-dev.github.io
 CATEGORIES:TV Show,AT-X
-CREATED:20260410T091138Z
+CREATED:20260426T073447Z
 DESCRIPTION:Show: Re:Zero kara Hajimeru Isekai Seikatsu\nEpisode: A Bet Th
  at Fights Against Despair\nSeason 1\, Episode 21\nNetwork/Platform: AT-X\n
  Runtime: 25 min\n\nSubaru and Rem are at a loss for words. The battle agai
@@ -3303,10 +3891,10 @@ BEGIN:VEVENT
 SUMMARY:Re:Zero kara Hajimeru Isekai Seikatsu - S01E22: Flash of Sloth
 DTSTART;TZID=America/New_York:20160829T010500
 DTEND;TZID=America/New_York:20160829T013000
-DTSTAMP:20260410T091138Z
+DTSTAMP:20260426T073447Z
 UID:tvshow-14459-s1e22@kz-ai-dev.github.io
 CATEGORIES:TV Show,AT-X
-CREATED:20260410T091138Z
+CREATED:20260426T073447Z
 DESCRIPTION:Show: Re:Zero kara Hajimeru Isekai Seikatsu\nEpisode: Flash of
   Sloth\nSeason 1\, Episode 22\nNetwork/Platform: AT-X\nRuntime: 25 min\n\n
  With the battle against the White Whale now over\, the mercenary force set
@@ -3322,10 +3910,10 @@ BEGIN:VEVENT
 SUMMARY:Re:Zero kara Hajimeru Isekai Seikatsu - S01E23: Nefarious Sloth
 DTSTART;TZID=America/New_York:20160905T010500
 DTEND;TZID=America/New_York:20160905T013000
-DTSTAMP:20260410T091138Z
+DTSTAMP:20260426T073447Z
 UID:tvshow-14459-s1e23@kz-ai-dev.github.io
 CATEGORIES:TV Show,AT-X
-CREATED:20260410T091138Z
+CREATED:20260426T073447Z
 DESCRIPTION:Show: Re:Zero kara Hajimeru Isekai Seikatsu\nEpisode: Nefariou
  s Sloth\nSeason 1\, Episode 23\nNetwork/Platform: AT-X\nRuntime: 25 min\n\
  nThe group is making its way in the Mathers domain when suddenly everyone 
@@ -3344,10 +3932,10 @@ SUMMARY:Re:Zero kara Hajimeru Isekai Seikatsu - S01E24: The Self-Proclaime
  d Knight and the Most Valuable Knight
 DTSTART;TZID=America/New_York:20160912T010500
 DTEND;TZID=America/New_York:20160912T013000
-DTSTAMP:20260410T091138Z
+DTSTAMP:20260426T073447Z
 UID:tvshow-14459-s1e24@kz-ai-dev.github.io
 CATEGORIES:TV Show,AT-X
-CREATED:20260410T091138Z
+CREATED:20260426T073447Z
 DESCRIPTION:Show: Re:Zero kara Hajimeru Isekai Seikatsu\nEpisode: The Self
  -Proclaimed Knight and the Most Valuable Knight\nSeason 1\, Episode 24\nNe
  twork/Platform: AT-X\nRuntime: 25 min\n\nSubaru devises a new plan to corr
@@ -3364,10 +3952,10 @@ SUMMARY:Re:Zero kara Hajimeru Isekai Seikatsu - S01E25: That's All This St
  ory Is About
 DTSTART;TZID=America/New_York:20160919T010500
 DTEND;TZID=America/New_York:20160919T013000
-DTSTAMP:20260410T091138Z
+DTSTAMP:20260426T073447Z
 UID:tvshow-14459-s1e25@kz-ai-dev.github.io
 CATEGORIES:TV Show,AT-X
-CREATED:20260410T091138Z
+CREATED:20260426T073447Z
 DESCRIPTION:Show: Re:Zero kara Hajimeru Isekai Seikatsu\nEpisode: That's A
  ll This Story Is About\nSeason 1\, Episode 25\nNetwork/Platform: AT-X\nRun
  time: 25 min\n\nEmilia is hurriedly ushered to the capital along with the 
@@ -3386,10 +3974,10 @@ BEGIN:VEVENT
 SUMMARY:Re:Zero kara Hajimeru Isekai Seikatsu - S02E01: Each One's Promise
 DTSTART;TZID=America/New_York:20200708T223000
 DTEND;TZID=America/New_York:20200708T230000
-DTSTAMP:20260410T091138Z
+DTSTAMP:20260426T073447Z
 UID:tvshow-14459-s2e1@kz-ai-dev.github.io
 CATEGORIES:TV Show,AT-X
-CREATED:20260410T091138Z
+CREATED:20260426T073447Z
 DESCRIPTION:Show: Re:Zero kara Hajimeru Isekai Seikatsu\nEpisode: Each One
  's Promise\nSeason 2\, Episode 1\nNetwork/Platform: AT-X\nRuntime: 30 min\
  n\nPetelgeuse and the white whale are defeated. But suddenly all memory of
@@ -3403,10 +3991,10 @@ BEGIN:VEVENT
 SUMMARY:Re:Zero kara Hajimeru Isekai Seikatsu - S02E02: The Next Location
 DTSTART;TZID=America/New_York:20200715T223000
 DTEND;TZID=America/New_York:20200715T230000
-DTSTAMP:20260410T091138Z
+DTSTAMP:20260426T073447Z
 UID:tvshow-14459-s2e2@kz-ai-dev.github.io
 CATEGORIES:TV Show,AT-X
-CREATED:20260410T091138Z
+CREATED:20260426T073447Z
 DESCRIPTION:Show: Re:Zero kara Hajimeru Isekai Seikatsu\nEpisode: The Next
   Location\nSeason 2\, Episode 2\nNetwork/Platform: AT-X\nRuntime: 30 min\n
  \nWhen Subaru and the others return to the village\, they find both villag
@@ -3420,10 +4008,10 @@ SUMMARY:Re:Zero kara Hajimeru Isekai Seikatsu - S02E03: The Long-Awaited R
  eunion
 DTSTART;TZID=America/New_York:20200722T223000
 DTEND;TZID=America/New_York:20200722T230000
-DTSTAMP:20260410T091138Z
+DTSTAMP:20260426T073447Z
 UID:tvshow-14459-s2e3@kz-ai-dev.github.io
 CATEGORIES:TV Show,AT-X
-CREATED:20260410T091138Z
+CREATED:20260426T073447Z
 DESCRIPTION:Show: Re:Zero kara Hajimeru Isekai Seikatsu\nEpisode: The Long
  -Awaited Reunion\nSeason 2\, Episode 3\nNetwork/Platform: AT-X\nRuntime: 3
  0 min\n\nAfter Subaru encounters the Witch of Greed\, he\, Emilia and Otto
@@ -3436,10 +4024,10 @@ BEGIN:VEVENT
 SUMMARY:Re:Zero kara Hajimeru Isekai Seikatsu - S02E04: Parent and Child
 DTSTART;TZID=America/New_York:20200729T223000
 DTEND;TZID=America/New_York:20200729T230000
-DTSTAMP:20260410T091138Z
+DTSTAMP:20260426T073447Z
 UID:tvshow-14459-s2e4@kz-ai-dev.github.io
 CATEGORIES:TV Show,AT-X
-CREATED:20260410T091138Z
+CREATED:20260426T073447Z
 DESCRIPTION:Show: Re:Zero kara Hajimeru Isekai Seikatsu\nEpisode: Parent a
  nd Child\nSeason 2\, Episode 4\nNetwork/Platform: AT-X\nRuntime: 30 min\n\
  nSubaru wakes up in his bed in his parents' house. Here he must confront h
@@ -3452,10 +4040,10 @@ BEGIN:VEVENT
 SUMMARY:Re:Zero kara Hajimeru Isekai Seikatsu - S02E05: A Step Forward
 DTSTART;TZID=America/New_York:20200805T223000
 DTEND;TZID=America/New_York:20200805T230000
-DTSTAMP:20260410T091138Z
+DTSTAMP:20260426T073447Z
 UID:tvshow-14459-s2e5@kz-ai-dev.github.io
 CATEGORIES:TV Show,AT-X
-CREATED:20260410T091138Z
+CREATED:20260426T073447Z
 DESCRIPTION:Show: Re:Zero kara Hajimeru Isekai Seikatsu\nEpisode: A Step F
  orward\nSeason 2\, Episode 5\nNetwork/Platform: AT-X\nRuntime: 30 min\n\nT
  he exam has been nasty for Emilia\, while Subaru has passed it. But then L
@@ -3468,10 +4056,10 @@ SUMMARY:Re:Zero kara Hajimeru Isekai Seikatsu - S02E06: The Maiden's Gospe
  l
 DTSTART;TZID=America/New_York:20200812T223000
 DTEND;TZID=America/New_York:20200812T230000
-DTSTAMP:20260410T091138Z
+DTSTAMP:20260426T073447Z
 UID:tvshow-14459-s2e6@kz-ai-dev.github.io
 CATEGORIES:TV Show,AT-X
-CREATED:20260410T091138Z
+CREATED:20260426T073447Z
 DESCRIPTION:Show: Re:Zero kara Hajimeru Isekai Seikatsu\nEpisode: The Maid
  en's Gospel\nSeason 2\, Episode 6\nNetwork/Platform: AT-X\nRuntime: 30 min
  \n\nSubaru wakes up again at the cemetery right after Emilia's test. He de
@@ -3484,10 +4072,10 @@ BEGIN:VEVENT
 SUMMARY:Re:Zero kara Hajimeru Isekai Seikatsu - S02E07: Friend
 DTSTART;TZID=America/New_York:20200819T223000
 DTEND;TZID=America/New_York:20200819T230000
-DTSTAMP:20260410T091138Z
+DTSTAMP:20260426T073447Z
 UID:tvshow-14459-s2e7@kz-ai-dev.github.io
 CATEGORIES:TV Show,AT-X
-CREATED:20260410T091138Z
+CREATED:20260426T073447Z
 DESCRIPTION:Show: Re:Zero kara Hajimeru Isekai Seikatsu\nEpisode: Friend\n
  Season 2\, Episode 7\nNetwork/Platform: AT-X\nRuntime: 30 min\n\nSubaru ha
  s been saved by Beatrice at the last moment\, against his wishes. But in c
@@ -3499,10 +4087,10 @@ BEGIN:VEVENT
 SUMMARY:Re:Zero kara Hajimeru Isekai Seikatsu - S02E08: The Value of Life
 DTSTART;TZID=America/New_York:20200826T223000
 DTEND;TZID=America/New_York:20200826T230000
-DTSTAMP:20260410T091138Z
+DTSTAMP:20260426T073447Z
 UID:tvshow-14459-s2e8@kz-ai-dev.github.io
 CATEGORIES:TV Show,AT-X
-CREATED:20260410T091138Z
+CREATED:20260426T073447Z
 DESCRIPTION:Show: Re:Zero kara Hajimeru Isekai Seikatsu\nEpisode: The Valu
  e of Life\nSeason 2\, Episode 8\nNetwork/Platform: AT-X\nRuntime: 30 min\n
  \nSubaru has been rescued from Garfiel's captivity by Otto. But before he 
@@ -3515,10 +4103,10 @@ SUMMARY:Re:Zero kara Hajimeru Isekai Seikatsu - S02E09: Love Love Love Lov
  e Love Love You
 DTSTART;TZID=America/New_York:20200902T223000
 DTEND;TZID=America/New_York:20200902T230000
-DTSTAMP:20260410T091138Z
+DTSTAMP:20260426T073447Z
 UID:tvshow-14459-s2e9@kz-ai-dev.github.io
 CATEGORIES:TV Show,AT-X
-CREATED:20260410T091138Z
+CREATED:20260426T073447Z
 DESCRIPTION:Show: Re:Zero kara Hajimeru Isekai Seikatsu\nEpisode: Love Lov
  e Love Love Love Love You\nSeason 2\, Episode 9\nNetwork/Platform: AT-X\nR
  untime: 30 min\n\nAfter Subaru finally finds someone in Echidna to whom he
@@ -3532,10 +4120,10 @@ BEGIN:VEVENT
 SUMMARY:Re:Zero kara Hajimeru Isekai Seikatsu - S02E10: I Know Hell
 DTSTART;TZID=America/New_York:20200909T223000
 DTEND;TZID=America/New_York:20200909T230000
-DTSTAMP:20260410T091138Z
+DTSTAMP:20260426T073448Z
 UID:tvshow-14459-s2e10@kz-ai-dev.github.io
 CATEGORIES:TV Show,AT-X
-CREATED:20260410T091138Z
+CREATED:20260426T073448Z
 DESCRIPTION:Show: Re:Zero kara Hajimeru Isekai Seikatsu\nEpisode: I Know H
  ell\nSeason 2\, Episode 10\nNetwork/Platform: AT-X\nRuntime: 30 min\n\nSur
  rounded by the shadow of the Witch of Envy\, Garfiel and Subaru go on the 
@@ -3548,10 +4136,10 @@ BEGIN:VEVENT
 SUMMARY:Re:Zero kara Hajimeru Isekai Seikatsu - S02E11: The Taste of Death
 DTSTART;TZID=America/New_York:20200916T223000
 DTEND;TZID=America/New_York:20200916T230000
-DTSTAMP:20260410T091138Z
+DTSTAMP:20260426T073448Z
 UID:tvshow-14459-s2e11@kz-ai-dev.github.io
 CATEGORIES:TV Show,AT-X
-CREATED:20260410T091138Z
+CREATED:20260426T073448Z
 DESCRIPTION:Show: Re:Zero kara Hajimeru Isekai Seikatsu\nEpisode: The Tast
  e of Death\nSeason 2\, Episode 11\nNetwork/Platform: AT-X\nRuntime: 30 min
  \n\nSubaru is back at the residence to fight off the attack this time toge
@@ -3564,10 +4152,10 @@ SUMMARY:Re:Zero kara Hajimeru Isekai Seikatsu - S02E12: The Witches' Tea P
  arty
 DTSTART;TZID=America/New_York:20200923T223000
 DTEND;TZID=America/New_York:20200923T230000
-DTSTAMP:20260410T091138Z
+DTSTAMP:20260426T073448Z
 UID:tvshow-14459-s2e12@kz-ai-dev.github.io
 CATEGORIES:TV Show,AT-X
-CREATED:20260410T091138Z
+CREATED:20260426T073448Z
 DESCRIPTION:Show: Re:Zero kara Hajimeru Isekai Seikatsu\nEpisode: The Witc
  hes' Tea Party\nSeason 2\, Episode 12\nNetwork/Platform: AT-X\nRuntime: 30
   min\n\nSubaru sees visions from a present he cannot have experienced. The
@@ -3581,10 +4169,10 @@ SUMMARY:Re:Zero kara Hajimeru Isekai Seikatsu - S02E13: The Sounds That Ma
  ke You Want to Cry
 DTSTART;TZID=America/New_York:20200930T223000
 DTEND;TZID=America/New_York:20200930T230000
-DTSTAMP:20260410T091138Z
+DTSTAMP:20260426T073448Z
 UID:tvshow-14459-s2e13@kz-ai-dev.github.io
 CATEGORIES:TV Show,AT-X
-CREATED:20260410T091138Z
+CREATED:20260426T073448Z
 DESCRIPTION:Show: Re:Zero kara Hajimeru Isekai Seikatsu\nEpisode: The Soun
  ds That Make You Want to Cry\nSeason 2\, Episode 13\nNetwork/Platform: AT-
  X\nRuntime: 30 min\n\nSatela\, the Witch of Envy\, has appeared in the dre
@@ -3598,10 +4186,10 @@ BEGIN:VEVENT
 SUMMARY:Re:Zero kara Hajimeru Isekai Seikatsu - S02E14: STRAIGHT BET
 DTSTART;TZID=America/New_York:20210106T223000
 DTEND;TZID=America/New_York:20210106T230000
-DTSTAMP:20260410T091138Z
+DTSTAMP:20260426T073448Z
 UID:tvshow-14459-s2e14@kz-ai-dev.github.io
 CATEGORIES:TV Show,AT-X
-CREATED:20260410T091138Z
+CREATED:20260426T073448Z
 DESCRIPTION:Show: Re:Zero kara Hajimeru Isekai Seikatsu\nEpisode: STRAIGHT
   BET\nSeason 2\, Episode 14\nNetwork/Platform: AT-X\nRuntime: 30 min\n\nAf
  ter being convinced by Otto that he should rely on his friends\, Subaru ma
@@ -3615,10 +4203,10 @@ SUMMARY:Re:Zero kara Hajimeru Isekai Seikatsu - S02E15: Otto Suwen / A Rea
  son to Believe
 DTSTART;TZID=America/New_York:20210113T223000
 DTEND;TZID=America/New_York:20210113T230000
-DTSTAMP:20260410T091138Z
+DTSTAMP:20260426T073448Z
 UID:tvshow-14459-s2e15@kz-ai-dev.github.io
 CATEGORIES:TV Show,AT-X
-CREATED:20260410T091138Z
+CREATED:20260426T073448Z
 DESCRIPTION:Show: Re:Zero kara Hajimeru Isekai Seikatsu\nEpisode: Otto Suw
  en / A Reason to Believe\nSeason 2\, Episode 15\nNetwork/Platform: AT-X\nR
  untime: 30 min\n\nOtto tries to stop Garfiel alone to buy Subaru more time
@@ -3632,10 +4220,10 @@ SUMMARY:Re:Zero kara Hajimeru Isekai Seikatsu - S02E16: Nobody Can Lift a
  Quain Stone Alone
 DTSTART;TZID=America/New_York:20210120T223000
 DTEND;TZID=America/New_York:20210120T230000
-DTSTAMP:20260410T091138Z
+DTSTAMP:20260426T073448Z
 UID:tvshow-14459-s2e16@kz-ai-dev.github.io
 CATEGORIES:TV Show,AT-X
-CREATED:20260410T091138Z
+CREATED:20260426T073448Z
 DESCRIPTION:Show: Re:Zero kara Hajimeru Isekai Seikatsu\nEpisode: Nobody C
  an Lift a Quain Stone Alone\nSeason 2\, Episode 16\nNetwork/Platform: AT-X
  \nRuntime: 30 min\n\nIt comes to a showdown between Subaru and Garfiel. Ca
@@ -3649,10 +4237,10 @@ SUMMARY:Re:Zero kara Hajimeru Isekai Seikatsu - S02E17: A Journey Through
  Memories
 DTSTART;TZID=America/New_York:20210127T223000
 DTEND;TZID=America/New_York:20210127T230000
-DTSTAMP:20260410T091138Z
+DTSTAMP:20260426T073448Z
 UID:tvshow-14459-s2e17@kz-ai-dev.github.io
 CATEGORIES:TV Show,AT-X
-CREATED:20260410T091138Z
+CREATED:20260426T073448Z
 DESCRIPTION:Show: Re:Zero kara Hajimeru Isekai Seikatsu\nEpisode: A Journe
  y Through Memories\nSeason 2\, Episode 17\nNetwork/Platform: AT-X\nRuntime
  : 30 min\n\nEmilia\, together with the witch Echidna\, confronts her lost 
@@ -3666,10 +4254,10 @@ SUMMARY:Re:Zero kara Hajimeru Isekai Seikatsu - S02E18: The Day Betelgeuse
   Laughed
 DTSTART;TZID=America/New_York:20210203T223000
 DTEND;TZID=America/New_York:20210203T230000
-DTSTAMP:20260410T091138Z
+DTSTAMP:20260426T073448Z
 UID:tvshow-14459-s2e18@kz-ai-dev.github.io
 CATEGORIES:TV Show,AT-X
-CREATED:20260410T091138Z
+CREATED:20260426T073448Z
 DESCRIPTION:Show: Re:Zero kara Hajimeru Isekai Seikatsu\nEpisode: The Day 
  Betelgeuse Laughed\nSeason 2\, Episode 18\nNetwork/Platform: AT-X\nRuntime
  : 30 min\n\nWhile Shima tells the others about the memories of the origina
@@ -3682,10 +4270,10 @@ SUMMARY:Re:Zero kara Hajimeru Isekai Seikatsu - S02E19: The Permafrost of
  Elior Forest
 DTSTART;TZID=America/New_York:20210210T223000
 DTEND;TZID=America/New_York:20210210T230000
-DTSTAMP:20260410T091138Z
+DTSTAMP:20260426T073448Z
 UID:tvshow-14459-s2e19@kz-ai-dev.github.io
 CATEGORIES:TV Show,AT-X
-CREATED:20260410T091138Z
+CREATED:20260426T073448Z
 DESCRIPTION:Show: Re:Zero kara Hajimeru Isekai Seikatsu\nEpisode: The Perm
  afrost of Elior Forest\nSeason 2\, Episode 19\nNetwork/Platform: AT-X\nRun
  time: 30 min\n\nIn the trial\, Emilia finally learns what led to the loss 
@@ -3699,10 +4287,10 @@ SUMMARY:Re:Zero kara Hajimeru Isekai Seikatsu - S02E20: The Beginning of t
  he Sanctuary and the Beginning of the End
 DTSTART;TZID=America/New_York:20210217T223000
 DTEND;TZID=America/New_York:20210217T230000
-DTSTAMP:20260410T091138Z
+DTSTAMP:20260426T073448Z
 UID:tvshow-14459-s2e20@kz-ai-dev.github.io
 CATEGORIES:TV Show,AT-X
-CREATED:20260410T091138Z
+CREATED:20260426T073448Z
 DESCRIPTION:Show: Re:Zero kara Hajimeru Isekai Seikatsu\nEpisode: The Begi
  nning of the Sanctuary and the Beginning of the End\nSeason 2\, Episode 20
  \nNetwork/Platform: AT-X\nRuntime: 30 min\n\nThe whole truth about the cre
@@ -3716,10 +4304,10 @@ BEGIN:VEVENT
 SUMMARY:Re:Zero kara Hajimeru Isekai Seikatsu - S02E21: Reunion of Roars
 DTSTART;TZID=America/New_York:20210224T223000
 DTEND;TZID=America/New_York:20210224T230000
-DTSTAMP:20260410T091138Z
+DTSTAMP:20260426T073448Z
 UID:tvshow-14459-s2e21@kz-ai-dev.github.io
 CATEGORIES:TV Show,AT-X
-CREATED:20260410T091138Z
+CREATED:20260426T073448Z
 DESCRIPTION:Show: Re:Zero kara Hajimeru Isekai Seikatsu\nEpisode: Reunion 
  of Roars\nSeason 2\, Episode 21\nNetwork/Platform: AT-X\nRuntime: 30 min\n
  \nAfter the confrontation with Roswaal\, Subaru leaves for the residence t
@@ -3733,10 +4321,10 @@ SUMMARY:Re:Zero kara Hajimeru Isekai Seikatsu - S02E22: Happiness Reflecte
  d on the Water's Surface
 DTSTART;TZID=America/New_York:20210303T223000
 DTEND;TZID=America/New_York:20210303T230000
-DTSTAMP:20260410T091138Z
+DTSTAMP:20260426T073448Z
 UID:tvshow-14459-s2e22@kz-ai-dev.github.io
 CATEGORIES:TV Show,AT-X
-CREATED:20260410T091138Z
+CREATED:20260426T073448Z
 DESCRIPTION:Show: Re:Zero kara Hajimeru Isekai Seikatsu\nEpisode: Happines
  s Reflected on the Water's Surface\nSeason 2\, Episode 22\nNetwork/Platfor
  m: AT-X\nRuntime: 30 min\n\nGarfiel\, Frederica\, Subaru and Otto desperat
@@ -3750,10 +4338,10 @@ SUMMARY:Re:Zero kara Hajimeru Isekai Seikatsu - S02E23: Love Me Down to My
   Blood and Guts
 DTSTART;TZID=America/New_York:20210310T223000
 DTEND;TZID=America/New_York:20210310T230000
-DTSTAMP:20260410T091138Z
+DTSTAMP:20260426T073448Z
 UID:tvshow-14459-s2e23@kz-ai-dev.github.io
 CATEGORIES:TV Show,AT-X
-CREATED:20260410T091138Z
+CREATED:20260426T073448Z
 DESCRIPTION:Show: Re:Zero kara Hajimeru Isekai Seikatsu\nEpisode: Love Me 
  Down to My Blood and Guts\nSeason 2\, Episode 23\nNetwork/Platform: AT-X\n
  Runtime: 30 min\n\nWhile Garfiel fights Elsa in the residence\, Ram and Pu
@@ -3765,10 +4353,10 @@ BEGIN:VEVENT
 SUMMARY:Re:Zero kara Hajimeru Isekai Seikatsu - S02E24: Choose Me
 DTSTART;TZID=America/New_York:20210317T223000
 DTEND;TZID=America/New_York:20210317T230000
-DTSTAMP:20260410T091138Z
+DTSTAMP:20260426T073448Z
 UID:tvshow-14459-s2e24@kz-ai-dev.github.io
 CATEGORIES:TV Show,AT-X
-CREATED:20260410T091138Z
+CREATED:20260426T073448Z
 DESCRIPTION:Show: Re:Zero kara Hajimeru Isekai Seikatsu\nEpisode: Choose M
  e\nSeason 2\, Episode 24\nNetwork/Platform: AT-X\nRuntime: 30 min\n\nEmili
  a has survived the trial\, but suddenly another disaster happens. Meanwhil
@@ -3782,10 +4370,10 @@ SUMMARY:Re:Zero kara Hajimeru Isekai Seikatsu - S02E25: Under the Moon\, A
   Crazy Step
 DTSTART;TZID=America/New_York:20210324T223000
 DTEND;TZID=America/New_York:20210324T230000
-DTSTAMP:20260410T091138Z
+DTSTAMP:20260426T073448Z
 UID:tvshow-14459-s2e25@kz-ai-dev.github.io
 CATEGORIES:TV Show,AT-X
-CREATED:20260410T091138Z
+CREATED:20260426T073448Z
 DESCRIPTION:Show: Re:Zero kara Hajimeru Isekai Seikatsu\nEpisode: Under th
  e Moon\, A Crazy Step\nSeason 2\, Episode 25\nNetwork/Platform: AT-X\nRunt
  ime: 30 min\n\nIt comes to the final confrontation between Subaru\, Emilia
@@ -3798,10 +4386,10 @@ BEGIN:VEVENT
 SUMMARY:Re:Zero kara Hajimeru Isekai Seikatsu - S03E01: Theatrical Malice
 DTSTART;TZID=America/New_York:20241002T223000
 DTEND;TZID=America/New_York:20241003T000000
-DTSTAMP:20260410T091138Z
+DTSTAMP:20260426T073448Z
 UID:tvshow-14459-s3e1@kz-ai-dev.github.io
 CATEGORIES:TV Show,AT-X
-CREATED:20260410T091138Z
+CREATED:20260426T073448Z
 DESCRIPTION:Show: Re:Zero kara Hajimeru Isekai Seikatsu\nEpisode: Theatric
  al Malice\nSeason 3\, Episode 1\nNetwork/Platform: AT-X\nRuntime: 90 min\n
  \nA year has passed since the battle at the Sanctuary\, and Subaru has bee
@@ -3815,10 +4403,10 @@ SUMMARY:Re:Zero kara Hajimeru Isekai Seikatsu - S03E02: A Showdown of Fire
   and Ice
 DTSTART;TZID=America/New_York:20241009T223000
 DTEND;TZID=America/New_York:20241009T230000
-DTSTAMP:20260410T091138Z
+DTSTAMP:20260426T073448Z
 UID:tvshow-14459-s3e2@kz-ai-dev.github.io
 CATEGORIES:TV Show,AT-X
-CREATED:20260410T091138Z
+CREATED:20260426T073448Z
 DESCRIPTION:Show: Re:Zero kara Hajimeru Isekai Seikatsu\nEpisode: A Showdo
  wn of Fire and Ice\nSeason 3\, Episode 2\nNetwork/Platform: AT-X\nRuntime:
   30 min\n\nSubaru desperately tries to fend off the attack from Sin Archbi
@@ -3830,10 +4418,10 @@ BEGIN:VEVENT
 SUMMARY:Re:Zero kara Hajimeru Isekai Seikatsu - S03E03: Gorgeous Tiger
 DTSTART;TZID=America/New_York:20241016T223000
 DTEND;TZID=America/New_York:20241016T230000
-DTSTAMP:20260410T091138Z
+DTSTAMP:20260426T073448Z
 UID:tvshow-14459-s3e3@kz-ai-dev.github.io
 CATEGORIES:TV Show,AT-X
-CREATED:20260410T091138Z
+CREATED:20260426T073448Z
 DESCRIPTION:Show: Re:Zero kara Hajimeru Isekai Seikatsu\nEpisode: Gorgeous
   Tiger\nSeason 3\, Episode 3\nNetwork/Platform: AT-X\nRuntime: 30 min\n\nA
  fter the incident in the main square\, Priestella has fallen into chaos an
@@ -3847,10 +4435,10 @@ SUMMARY:Re:Zero kara Hajimeru Isekai Seikatsu - S03E04: Operation: Take Ba
  ck the Government Office
 DTSTART;TZID=America/New_York:20241023T223000
 DTEND;TZID=America/New_York:20241023T230000
-DTSTAMP:20260410T091138Z
+DTSTAMP:20260426T073448Z
 UID:tvshow-14459-s3e4@kz-ai-dev.github.io
 CATEGORIES:TV Show,AT-X
-CREATED:20260410T091138Z
+CREATED:20260426T073448Z
 DESCRIPTION:Show: Re:Zero kara Hajimeru Isekai Seikatsu\nEpisode: Operatio
  n: Take Back the Government Office\nSeason 3\, Episode 4\nNetwork/Platform
  : AT-X\nRuntime: 30 min\n\nSubaru and his comrades find themselves in a di
@@ -3863,10 +4451,10 @@ BEGIN:VEVENT
 SUMMARY:Re:Zero kara Hajimeru Isekai Seikatsu - S03E05: A Dark Torrent
 DTSTART;TZID=America/New_York:20241030T223000
 DTEND;TZID=America/New_York:20241030T230000
-DTSTAMP:20260410T091138Z
+DTSTAMP:20260426T073448Z
 UID:tvshow-14459-s3e5@kz-ai-dev.github.io
 CATEGORIES:TV Show,AT-X
-CREATED:20260410T091138Z
+CREATED:20260426T073448Z
 DESCRIPTION:Show: Re:Zero kara Hajimeru Isekai Seikatsu\nEpisode: A Dark T
  orrent\nSeason 3\, Episode 5\nNetwork/Platform: AT-X\nRuntime: 30 min\n\nT
  he attack on the city hall enters its second phase. Subaru and Crusch brea
@@ -3880,10 +4468,10 @@ SUMMARY:Re:Zero kara Hajimeru Isekai Seikatsu - S03E06: Conditions of the
  Knight
 DTSTART;TZID=America/New_York:20241106T223000
 DTEND;TZID=America/New_York:20241106T230000
-DTSTAMP:20260410T091138Z
+DTSTAMP:20260426T073448Z
 UID:tvshow-14459-s3e6@kz-ai-dev.github.io
 CATEGORIES:TV Show,AT-X
-CREATED:20260410T091138Z
+CREATED:20260426T073448Z
 DESCRIPTION:Show: Re:Zero kara Hajimeru Isekai Seikatsu\nEpisode: Conditio
  ns of the Knight\nSeason 3\, Episode 6\nNetwork/Platform: AT-X\nRuntime: 3
  0 min\n\nBishop Regulus of the Seven Deadly Sins wants to force Emilia to 
@@ -3898,10 +4486,10 @@ SUMMARY:Re:Zero kara Hajimeru Isekai Seikatsu - S03E07: The Newest of Hero
  es and the Most Ancient of Heroes
 DTSTART;TZID=America/New_York:20241113T223000
 DTEND;TZID=America/New_York:20241113T230000
-DTSTAMP:20260410T091138Z
+DTSTAMP:20260426T073448Z
 UID:tvshow-14459-s3e7@kz-ai-dev.github.io
 CATEGORIES:TV Show,AT-X
-CREATED:20260410T091138Z
+CREATED:20260426T073448Z
 DESCRIPTION:Show: Re:Zero kara Hajimeru Isekai Seikatsu\nEpisode: The Newe
  st of Heroes and the Most Ancient of Heroes\nSeason 3\, Episode 7\nNetwork
  /Platform: AT-X\nRuntime: 30 min\n\nThrough a Witch's Cultist's conference
@@ -3916,10 +4504,10 @@ SUMMARY:Re:Zero kara Hajimeru Isekai Seikatsu - S03E08: The One I'll Love
  Someday
 DTSTART;TZID=America/New_York:20241120T223000
 DTEND;TZID=America/New_York:20241120T230000
-DTSTAMP:20260410T091138Z
+DTSTAMP:20260426T073448Z
 UID:tvshow-14459-s3e8@kz-ai-dev.github.io
 CATEGORIES:TV Show,AT-X
-CREATED:20260410T091138Z
+CREATED:20260426T073448Z
 DESCRIPTION:Show: Re:Zero kara Hajimeru Isekai Seikatsu\nEpisode: The One 
  I'll Love Someday\nSeason 3\, Episode 8\nNetwork/Platform: AT-X\nRuntime: 
  30 min\n\nSubaru and the others hold a meeting in the city hall to develop
@@ -3932,10 +4520,10 @@ BEGIN:VEVENT
 SUMMARY:Re:Zero kara Hajimeru Isekai Seikatsu - S03E09: City Scramble
 DTSTART;TZID=America/New_York:20250205T223000
 DTEND;TZID=America/New_York:20250205T230000
-DTSTAMP:20260410T091138Z
+DTSTAMP:20260426T073448Z
 UID:tvshow-14459-s3e9@kz-ai-dev.github.io
 CATEGORIES:TV Show,AT-X
-CREATED:20260410T091138Z
+CREATED:20260426T073448Z
 DESCRIPTION:Show: Re:Zero kara Hajimeru Isekai Seikatsu\nEpisode: City Scr
  amble\nSeason 3\, Episode 9\nNetwork/Platform: AT-X\nRuntime: 30 min\n\nWh
  ile the others deal with the other Archbishops\, Subaru puts his plan to s
@@ -3948,10 +4536,10 @@ SUMMARY:Re:Zero kara Hajimeru Isekai Seikatsu - S03E10: The Plan to Conque
  r Greed
 DTSTART;TZID=America/New_York:20250212T223000
 DTEND;TZID=America/New_York:20250212T230000
-DTSTAMP:20260410T091138Z
+DTSTAMP:20260426T073448Z
 UID:tvshow-14459-s3e10@kz-ai-dev.github.io
 CATEGORIES:TV Show,AT-X
-CREATED:20260410T091138Z
+CREATED:20260426T073448Z
 DESCRIPTION:Show: Re:Zero kara Hajimeru Isekai Seikatsu\nEpisode: The Plan
   to Conquer Greed\nSeason 3\, Episode 10\nNetwork/Platform: AT-X\nRuntime:
   30 min\n\nSubaru thinks long and hard about how Regulus's Authority shoul
@@ -3963,10 +4551,10 @@ BEGIN:VEVENT
 SUMMARY:Re:Zero kara Hajimeru Isekai Seikatsu - S03E11: Liliana Masquerade
 DTSTART;TZID=America/New_York:20250219T223000
 DTEND;TZID=America/New_York:20250219T230000
-DTSTAMP:20260410T091138Z
+DTSTAMP:20260426T073448Z
 UID:tvshow-14459-s3e11@kz-ai-dev.github.io
 CATEGORIES:TV Show,AT-X
-CREATED:20260410T091138Z
+CREATED:20260426T073448Z
 DESCRIPTION:Show: Re:Zero kara Hajimeru Isekai Seikatsu\nEpisode: Liliana 
  Masquerade\nSeason 3\, Episode 11\nNetwork/Platform: AT-X\nRuntime: 30 min
  \n\nLiliana gives the performance of her lifetime to help Priscilla defeat
@@ -3978,10 +4566,10 @@ BEGIN:VEVENT
 SUMMARY:Re:Zero kara Hajimeru Isekai Seikatsu - S03E12: Regulus Corneas
 DTSTART;TZID=America/New_York:20250226T223000
 DTEND;TZID=America/New_York:20250226T230000
-DTSTAMP:20260410T091138Z
+DTSTAMP:20260426T073448Z
 UID:tvshow-14459-s3e12@kz-ai-dev.github.io
 CATEGORIES:TV Show,AT-X
-CREATED:20260410T091138Z
+CREATED:20260426T073448Z
 DESCRIPTION:Show: Re:Zero kara Hajimeru Isekai Seikatsu\nEpisode: Regulus 
  Corneas\nSeason 3\, Episode 12\nNetwork/Platform: AT-X\nRuntime: 30 min\n\
  nEmilia seeks the aid of Regulus's wives in dethroning the little king onc
@@ -3994,10 +4582,10 @@ SUMMARY:Re:Zero kara Hajimeru Isekai Seikatsu - S03E13: The Warrior's Comm
  endation
 DTSTART;TZID=America/New_York:20250305T223000
 DTEND;TZID=America/New_York:20250305T230000
-DTSTAMP:20260410T091138Z
+DTSTAMP:20260426T073448Z
 UID:tvshow-14459-s3e13@kz-ai-dev.github.io
 CATEGORIES:TV Show,AT-X
-CREATED:20260410T091138Z
+CREATED:20260426T073448Z
 DESCRIPTION:Show: Re:Zero kara Hajimeru Isekai Seikatsu\nEpisode: The Warr
  ior's Commendation\nSeason 3\, Episode 13\nNetwork/Platform: AT-X\nRuntime
  : 30 min\n\nCapella uses Al's admiration for Priscilla against him\, and G
@@ -4010,10 +4598,10 @@ SUMMARY:Re:Zero kara Hajimeru Isekai Seikatsu - S03E14: Theresia van Astre
  a
 DTSTART;TZID=America/New_York:20250312T223000
 DTEND;TZID=America/New_York:20250312T230000
-DTSTAMP:20260410T091138Z
+DTSTAMP:20260426T073448Z
 UID:tvshow-14459-s3e14@kz-ai-dev.github.io
 CATEGORIES:TV Show,AT-X
-CREATED:20260410T091138Z
+CREATED:20260426T073448Z
 DESCRIPTION:Show: Re:Zero kara Hajimeru Isekai Seikatsu\nEpisode: Theresia
   van Astrea\nSeason 3\, Episode 14\nNetwork/Platform: AT-X\nRuntime: 30 mi
  n\n\nWilhelm finds himself face to face with his beloved wife who died yea
@@ -4026,10 +4614,10 @@ SUMMARY:Re:Zero kara Hajimeru Isekai Seikatsu - S03E15: A Hideous Dinner P
  arty
 DTSTART;TZID=America/New_York:20250319T223000
 DTEND;TZID=America/New_York:20250319T230000
-DTSTAMP:20260410T091138Z
+DTSTAMP:20260426T073448Z
 UID:tvshow-14459-s3e15@kz-ai-dev.github.io
 CATEGORIES:TV Show,AT-X
-CREATED:20260410T091138Z
+CREATED:20260426T073448Z
 DESCRIPTION:Show: Re:Zero kara Hajimeru Isekai Seikatsu\nEpisode: A Hideou
  s Dinner Party\nSeason 3\, Episode 15\nNetwork/Platform: AT-X\nRuntime: 30
   min\n\nWhile battling Lye Batenkaitos\, Otto discovers the secret to the 
@@ -4042,10 +4630,10 @@ SUMMARY:Re:Zero kara Hajimeru Isekai Seikatsu - S03E16: The Result of the
  Battle for Priestella
 DTSTART;TZID=America/New_York:20250326T223000
 DTEND;TZID=America/New_York:20250326T230000
-DTSTAMP:20260410T091138Z
+DTSTAMP:20260426T073448Z
 UID:tvshow-14459-s3e16@kz-ai-dev.github.io
 CATEGORIES:TV Show,AT-X
-CREATED:20260410T091138Z
+CREATED:20260426T073448Z
 DESCRIPTION:Show: Re:Zero kara Hajimeru Isekai Seikatsu\nEpisode: The Resu
  lt of the Battle for Priestella\nSeason 3\, Episode 16\nNetwork/Platform: 
  AT-X\nRuntime: 30 min\n\nOtto and Beatrice battle Gluttony\, the last of t
@@ -4058,10 +4646,10 @@ SUMMARY:Re:Zero kara Hajimeru Isekai Seikatsu - S04E01: The Reason I'm Tak
  ing You With Me / Gorgeous Tiger Reloaded
 DTSTART;TZID=America/New_York:20260408T223000
 DTEND;TZID=America/New_York:20260408T230000
-DTSTAMP:20260410T091138Z
+DTSTAMP:20260426T073448Z
 UID:tvshow-14459-s4e1@kz-ai-dev.github.io
 CATEGORIES:TV Show,AT-X
-CREATED:20260410T091138Z
+CREATED:20260426T073448Z
 DESCRIPTION:Show: Re:Zero kara Hajimeru Isekai Seikatsu\nEpisode: The Reas
  on I'm Taking You With Me / Gorgeous Tiger Reloaded\nSeason 4\, Episode 1\
  nNetwork/Platform: AT-X\nRuntime: 30 min\n\nSubaru sets out for the Pleiad
@@ -4070,39 +4658,44 @@ URL:https://www.tvmaze.com/episodes/3567889/rezero-kara-hajimeru-isekai-se
  ikatsu-4x01-the-reason-im-taking-you-with-me-gorgeous-tiger-reloaded
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Re:Zero kara Hajimeru Isekai Seikatsu - S04E02: Episode 2
+SUMMARY:Re:Zero kara Hajimeru Isekai Seikatsu - S04E02: Overcome Sand Time
 DTSTART;TZID=America/New_York:20260415T223000
 DTEND;TZID=America/New_York:20260415T230000
-DTSTAMP:20260410T091138Z
+DTSTAMP:20260426T073448Z
 UID:tvshow-14459-s4e2@kz-ai-dev.github.io
 CATEGORIES:TV Show,AT-X
-CREATED:20260410T091138Z
-DESCRIPTION:Show: Re:Zero kara Hajimeru Isekai Seikatsu\nEpisode: Episode 
- 2\nSeason 4\, Episode 2\nNetwork/Platform: AT-X\nRuntime: 30 min\n
+CREATED:20260426T073448Z
+DESCRIPTION:Show: Re:Zero kara Hajimeru Isekai Seikatsu\nEpisode: Overcome
+  Sand Time\nSeason 4\, Episode 2\nNetwork/Platform: AT-X\nRuntime: 30 min\
+ n\nSubaru and company struggle to cross the Auguria Dunes on the way to th
+ e Pleiades Watchtower.
 URL:https://www.tvmaze.com/episodes/3591220/rezero-kara-hajimeru-isekai-se
- ikatsu-4x02-episode-2
+ ikatsu-4x02-overcome-sand-time
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Re:Zero kara Hajimeru Isekai Seikatsu - S04E03: Episode 3
+SUMMARY:Re:Zero kara Hajimeru Isekai Seikatsu - S04E03: The Keeper of the 
+ Watchtower
 DTSTART;TZID=America/New_York:20260422T223000
 DTEND;TZID=America/New_York:20260422T230000
-DTSTAMP:20260410T091138Z
+DTSTAMP:20260426T073448Z
 UID:tvshow-14459-s4e3@kz-ai-dev.github.io
 CATEGORIES:TV Show,AT-X
-CREATED:20260410T091138Z
-DESCRIPTION:Show: Re:Zero kara Hajimeru Isekai Seikatsu\nEpisode: Episode 
- 3\nSeason 4\, Episode 3\nNetwork/Platform: AT-X\nRuntime: 30 min\n
+CREATED:20260426T073448Z
+DESCRIPTION:Show: Re:Zero kara Hajimeru Isekai Seikatsu\nEpisode: The Keep
+ er of the Watchtower\nSeason 4\, Episode 3\nNetwork/Platform: AT-X\nRuntim
+ e: 30 min\n\nThe party is separated just before reaching the Pleiades Watc
+ htower. Subaru awakens to find he's underground.
 URL:https://www.tvmaze.com/episodes/3591221/rezero-kara-hajimeru-isekai-se
- ikatsu-4x03-episode-3
+ ikatsu-4x03-the-keeper-of-the-watchtower
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Re:Zero kara Hajimeru Isekai Seikatsu - S04E04: Episode 4
 DTSTART;TZID=America/New_York:20260429T223000
 DTEND;TZID=America/New_York:20260429T230000
-DTSTAMP:20260410T091138Z
+DTSTAMP:20260426T073448Z
 UID:tvshow-14459-s4e4@kz-ai-dev.github.io
 CATEGORIES:TV Show,AT-X
-CREATED:20260410T091138Z
+CREATED:20260426T073448Z
 DESCRIPTION:Show: Re:Zero kara Hajimeru Isekai Seikatsu\nEpisode: Episode 
  4\nSeason 4\, Episode 4\nNetwork/Platform: AT-X\nRuntime: 30 min\n
 URL:https://www.tvmaze.com/episodes/3591222/rezero-kara-hajimeru-isekai-se
@@ -4112,10 +4705,10 @@ BEGIN:VEVENT
 SUMMARY:Re:Zero kara Hajimeru Isekai Seikatsu - S04E05: Episode 5
 DTSTART;TZID=America/New_York:20260506T223000
 DTEND;TZID=America/New_York:20260506T230000
-DTSTAMP:20260410T091138Z
+DTSTAMP:20260426T073448Z
 UID:tvshow-14459-s4e5@kz-ai-dev.github.io
 CATEGORIES:TV Show,AT-X
-CREATED:20260410T091138Z
+CREATED:20260426T073448Z
 DESCRIPTION:Show: Re:Zero kara Hajimeru Isekai Seikatsu\nEpisode: Episode 
  5\nSeason 4\, Episode 5\nNetwork/Platform: AT-X\nRuntime: 30 min\n
 URL:https://www.tvmaze.com/episodes/3591223/rezero-kara-hajimeru-isekai-se
@@ -4125,10 +4718,10 @@ BEGIN:VEVENT
 SUMMARY:Re:Zero kara Hajimeru Isekai Seikatsu - S04E06: Episode 6
 DTSTART;TZID=America/New_York:20260513T223000
 DTEND;TZID=America/New_York:20260513T230000
-DTSTAMP:20260410T091138Z
+DTSTAMP:20260426T073448Z
 UID:tvshow-14459-s4e6@kz-ai-dev.github.io
 CATEGORIES:TV Show,AT-X
-CREATED:20260410T091138Z
+CREATED:20260426T073448Z
 DESCRIPTION:Show: Re:Zero kara Hajimeru Isekai Seikatsu\nEpisode: Episode 
  6\nSeason 4\, Episode 6\nNetwork/Platform: AT-X\nRuntime: 30 min\n
 URL:https://www.tvmaze.com/episodes/3591224/rezero-kara-hajimeru-isekai-se
@@ -4138,10 +4731,10 @@ BEGIN:VEVENT
 SUMMARY:Re:Zero kara Hajimeru Isekai Seikatsu - S04E07: Episode 7
 DTSTART;TZID=America/New_York:20260520T223000
 DTEND;TZID=America/New_York:20260520T230000
-DTSTAMP:20260410T091138Z
+DTSTAMP:20260426T073448Z
 UID:tvshow-14459-s4e7@kz-ai-dev.github.io
 CATEGORIES:TV Show,AT-X
-CREATED:20260410T091138Z
+CREATED:20260426T073448Z
 DESCRIPTION:Show: Re:Zero kara Hajimeru Isekai Seikatsu\nEpisode: Episode 
  7\nSeason 4\, Episode 7\nNetwork/Platform: AT-X\nRuntime: 30 min\n
 URL:https://www.tvmaze.com/episodes/3591225/rezero-kara-hajimeru-isekai-se
@@ -4151,10 +4744,10 @@ BEGIN:VEVENT
 SUMMARY:Re:Zero kara Hajimeru Isekai Seikatsu - S04E08: Episode 8
 DTSTART;TZID=America/New_York:20260527T223000
 DTEND;TZID=America/New_York:20260527T230000
-DTSTAMP:20260410T091138Z
+DTSTAMP:20260426T073448Z
 UID:tvshow-14459-s4e8@kz-ai-dev.github.io
 CATEGORIES:TV Show,AT-X
-CREATED:20260410T091138Z
+CREATED:20260426T073448Z
 DESCRIPTION:Show: Re:Zero kara Hajimeru Isekai Seikatsu\nEpisode: Episode 
  8\nSeason 4\, Episode 8\nNetwork/Platform: AT-X\nRuntime: 30 min\n
 URL:https://www.tvmaze.com/episodes/3591226/rezero-kara-hajimeru-isekai-se
@@ -4164,10 +4757,10 @@ BEGIN:VEVENT
 SUMMARY:Re:Zero kara Hajimeru Isekai Seikatsu - S04E09: Episode 9
 DTSTART;TZID=America/New_York:20260603T223000
 DTEND;TZID=America/New_York:20260603T230000
-DTSTAMP:20260410T091138Z
+DTSTAMP:20260426T073448Z
 UID:tvshow-14459-s4e9@kz-ai-dev.github.io
 CATEGORIES:TV Show,AT-X
-CREATED:20260410T091138Z
+CREATED:20260426T073448Z
 DESCRIPTION:Show: Re:Zero kara Hajimeru Isekai Seikatsu\nEpisode: Episode 
  9\nSeason 4\, Episode 9\nNetwork/Platform: AT-X\nRuntime: 30 min\n
 URL:https://www.tvmaze.com/episodes/3591227/rezero-kara-hajimeru-isekai-se
@@ -4177,10 +4770,10 @@ BEGIN:VEVENT
 SUMMARY:Re:Zero kara Hajimeru Isekai Seikatsu - S04E10: Episode 10
 DTSTART;TZID=America/New_York:20260610T223000
 DTEND;TZID=America/New_York:20260610T230000
-DTSTAMP:20260410T091138Z
+DTSTAMP:20260426T073448Z
 UID:tvshow-14459-s4e10@kz-ai-dev.github.io
 CATEGORIES:TV Show,AT-X
-CREATED:20260410T091138Z
+CREATED:20260426T073448Z
 DESCRIPTION:Show: Re:Zero kara Hajimeru Isekai Seikatsu\nEpisode: Episode 
  10\nSeason 4\, Episode 10\nNetwork/Platform: AT-X\nRuntime: 30 min\n
 URL:https://www.tvmaze.com/episodes/3591228/rezero-kara-hajimeru-isekai-se
@@ -4190,10 +4783,10 @@ BEGIN:VEVENT
 SUMMARY:Re:Zero kara Hajimeru Isekai Seikatsu - S04E11: Episode 11
 DTSTART;TZID=America/New_York:20260617T223000
 DTEND;TZID=America/New_York:20260617T230000
-DTSTAMP:20260410T091138Z
+DTSTAMP:20260426T073448Z
 UID:tvshow-14459-s4e11@kz-ai-dev.github.io
 CATEGORIES:TV Show,AT-X
-CREATED:20260410T091138Z
+CREATED:20260426T073448Z
 DESCRIPTION:Show: Re:Zero kara Hajimeru Isekai Seikatsu\nEpisode: Episode 
  11\nSeason 4\, Episode 11\nNetwork/Platform: AT-X\nRuntime: 30 min\n
 URL:https://www.tvmaze.com/episodes/3591229/rezero-kara-hajimeru-isekai-se
